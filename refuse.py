@@ -191,7 +191,7 @@ if __name__ == "__main__":
     parser.add_argument("--ntrain", "-k", type=int, default=5)
     parser.add_argument("--data_dir", "-d", type=str, default="data")
     parser.add_argument("--save_dir", "-s", type=str, default="results")
-    parser.add_argument("--model", "-m", type=str)
+    parser.add_argument("--model", "-m", type=str, default="model\hub\LLM-Research\Llama-3___2-1B")
     args = parser.parse_args()
     main(args)
     
