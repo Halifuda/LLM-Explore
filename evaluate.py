@@ -20,6 +20,5 @@ def calculate_idk_ratio(directory):
             print(f"File: {filename}, Ratio: {total_idk_rows}/{total_rows}, Percentage: {percentage}")
 
 # Example usage
-directory = '/data/data_public/dtw_data/LLM-Explore/prompt-refuse-results/results_Llama-3___2-1B'
+directory = '/data/data_public/dtw_data/LLM-Explore/results/results_Llama-3___2-1B'
 calculate_idk_ratio(directory)
-# ...existing code...

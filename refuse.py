@@ -11,7 +11,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from categories import categories, subcategories
 
-refuse_prompt="If you do not know the answer, please return 'I Don't Know'.\n"
+refuse_prompt="If you think it is difficult to predict, please return 'I Don't Know' instead of A, B, C, and D.\n\n"
 
 choices = ["A", "B", "C", "D"]
 
@@ -190,7 +190,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--ntrain", "-k", type=int, default=5)
     parser.add_argument("--data_dir", "-d", type=str, default="data")
-    parser.add_argument("--save_dir", "-s", type=str, default="results")
+    parser.add_argument("--save_dir", "-s", type=str, default="refuse-results")
     parser.add_argument("--model", "-m", type=str, default="model\hub\LLM-Research\Llama-3___2-1B")
     args = parser.parse_args()
     main(args)
