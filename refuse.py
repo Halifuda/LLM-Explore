@@ -11,7 +11,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from categories import categories, subcategories
 
-refuse_prompt="If you think it is difficult to predict, please return 'I Don't Know' instead of A, B, C, and D.\n\n"
+refuse_prompt="Please say 'I Don't Know', if you don't know\n\n"
 
 choices = ["A", "B", "C", "D"]
 
