@@ -125,7 +125,7 @@ if __name__ == "__main__":
     with open(f"../../R-Tuning-data/MMLU/MMLU_{args.domain}_test.json",'r') as f:
         data = json.load(f)
     
-    with open(f"../../R-Tuning-data/MMLU/MMLU_{args.domain}_prompt",'r') as f:
+    with open(f"../../R-Tuning-data/MMLU/MMLU_{args.domain}_prompt.json",'r') as f:
         prompt = json.load(f)
         
     for i in tqdm(data.keys()):  
