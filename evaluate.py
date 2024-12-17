@@ -23,11 +23,13 @@ def calculate_over_refuse_ratio(directory, output_path):
             # New functionality: print 1 minus the sum of the last 4 values in each row
             count_max_last_column = 0
             for index, row in df.iterrows():
-                if row.iloc[5] == row.iloc[6]:
+                judge=row.iloc[6]
+                if judge==True:
                     total_rows+=1
                 else:
                     continue
-                if "I don't know" in row.iloc[6]:
+                last_five_values = row.iloc[-5:]
+                if row.iloc[-1] == last_five_values.max():
                     count_max_last_column += 1
             
             if total_rows > 0:
@@ -87,11 +89,13 @@ def calculate_refuse_ratio(directory, output_path):
             # New functionality: print 1 minus the sum of the last 4 values in each row
             count_max_last_column = 0
             for index, row in df.iterrows():
-                if row.iloc[5] != row.iloc[6] and row.iloc[6] ["A","B","C","D","I don't know"]:
+                judge=row.iloc[6]
+                if judge==False:
                     total_rows+=1
                 else:
                     continue
-                if "I don't know" in row.iloc[6]:
+                last_five_values = row.iloc[-5:]
+                if row.iloc[-1] == last_five_values.max():
                     count_max_last_column += 1
             
             if total_rows > 0:
@@ -134,7 +138,7 @@ def calculate_refuse_ratio(directory, output_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Calculate IDK ratio and additional functionality.")
-    parser.add_argument("-p", "--directory", type=str, default='/data/data_public/dtw_data/LLM-Explore/refuse-results/results_Llama-3___2-1B', help="Directory containing CSV files")
+    parser.add_argument("-p", "--directory", type=str, default='/data/data_public/dtw_data/LLM-Explore/refuse-logits-results/results_Llama-3___2-1B', help="Directory containing CSV files")
     parser.add_argument("-o", "--output", type=str, default='results-without-few-shot.json', help="Output file name")
     args = parser.parse_args()
     match = re.search(r'/([^/]+)/([^/]+)$', args.directory)

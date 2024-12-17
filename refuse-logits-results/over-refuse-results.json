@@ -1,0 +1,252 @@
+{
+    "average_percentage": 0.0,
+    "subcategory_percentages": {
+        "math": 0.0,
+        "health": 0.0,
+        "physics": 0.0,
+        "business": 0.0,
+        "biology": 0.0,
+        "chemistry": 0.0,
+        "computer science": 0.0,
+        "economics": 0.0,
+        "engineering": 0.0,
+        "philosophy": 0.0,
+        "other": 0.0,
+        "history": 0.0,
+        "geography": 0.0,
+        "politics": 0.0,
+        "psychology": 0.0,
+        "culture": 0.0,
+        "law": 0.0
+    },
+    "results": [
+        {
+            "filename": "us_foreign_policy.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "virology.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "jurisprudence.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "formal_logic.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_us_history.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "moral_disputes.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "astronomy.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "sociology.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "business_ethics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_psychology.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_european_history.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "anatomy.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "philosophy.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_statistics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "human_aging.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "clinical_knowledge.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "elementary_mathematics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_microeconomics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "college_mathematics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "miscellaneous.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "medical_genetics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "abstract_algebra.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_world_history.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_computer_science.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "public_relations.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "moral_scenarios.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "conceptual_physics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "human_sexuality.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_mathematics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_macroeconomics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "college_medicine.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "nutrition.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "college_computer_science.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_geography.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "machine_learning.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_government_and_politics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "professional_medicine.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_chemistry.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "professional_psychology.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "logical_fallacies.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "professional_law.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "world_religions.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "computer_security.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "electrical_engineering.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "marketing.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_physics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "international_law.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "prehistory.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "professional_accounting.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "security_studies.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "econometrics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "high_school_biology.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "global_facts.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "college_biology.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "management.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "college_physics.csv",
+            "max_last_column_ratio": 0.0
+        },
+        {
+            "filename": "college_chemistry.csv",
+            "max_last_column_ratio": 0.0
+        }
+    ]
+}

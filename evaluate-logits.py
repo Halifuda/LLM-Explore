@@ -138,8 +138,8 @@ def calculate_refuse_ratio(directory, output_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Calculate IDK ratio and additional functionality.")
-    parser.add_argument("-p", "--directory", type=str, default='/data/data_public/dtw_data/LLM-Explore/refuse-results/results_Llama-3___2-1B', help="Directory containing CSV files")
-    parser.add_argument("-o", "--output", type=str, default='results-without-few-shot.json', help="Output file name")
+    parser.add_argument("-p", "--directory", type=str, default='/data/data_public/dtw_data/LLM-Explore/refuse-logits-results/results_Llama-3___2-1B', help="Directory containing CSV files")
+    parser.add_argument("-o", "--output", type=str, default='results.json', help="Output file name")
     args = parser.parse_args()
     match = re.search(r'/([^/]+)/([^/]+)$', args.directory)
     

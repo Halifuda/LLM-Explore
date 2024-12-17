@@ -1,0 +1,23 @@
+{
+    "average_percentage": 0,
+    "subcategory_percentages": {
+        "math": 0,
+        "health": 0,
+        "physics": 0,
+        "business": 0,
+        "biology": 0,
+        "chemistry": 0,
+        "computer science": 0,
+        "economics": 0,
+        "engineering": 0,
+        "philosophy": 0,
+        "other": 0,
+        "history": 0,
+        "geography": 0,
+        "politics": 0,
+        "psychology": 0,
+        "culture": 0,
+        "law": 0
+    },
+    "results": []
+}
