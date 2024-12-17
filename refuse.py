@@ -7,13 +7,14 @@ import time
 import numpy as np
 import pandas as pd
 import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+import ollama
 
 from categories import categories, subcategories
 
-refuse_prompt="Please say 'I Don't Know', if you don't know\n\n"
+refuse_prompt="Please say 'I don't know', if you don't know\n\n"
 
-choices = ["A", "B", "C", "D"]
+choices = ["A", "B", "C", "D", "I don't know"]
 
 
 def format_subject(subject):
@@ -29,7 +30,8 @@ def format_example(df, idx, include_answer=True):
     k = df.shape[1] - 2
     for j in range(k):
         prompt += "\n{}. {}".format(choices[j], df.iloc[idx, j + 1])
-    prompt += "\nAnswer: I don't Know."
+    if include_answer:
+        prompt += " {}\n\n".format(df.iloc[idx, k + 1])
     return prompt
 
 
@@ -41,13 +43,14 @@ def gen_prompt(train_df, subject, k=-1):
         k = train_df.shape[0]
     for i in range(k):
         prompt += format_example(train_df, i)
+    # print(prompt)
     return prompt
 
 
 @torch.no_grad()
 def eval(args, subject, model, tokenizer, dev_df, test_df):
     cors = []
-    all_probs = []
+    corrects = []
     answers = choices[: test_df.shape[1] - 2]
 
     for i in range(test_df.shape[0]):
@@ -55,51 +58,27 @@ def eval(args, subject, model, tokenizer, dev_df, test_df):
         k = args.ntrain
         prompt_end = format_example(test_df, i, include_answer=False)
         train_prompt = gen_prompt(dev_df, subject, k)
-        prompt = train_prompt + prompt_end
-
-        input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(model.device)
-
-        while input_ids.shape[-1] > 2048:
-            k -= 1
-            train_prompt = gen_prompt(dev_df, subject, k)
-            prompt = train_prompt + prompt_end
-            input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(
-                model.device
-            )
+        prompt = "\nPlease only return \"A\" or \"B\" or \"C\" or \"D\" or \"I don't know\" without any additional information.\n\n" + train_prompt + prompt_end
+        prompt += "\nPlease only return \"A\" or \"B\" or \"C\" or \"D\" or \"I don't know\" without any additional information.\n\n"
 
         label = test_df.iloc[i, test_df.shape[1] - 1]
 
-        logits = model(input_ids=input_ids).logits[0, -1]
+        res=ollama.chat(model="llama3.2:1b",stream=False,messages=[{"role":"user","content":prompt}])
+        pred=res["message"]["content"]
+        print(pred)
 
-        probs = (
-            torch.nn.functional.softmax(
-                torch.tensor(
-                    [
-                        logits[tokenizer("A").input_ids[-1]],
-                        logits[tokenizer("B").input_ids[-1]],
-                        logits[tokenizer("C").input_ids[-1]],
-                        logits[tokenizer("D").input_ids[-1]],
-                    ]
-                ).float(),
-                dim=0,
-            )
-            .detach()
-            .cpu()
-            .numpy()
-        )
-        pred = {0: "A", 1: "B", 2: "C", 3: "D"}[np.argmax(probs)]
+        correct = pred == label
+        corrects.append(correct)
 
-        cor = pred == label
+        cor = pred
         cors.append(cor)
-        all_probs.append(probs)
 
-    acc = np.mean(cors)
+    acc = np.mean(corrects)
     cors = np.array(cors)
 
-    all_probs = np.array(all_probs)
     print("Average accuracy {:.3f} - {}".format(acc, subject))
 
-    return cors, acc, all_probs
+    return cors, acc
 
 
 def main(args):
@@ -141,7 +120,7 @@ def main(args):
             os.path.join(args.data_dir, "test", subject + "_test.csv"), header=None
         )
 
-        cors, acc, probs = eval(args, subject, model, tokenizer, dev_df, test_df)
+        cors, acc = eval(args, subject, model, tokenizer, dev_df, test_df)
         subcats = subcategories[subject]
         for subcat in subcats:
             subcat_cors[subcat].append(cors)
@@ -151,9 +130,6 @@ def main(args):
         all_cors.append(cors)
 
         test_df["{}_correct".format(args.model)] = cors
-        for j in range(probs.shape[1]):
-            choice = choices[j]
-            test_df["{}_choice{}_probs".format(args.model, choice)] = probs[:, j]
         test_df.to_csv(
             os.path.join(
                 args.save_dir, "results_{}".format(args.model.split("/")[-1]), "{}.csv".format(subject)
@@ -189,7 +165,7 @@ if __name__ == "__main__":
     parser.add_argument("--ntrain", "-k", type=int, default=5)
     parser.add_argument("--data_dir", "-d", type=str, default="data")
     parser.add_argument("--save_dir", "-s", type=str, default="refuse-results")
-    parser.add_argument("--model", "-m", type=str, default="model\hub\LLM-Research\Llama-3___2-1B")
+    parser.add_argument("--model", "-m", type=str, default="model/hub/LLM-Research/Llama-3___2-1B")
     args = parser.parse_args()
     main(args)
     

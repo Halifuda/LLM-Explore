@@ -3,3 +3,4 @@ pandas==2.2.3
 torch==2.5.1+cu121
 transformers==4.46.3
 tokenizers==0.20.1
+ollama

@@ -1,136 +1,856 @@
-0,1,2,3,4,5,/data/data_public/dtw_data/modelscop_hub/hub/LLM-Research/Llama-3___2-1B_correct,/data/data_public/dtw_data/modelscop_hub/hub/LLM-Research/Llama-3___2-1B_choiceA_probs,/data/data_public/dtw_data/modelscop_hub/hub/LLM-Research/Llama-3___2-1B_choiceB_probs,/data/data_public/dtw_data/modelscop_hub/hub/LLM-Research/Llama-3___2-1B_choiceC_probs,/data/data_public/dtw_data/modelscop_hub/hub/LLM-Research/Llama-3___2-1B_choiceD_probs
-A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral,paralysis of the facial muscles.,paralysis of the facial muscles and loss of taste.,"paralysis of the facial muscles, loss of taste and lacrimation.","paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",A,True,0.8111266,0.067103535,0.088551156,0.033218656
-"A ""dished face"" profile is often associated with",a protruding mandible due to reactivation of the condylar cartilage by acromegaly.,a recessive maxilla due to failure of elongation of the cranial base.,an enlarged frontal bone due to hydrocephaly.,defective development of the maxillary air sinus.,B,False,0.8463825,0.04468175,0.08170219,0.027233502
-Which of the following best describes the structure that collects urine in the body?,Bladder,Kidney,Ureter,Urethra,A,True,0.697416,0.07971333,0.16500501,0.05786567
-Which of the following structures is derived from ectomesenchyme?,Motor neurons,Skeletal muscles,Melanocytes,Sweat glands,C,False,0.67661166,0.092017636,0.1694117,0.061958976
-Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?,Afferent arteriole,Glomerulus,Loop of Henle,Renal pelvis,B,False,0.72282964,0.07814485,0.14344993,0.05557558
-A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.,They will be unable to breathe without life support.,They will only be able to breathe quietly.,It is impossible to predict an effect on breathing.,Breathing will be unaffected.,B,False,0.8229708,0.05149251,0.09526579,0.030270884
-Which of the following anatomical regions of abdomen lies just distal to the sternum?,Epigastric,Hypochondriac,Hypogastric,Lumbar,A,True,0.6843525,0.08213432,0.17235681,0.061156377
-Which of the following best describes the human body's defense mechanism against environmental bacteria?,Hair in the nose,Mucous membranes,Osteoblasts,Saliva,B,False,0.684531,0.09237018,0.16322672,0.05987209
-The palatine processes begin to fuse at,six weeks post-fertilization.,eight weeks post-fertilization.,ten weeks post-fertilization.,twelve weeks post-fertilization.,C,False,0.71140426,0.075643376,0.16060688,0.052345496
-Primary motor cortex activity results in,bilateral contraction of antigravity limb muscles.,bilateral contraction of limb musculature.,contraction of ipsilateral limb musculature.,contraction of contralateral limb musculature.,D,False,0.6460707,0.08950965,0.19665597,0.067763664
-You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the,hard palate.,hard palate and upper lip.,"hard palate, upper lip and upper central incisor.","hard palate, upper lip, upper central incisor and lower first molar.",D,False,0.6322546,0.09251929,0.21013069,0.06509545
-A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?,Pupillary constriction and a medial strabismus,Pupillary dilatation and a medial strabismus,Pupillary constriction and a lateral strabismus,Pupillary dilatation and a lateral strabismus,D,False,0.8166317,0.05589906,0.09602064,0.031448532
-Which of the following statements is true of the temporomandibular joint?,It has an articular disc of hyaline cartilage,Its articular surfaces are covered by hyaline cartilage,Proprioceptive information is carried by the chorda tympani and deep temporal nerves,Proprioceptive information is carried by the masseteric and auriculotemporal nerves.,D,False,0.6630606,0.09070465,0.1888602,0.057374544
-Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because,cricothyroid muscle is still functional but the interarytenoid muscles are fully active.,cricothyroid muscle is still functional but the interarytenoids are weak.,cricothyroid muscle is paralyzed but the interarytenoids are fully active.,cricothyroid muscle is paralyzed but the interarytenoids are weak.,B,False,0.6510484,0.07929026,0.21511272,0.05454859
-Which one of the following statements about the growth of the mandible is correct?,The mental symphysis closes at about 1 year postnatally,The condylar growth cartilage ceases activity at puberty,The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage,The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle,A,True,0.6587243,0.09771958,0.1839961,0.05956003
-Which of the following statements is true of the pupillary light reflex?,Its efferent limb is carried in the optic nerve,It is mediated by the inferior colliculi in the midbrain,It is a consensual reflex,Its afferent limb is carried in the oculomotor nerve,C,False,0.6548095,0.08489164,0.19776484,0.062534064
-Which muscles are normally active during quiet inspiration?,External and internal intercostal muscles,External intercostal muscles and diaphragm,Internal intercostal muscles and diaphragm,External and internal intercostal muscles and diaphragm,B,False,0.6608547,0.09309059,0.18676706,0.059287656
-Male hormones are produced by which of the following?,Glans penis,Prepuce,Prostate,Testes,D,False,0.6141811,0.09539109,0.22550374,0.06492414
-Oxygenated blood is carried to the heart by which of the following structures?,Aorta,Carotid arteries,Inferior vena cava,Pulmonary veins,D,False,0.65934455,0.08366269,0.19835818,0.058634564
-Which of the following allows air to pass into the lungs?,Aorta,Esophagus,Trachea,Pancreas,C,False,0.70911807,0.08010658,0.15699431,0.053781014
-Where is the sinoatrial node located?,Between the left atrium and the left ventricle,Between the right atrium and the right ventricle,In the upper wall of the right atrium,In the upper wall of the left ventricle,C,False,0.6812067,0.0877979,0.1763205,0.054674905
-"In relation to the rib, the corresponding intercostal nerve lies",deep to its superior border.,superficial to its superior border.,deep to its inferior border.,superficial to its inferior border.,C,False,0.7433302,0.06907299,0.14131397,0.046282925
-The regional lymphatic drainage of the left side of the tip of the tongue is to the,left submental lymph node.,left and right submental lymph nodes.,left submandibular lymph node.,left and right submandibular lymph nodes.,B,False,0.70020825,0.08552757,0.16437642,0.049887788
-Gastrulation is the process of,mesoderm formation and occurs after neurulation.,ectomesenchyme formation and occurs before neurulation.,mesoderm formation and occurs before neurulation.,ectomesenchyme formation and occurs after neurulation.,B,False,0.61962134,0.090052925,0.21581489,0.07451083
-The spheno-occipital synchondrosis,is a secondary growth cartilage.,influences the position of the viscerocranium.,ceases activity at 7 years of age.,can be reactivated in patients affected by acromegaly.,B,False,0.7123138,0.08540671,0.15284984,0.049429618
-Which of the following substances is found in greater quantity in exhaled air?,Carbon dioxide,Carbon monoxide,Nitrogen,Oxygen,C,False,0.70047367,0.08398708,0.16220585,0.05333333
-Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?,Glomerulonephritis,Interstitial nephritis,Nephrolithiasis,Polycystic kidney,C,False,0.68483704,0.091602825,0.17080268,0.05275742
-A pulse may be felt on a patient's face where the,facial artery crosses the mandible.,facial artery crosses the maxilla.,superficial temporal artery crosses the maxilla.,superficial temporal artery crosses the orbital rim.,A,True,0.8354319,0.04949031,0.08618227,0.028895648
-A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?,Appendix,Gallbladder,Spleen,Urinary bladder,C,False,0.84109914,0.04466377,0.08625998,0.027977182
-Which statement concerning the atrioventricular bundle is correct?,It is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles.,It is formed of Purkinje fibres and is the only electrical connection between the atria and the ventricles,It is formed of autonomic nerve processes and forms one of several electrical connections between the atria and ventricles.,It is formed of Purkinje fibres and forms one of several electrical connections between the atria and ventricles.,B,False,0.67411906,0.090169206,0.18037668,0.055335063
-Which of the following terms describes the motion of bending the forearm toward the body?,Abduction,Eversion,Flexion,Pronation,C,False,0.715438,0.08478193,0.1462042,0.053575832
-Food is prevented from entering the larynx during the pharyngeal phase of swallowing by,constriction of the laryngeal entrance.,upward movement of the epiglottis.,downward movement of the larynx.,increase in respiratory rate.,A,True,0.69748855,0.078027114,0.17738907,0.04709532
-At which of the following locations does bile enter the digestive tract?,Gastroesophageal sphincter,Duodenum,Ileocecum,Jejunum,B,False,0.687699,0.092979096,0.17018174,0.049140297
-In which of the following positions does a patient lie face down?,Dorsal,Erect,Lateral,Prone,B,False,0.7528127,0.060422134,0.1400747,0.046690606
-Complete bilateral cleft palate is due to failure of fusion of the,palatine processes.,palatine and frontonasal processes.,"palatine, frontonasal and secondary nasal processes.","palatine, frontonasal, secondary nasal processes and mandibular processes.",C,False,0.599251,0.096402496,0.24164686,0.062699676
-The auditory tube,connects the inner ear and nasopharynx.,is derived from the second pharyngeal pouch.,is opened by the action of levator veli palatini.,is closed by the action of tensor veli palatini.,C,False,0.7138168,0.08063738,0.1552809,0.05026485
-Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?,Appendix,Gallbladder,Pancreas,Spleen,D,False,0.6688909,0.09626881,0.17483175,0.06000861
-Which of the following cavities are separated by the diaphragm?,Abdominal and pelvic,Cranial and spinal,Thoracic and abdominal,Pericardial and pleural,C,False,0.66158867,0.08849316,0.18844093,0.061477266
-The walls of bronchioles contain,"cartilage, smooth muscle and respiratory epithelium.",cartilage and smooth muscle.,cartilage and respiratory epithelium.,smooth muscle and respiratory epithelium.,D,False,0.70223844,0.07825221,0.16614597,0.05336337
-"Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?",Gallbladder,Kidney,Liver,Spleen,C,False,0.6694382,0.1039733,0.16728853,0.05930008
-Which of the following conditions is characterized by incompetence of the esophageal sphincter?,Crohn's disease,Esophageal varices,Gastroesophageal reflux disease,Pyloric stenosis,C,False,0.70800877,0.0867341,0.15192606,0.053331066
-The muscles of the soft palate are innervated by branches of the,trigeminal and glossopharyngeal nerves.,facial and glossopharyngeal nerves.,trigeminal and vagus nerves.,facial and vagus nerves.,C,False,0.68617505,0.08471866,0.17349222,0.055614136
-Which of the following is the large bone found superior to the patella and inferior to the ischium?,Calcaneus,Femur,Symphysis pubis,Tibia,B,False,0.69749457,0.08824454,0.15901192,0.055248994
-A successful inferior alveolar nerve block will produce anaesthesia of the,lower lip.,lower lip and mandibular teeth.,"lower lip, mandibular teeth and labial gingivae of the anterior mandibular teeth.","lower lip, mandibular teeth and labial gingivae of the anterior and buccal gingivae of the posterior mandibular teeth.",C,False,0.8151824,0.055473857,0.09755,0.0317938
-The mucosa of the upper larynx is innervated by the,internal laryngeal nerve which is the afferent limb of the cough reflex.,external laryngeal nerve which is the afferent limb of the gag reflex.,internal laryngeal nerve which is the afferent limb of the gag reflex.,external laryngeal nerve which is the afferent limb of the cough reflex.,A,True,0.6756596,0.08045996,0.18946512,0.05441536
-The bones of the viscerocranium develop initially by,endochondral ossification and follow the somatic growth pattern.,endochondral ossification and follow the neural growth pattern.,intramembranous ossification and follow the somatic growth pattern.,intramembranous ossification and follow the neural growth pattern.,C,False,0.6824384,0.08095037,0.17424072,0.062370606
-The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?,Heel,Lower leg,Toes,Thigh,B,False,0.73223215,0.07047636,0.14731629,0.04997522
-Which cells in the blood do not have a nucleus?,Lymphocyte,Monocyte,Erythrocyte,Basophil,C,False,0.71334374,0.089634895,0.14212148,0.05489983
-The coronal suture joins the,frontal and parietal bones.,left and right parietal bones.,parietal and occipital bones.,"parietal, squamous temporal and greater wing of the sphenoid.",A,True,0.7074237,0.07937074,0.1603333,0.052872308
-"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the","hyoid bone, cricoid cartilage, thyroid cartilage.","thyroid cartilage, cricoid cartilage, hyoid bone.","hyoid bone, thyroid cartilage, cricoid cartilage.","thyroid cartilage, hyoid bone, cricoids cartilage.",C,False,0.73146284,0.06883863,0.14918733,0.050511185
-Which of the following bony structures may be palpated in a live patient?,The supraorbital foramen,The infraorbital foramen,The mental foramen,All of the above,D,False,0.674439,0.110746145,0.15863653,0.056178253
-Which of the following structures accompany the oesophagus through the diaphragm?,The phrenic nerves,The splanchnic nerves,The sympathetic trunks,The vagus nerves,D,False,0.6787118,0.08781872,0.17328924,0.060180295
-Which sequence describes the systemic circulation?,Left ventricle → aorta → arteries → veins → capillaries,Left ventricle → aorta → arteries →capillaries → veins,Right ventricle → pulmonary trunk → arteries → capillaries →veins,Right ventricle → pulmonary trunk → arteries → veins → capillaries,B,False,0.6565036,0.088501714,0.1903086,0.06468604
-The anatomic location of the spinal canal is,caudal,dorsal,frontal,transverse,B,False,0.7066869,0.07332948,0.16508923,0.054894432
-The parotid duct runs,deep to masseter and enters the mouth opposite the upper second molar.,superficial to masseter and enters the mouth opposite the upper second molar.,deep to masseter and enters the mouth opposite the upper second premolar.,superficial to masseter and enters the mouth opposite the upper second premolar.,B,False,0.7029281,0.080815494,0.16341129,0.05284505
-"If the foot is abducted, it is moved in which direction?",Inward,Outward,Upward,Downward,D,False,0.7639667,0.057714954,0.13018975,0.048128556
-The infraorbital nerve,is a terminal branch of the maxillary division of the trigeminal nerve.,is a terminal branch of the maxillary branch of the facial nerve.,carries parasympathetic secretomotor neurons to the lacrimal gland.,innervates the inferior part of the orbicularis oculi muscle.,A,True,0.6955029,0.088250734,0.15948963,0.056756813
-Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?,Absorption,Emulsion,Peristalsis,Regurgitation,C,False,0.71061873,0.07833997,0.15428357,0.056757756
-Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?,Dendrite,Glial cell,Nerve center,Synapse,D,False,0.71459234,0.07893204,0.14660294,0.059872665
-Which of the following muscles initiates elevation of the mandible?,Masseter,Temporalis,Lateral pterygoid,Medial pterygoid.,D,False,0.6923823,0.08623968,0.16222209,0.059155956
-Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?,Adrenal gland,Gallbladder,Liver,Pancreas,D,False,0.68610114,0.09249169,0.16585322,0.05555387
-A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience,loss of taste over the anterior two-thirds of the tongue.,loss of somaesthetic sensation over the anterior two thirds of the tongue.,loss of taste and somaesthetic sensation over the posterior third of the tongue.,paralysis of the muscles of the tongue.,C,False,0.79156256,0.06510244,0.1067087,0.036626305
-A possible effect of damage to the third cranial nerve by trauma to the orbit is,a convergent strabismus.,ptosis.,pupillary contriction.,bitemporal hemianopia.,B,False,0.8051909,0.06263777,0.09616634,0.03600499
-Blood flows from the right ventricle of the heart into which of the following structures?,Inferior vena cava,Left ventricle,Pulmonary arteries,Pulmonary veins,C,False,0.67022914,0.08438199,0.19015776,0.055231083
-A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to,extend their neck against resistance.,extend their neck without impairment.,lift their shoulders against resistance.,lift their shoulders without impairment.,C,False,0.74839,0.06400364,0.15027328,0.03733299
-Which of the following muscles are derived from the first brachial arch?,The muscles of mastication,The muscles of mastication and anterior belly of digastric,The muscles of mastication and anterior and posterior bellies of digastric,"The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid",B,False,0.6560624,0.0973247,0.1850509,0.061562017
-Which of the following best describes the location where the carotid pulse can be found?,In front of the ears and just above eye level,In the antecubital space,In the middle of the groin,On the anterior side of the neck,D,False,0.66647094,0.08958256,0.18291613,0.061030366
-"In the brain stem, pathways for:",nociception decussate in the medial lemniscus,skilled movements decussate in the medial lemniscus,skilled motor movements decussate in the pyramids.,discriminative touch decussate in the pyramids.,C,False,0.6676217,0.07973604,0.1879439,0.06469845
-The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the,thyroid cartilage.,cricothyroid membrane.,cricoid cartilage.,tracheal rings.,D,False,0.7232105,0.0726642,0.15428144,0.049843874
-You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?,The incisive nerve,The mental nerve,The buccal nerve,The lingual nerve,B,False,0.7255104,0.0788956,0.14314078,0.05245325
-The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in,the capsule and ligaments of the TMJ and the medial pterygoid muscle.,the capsule and ligaments of the TMJ and the lateral pterygoid muscle.,the articular disc of the TMJ and the medial pterygoid muscle.,the articular disc of the TMJ and the lateral pterygoid muscle.,B,False,0.6626391,0.091001764,0.1880043,0.05835488
-Which of the following is a substance that aids the transmission of nerve impulses to the muscles?,Acetylcholine,Cholecystokinin,Deoxyribose,Oxytocin,A,True,0.6911003,0.08855266,0.15972303,0.060624022
-"In the spinal cord, motor neuron cell bodies are located in",Lamina I.,Lamina II.,Lamina V.,Lamina IX,D,False,0.6853775,0.073663026,0.17844254,0.062517
-"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the",anterior fragment to be displaced downwards by the action of the digastric muscle.,posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.,anterior fragment to be displaced backwards by action of the temporalis muscle.,posterior fragment to be displaced medially by action of the medial pterygoid muscle.,A,True,0.7597681,0.063409574,0.13177028,0.045052025
-Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the,oculomotor nerve.,trochlear nerve.,ophthalmic trigeminal nerve.,abducens nerve.,D,False,0.73879975,0.0689207,0.14350288,0.048776735
-"A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?",spastic paralysis,flaccid paralysis,atrophy,contracture,C,False,0.8414296,0.054212682,0.0745354,0.029822363
-A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit,spastic paralysis.,flaccid paralysis.,tremor.,hyporeflexia.,A,True,0.82239634,0.05055996,0.093723364,0.03332033
-The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the,right lung because the right main bronchus is wider and more vertical than the left.,left lung because the left main bronchus is wider and more vertical than the right.,right lung or left lung because the two main bronchi are of equal size and at the same angulation.,right or left lung because there are no factors predisposing to the fragment going in one particular direction.,A,True,0.751027,0.06744318,0.13703957,0.044490233
-"Calcium, potassium, and sodium are classified as which of the following?",Androgens,Catecholamines,Electrolytes,Estrogens,C,False,0.67942137,0.085372396,0.17932686,0.055879332
-Noradrenaline is the neurotransmitter between which of the two structures below?,parasympathetic pre- and post-ganglionic neurons,sympathetic pre- and post-ganglionic neurons,parasympathetic post-ganglionic neurons and target organs,sympathetic post-ganglionic neurons and target organs,D,False,0.54967344,0.11080389,0.26476842,0.07475433
-Which of the following are mucus-producing glands located on each side of the vaginal opening?,Adrenal,Bartholin's,Bulbourethral,Corpus luteum,B,False,0.65983284,0.090616375,0.19052796,0.059022814
-"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately",superior to the thyroid cartilage.,inferior to the thyroid cartilage.,inferior to the cricoid cartilage.,superior to the thyroid isthmus.,B,False,0.7385452,0.0650395,0.15240741,0.044007927
-Cerebrospinal fluid circulates around the brain between the,skull and dura mater.,dura mater and arachnoid mater.,arachnoid and pia maters.,pia mater and brain surface.,C,False,0.5736775,0.08518632,0.27795464,0.06318157
-Which of the following closes and seals off the lower airway during swallowing?,Alveoli,Epiglottis,Larynx,Uvula,B,False,0.68347985,0.08155035,0.17518963,0.059780154
-Which orbital wall is most likely to collapse in a 'blow out' fracture?,The roof,The floor,The lateral wall,The medial wall,B,False,0.7226421,0.07476572,0.15029524,0.05229692
-The walls of the maxillary sinus are sinus is related to,the floor of the orbit.,the floor of the orbit and the upper posterior teeth.,"the floor of the orbit, the upper posterior teeth and the infratemporal fossa.","the floor of the orbit, the upper posterior teeth, the infratemporal fossa and the hard palate.",C,False,0.6908326,0.083725706,0.17196183,0.05347979
-Which of one of the following statements about the postnatal growth of the maxilla is correct?,Pneumatisation by enlargement of the developing maxillary sinus ceases at puberty,Space is created for the eruption of the permanent molars by resorption of the maxillary tuberosity,The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla,The intermaxillary suture closes about eight years postnatally,C,False,0.68132865,0.08937087,0.17260364,0.05669674
-The seventh cranial nerve supplies,taste buds on the posterior third of the tongue.,muscles of the soft palate.,muscles of the lower lip.,the parotid salivary gland.,C,False,0.70295036,0.07592153,0.16729176,0.053836428
-Which of the following paranasal sinuses open into the middle meatus?,The anterior ethmoidal sinuses,The anterior ethmoidal and frontal sinuses,"The anterior ethmoidal, frontal and maxillary sinuses","The anterior ethmoidal, frontal, maxillary and sphenoidal sinuses",C,False,0.6537136,0.090391815,0.19437294,0.061521582
-"Which of the following is a structural, fibrous protein found in the dermis?",Collagen,Heparin,Lipocyte,Melanin,A,True,0.688386,0.08726243,0.16673088,0.05762065
-Palatine shelf elevation is due to the effect of,descent of the tongue.,changes in flexure of the developing brain.,hydrophilic molecules increasing turgor pressure in the palatine shelves.,a combination of these three processes.,D,False,0.61301285,0.104976594,0.21560845,0.06640216
-On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?,The palatal surfaces of the upper molars and lingual surfaces of the lower incisors.,The buccal surfaces of the upper molars and lingual surfaces of the lower incisors.,The palatal surfaces of the upper molars and labial surfaces of the lower incisors.,The buccal surfaces of the upper molars and labial surfaces of the lower incisors.,B,False,0.721008,0.07279749,0.14619584,0.059998654
-Laryngeal oedema is usually confined to the larynx above the vocal folds because,there are numerous mucous glands in the vestibular folds.,the mucosa covering the vocal folds is tightly attached to underlying tissues.,fluid will drain rapidly into the thorax below the vocal folds.,the mucosa above the vocal folds is more vascular than that below the vocal folds.,B,False,0.6468064,0.0851746,0.21329412,0.05472499
-The coronary arteries,arise from the arch of the aorta and fill during diastole.,arise from the ascending aorta and fill during systole.,arise from the arch of the aorta and fill during systole.,arise from the ascending aorta and fill during diastole.,D,False,0.7004425,0.07935869,0.16865988,0.051538922
-Which muscle is the most active during a right lateral excursion of the mandible?,Left lateral pterygoid muscle,Right lateral pterygoid muscle,Left medial pterygoid muscle,Right medial pterygoid muscle,A,True,0.6747755,0.0985488,0.16731007,0.059365664
-The phrenic nerves innervate the,diaphragm.,diaphragm and parietal pleura.,"diaphragm, parietal pleura and pericardium.","diaphragm, parietal pleura, pericardium and intercostals muscles.",C,False,0.6955109,0.0805899,0.1701097,0.0537894
-Parasympathetic preganglionic nerves leave the central nervous system with the,third cranial nerves.,fourth cranial nerves.,fifth cranial nerves.,sixth cranial nerves.,A,True,0.6766032,0.07832251,0.18715343,0.057920836
-"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",light pink in colour on both sides of the mucogingigival junction.,light pink below the mucogingival junction and red above it.,red below the mucogingival junction and light pink above it.,red on both sides of the mucogingival junction.,C,False,0.7469928,0.071826875,0.13314599,0.048034284
-Macrostomia results from failure of fusion of,maxillary and mandibular processes.,left and right mandibular processes.,maxillary and frontonasal processes.,mandibular and hyoid arches.,A,True,0.6343591,0.09237509,0.20394485,0.06932101
-You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland,to be palpable intraorally..,to be palpable extraorally.,to be palpable both intra- and extraorally.,only to be detectable by radiographical examination.,C,False,0.720153,0.075903565,0.1494853,0.05445814
-Osteoclasts,deposit bone and differentiate from periosteal mesenchymal cells.,resorb bone and differentiate from periosteal mesenchymal cells.,deposit bone and differentiate from monocytes.,resorb bone and differentiate from monocytes.,D,False,0.6237577,0.106920995,0.20893267,0.060388647
-The lateral pterygoid muscle,is attached to the coronoid process and elevates the mandible.,is attached to the condylar process and elevates the mandible.,is attached to the coronoid process and protrudes the mandible.,is attached to the condylar process and protrudes the mandible.,D,False,0.707752,0.08387111,0.15516911,0.0532077
-"In the fetus, the ductus arteriosus passes blood from the",pulmonary vein to the aorta.,aorta to pulmonary vein.,pulmonary artery to the aorta.,aorta to the pulmonary artery.,C,False,0.72071034,0.07420264,0.15048014,0.05460684
-Which of the following bones develop by endochondral ossification?,The ribs,The ribs and sternum,"The ribs, sternum and clavicle","The ribs, sternum, clavicle and vertebrae",B,False,0.64730704,0.10649875,0.18401334,0.062180866
-The mucosa of the hard palate is,keratinised and has submucosa and minor salivary glands posterolaterally.,non-keratinised and has submucosa and minor salivary glands posteromedially.,keratinised and lacks submucosa and minor salivary glands.,non-keratinised and lacks submucosa and minor salivary glands.,A,True,0.68133694,0.08129466,0.182308,0.055060465
-The head of the sixth rib articulates with,The inferior articular facet of T5 and superior articular facet of T6.,The inferior articular demifacet of T5 and superior articular facet of T6.,The inferior articular demifacet of T5 and the superior articular demifacet of T6.,The superior and inferior demifacets of T6.,C,False,0.7015718,0.081371605,0.16959299,0.047463637
-Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?,Appendix,Duodenum,Spleen,Pancreas,C,False,0.68963444,0.08589742,0.1693326,0.055135537
-Proprioceptive nerve endings in synovial joints are located in,articular cartilage and synovial membrane.,synovial membrane and capsule.,capsule and ligaments.,ligaments and articular discs.,D,False,0.6388163,0.0946738,0.20338194,0.06312796
-The thoracic cage is a structural unit important for which of the following functions?,Alimentation,Menstruation,Mentation,Respiration,D,False,0.69443256,0.077837124,0.17285793,0.054872323
-A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the,skull bones and dura mater.,dura mater and arachnoid.,arachnoid and pia mater.,pia mater and brain surface.,A,True,0.8719327,0.032960888,0.06923518,0.025871297
-A successful infraorbital nerve block will produce anaesthesia of the,maxillary anterior teeth.,maxillary anterior teeth and their labial gingivae.,"maxillary anterior teeth, their labial gingivae and the upper lip.","maxillary anterior teeth, their labial gingivae, the upper lip and anterior hard palate.",C,False,0.8131855,0.05448003,0.09750128,0.034833122
-Which of the following foramina pierce the sphenoid bone?,The foramen ovale,The foramen ovale and rotundum,"The foramen ovale, rotundum and spinosum","The foramen ovale, rotundum and spinosum and foramen lacerum",C,False,0.6519498,0.09094374,0.19575085,0.061355595
-Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?,Dyslexia,Epilepsy,Hydrocephalus,Narcolepsy,D,False,0.7170155,0.074619524,0.15355854,0.05480648
-Which of the following allows gas exchange in the lungs?,Alveoli,Bronchi,Bronchioles,Capillaries,A,True,0.6882799,0.083824635,0.16966145,0.05823398
-"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?","Closed, greenstick","Complex, comminuted","Compound, transverse","Open, spiral",A,True,0.843013,0.047839027,0.079181924,0.029966146
-Fertilization of an ovum by a spermatozoon occurs in which of the following structures?,Cervix,Fallopian tube,Ovary,Uterus,B,False,0.67951864,0.07904501,0.18360576,0.05783057
-Ectoderm gives rise to,the neural tube.,ectomesenchymal cells.,dental enamel.,all three structures.,D,False,0.64687824,0.08104541,0.19690177,0.07517467
-"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?",Epididymis,Prostate,Scrotum,Seminal vesicle,B,False,0.6963759,0.09188143,0.15568624,0.056056403
-"Which of the following options completes the following statement? ""The right atrioventricular valve…""",is a semilunar valve,is prevented from everting by papillary muscles.,is open during systole.,prevents blood returning from the pulmonary trunk as the heart relaxes.,B,False,0.67945176,0.089386165,0.17179231,0.059369832
-Which one of the following brain areas is supplied by branches of the subclavian arteries?,The frontal lobe,The parietal lobe,The hypothalamus,The cerebellum,D,False,0.66036046,0.08594636,0.18919644,0.064496696
-Which of the following structures is part of the small intestine?,Ascending colon,Cecum,Ileum,Sigmoid colon,C,False,0.70199114,0.08441598,0.16066338,0.05292945
-During an inferior alveolar nerve block the needle ideally passes,posterior and medial to medial pterygoid.,anterior and lateral to medial pterygoid.,through medial pterygoid.,inferior to medial pterygoid.,B,False,0.7670174,0.06847673,0.11762594,0.046879835
-Patients with which of the following diseases are treated with injections of vitamin B-12?,Bell's palsy,Crohn's disease,Pernicious anemia,Graves' disease,C,False,0.6663002,0.09702633,0.17347564,0.063197926
-Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?,The maxillary bone,The temporal bone,The sphenoid bone,The frontal bone,B,False,0.68691456,0.094612345,0.16125569,0.05721742
-Parasympathetic preganglionic axons leave the CNS with the,cervical spinal nerves.,thoracic spinal nerves.,lumbar spinal nerves.,sacral spinal nerves.,D,False,0.68594253,0.07437458,0.18282478,0.05685815
-A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.,Pupillary constriction,Pupillary constriction and vasodilation of facial vessels,"Pupillary constriction, vasodilation of facial vessels and increased facial sweating","Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation",B,False,0.80605733,0.057597723,0.103686675,0.032658335
-Which of the following cranial nerves is related to the sense of smell?,Abducens,Hypoglossal,Olfactory,Trochlear,C,False,0.6605448,0.08792317,0.18888,0.06265204
-Where are the vital centres located in the brainstem?,midbrain,pons,medulla oblongata,cerebellum,C,False,0.6783184,0.08133066,0.18008788,0.060263004
-Saliva contains an enzyme that acts upon which of the following nutrients?,Starches,Proteins,Fats,Minerals,A,True,0.66732144,0.093361124,0.18207955,0.057237953
-During swallowing the,auditory tube opens.,cricopharyngeus muscle contracts.,rima glottis opens.,gag reflex is suspended.,A,True,0.7156912,0.07024294,0.16252421,0.051541608
-The dorsal roots of all spinal nerves contain,sensory neuronal processes.,sensory and autonomic neuronal processes.,motor neuronal processes.,motor and autonomic neuronal processes.,A,True,0.70224375,0.06946368,0.16614723,0.062145345
-Which of the following is the master gland of the endocrine system?,Adrenal,Pancreas,Pineal,Pituitary,D,False,0.6684484,0.0934275,0.1753999,0.06272426
-Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the,lingual branch of the mandibular trigeminal nerve.,chorda tympani branch of the facial nerve.,lingual branch of the glossopharyngeal nerve.,hypoglossal nerve.,A,True,0.6853177,0.08772601,0.16959244,0.05736382
-"In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",Anus,Bladder,Urethra,Testicle,C,False,0.7184617,0.06915097,0.16411212,0.048275158
-Which of the following structures should be visible on a dental panoramic radiograph?,The mandibular canal,The mandibular canal and maxillary sinus,"The mandibular canal, maxillary sinus and hard palate","The mandibular canal, maxillary sinus, hard palate and zygomatic arch",D,False,0.6723253,0.08853505,0.17132372,0.06781592
+0,1,2,3,4,5,model/hub/LLM-Research/Llama-3___2-1B_correct
+A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral,paralysis of the facial muscles.,paralysis of the facial muscles and loss of taste.,"paralysis of the facial muscles, loss of taste and lacrimation.","paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",A,"A
+B
+C
+D
+I don't know"
+"A ""dished face"" profile is often associated with",a protruding mandible due to reactivation of the condylar cartilage by acromegaly.,a recessive maxilla due to failure of elongation of the cranial base.,an enlarged frontal bone due to hydrocephaly.,defective development of the maxillary air sinus.,B,"I don't know
+I don't know
+I don't know
+I don't know
+C"
+Which of the following best describes the structure that collects urine in the body?,Bladder,Kidney,Ureter,Urethra,A,"A
+I don't know
+A
+I don't know
+D
+I don't know"
+Which of the following structures is derived from ectomesenchyme?,Motor neurons,Skeletal muscles,Melanocytes,Sweat glands,C,"I don't know
+A
+A
+D
+I don't know"
+Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?,Afferent arteriole,Glomerulus,Loop of Henle,Renal pelvis,B,"I don't know.
+I don't know.
+I don't know.
+C.
+A.
+D."
+A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.,They will be unable to breathe without life support.,They will only be able to breathe quietly.,It is impossible to predict an effect on breathing.,Breathing will be unaffected.,B,"I don't know
+A
+I don't know
+A
+I don't know
+A
+I don't know
+A
+I don't know"
+Which of the following anatomical regions of abdomen lies just distal to the sternum?,Epigastric,Hypochondriac,Hypogastric,Lumbar,A,"I don't know
+I don't know
+A
+I don't know
+I don't know
+C"
+Which of the following best describes the human body's defense mechanism against environmental bacteria?,Hair in the nose,Mucous membranes,Osteoblasts,Saliva,B,I don't know
+The palatine processes begin to fuse at,six weeks post-fertilization.,eight weeks post-fertilization.,ten weeks post-fertilization.,twelve weeks post-fertilization.,C,"I don't know
+A
+I don't know
+A
+I don't know
+B
+I don't know
+D"
+Primary motor cortex activity results in,bilateral contraction of antigravity limb muscles.,bilateral contraction of limb musculature.,contraction of ipsilateral limb musculature.,contraction of contralateral limb musculature.,D,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the,hard palate.,hard palate and upper lip.,"hard palate, upper lip and upper central incisor.","hard palate, upper lip, upper central incisor and lower first molar.",D,"I don't know
+I don't know
+I don't know
+D
+I don't know"
+A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?,Pupillary constriction and a medial strabismus,Pupillary dilatation and a medial strabismus,Pupillary constriction and a lateral strabismus,Pupillary dilatation and a lateral strabismus,D,"I don't know
+A
+I don't know
+A
+I don't know
+A"
+Which of the following statements is true of the temporomandibular joint?,It has an articular disc of hyaline cartilage,Its articular surfaces are covered by hyaline cartilage,Proprioceptive information is carried by the chorda tympani and deep temporal nerves,Proprioceptive information is carried by the masseteric and auriculotemporal nerves.,D,"I don't know
+I don't know 
+I don't know
+I don't know
+I don't know
+I don't know"
+Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because,cricothyroid muscle is still functional but the interarytenoid muscles are fully active.,cricothyroid muscle is still functional but the interarytenoids are weak.,cricothyroid muscle is paralyzed but the interarytenoids are fully active.,cricothyroid muscle is paralyzed but the interarytenoids are weak.,B,"A
+B
+I don't know
+D
+A
+C
+D"
+Which one of the following statements about the growth of the mandible is correct?,The mental symphysis closes at about 1 year postnatally,The condylar growth cartilage ceases activity at puberty,The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage,The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle,A,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know 
+I don't know 
+
+I."
+Which of the following statements is true of the pupillary light reflex?,Its efferent limb is carried in the optic nerve,It is mediated by the inferior colliculi in the midbrain,It is a consensual reflex,Its afferent limb is carried in the oculomotor nerve,C,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+A"
+Which muscles are normally active during quiet inspiration?,External and internal intercostal muscles,External intercostal muscles and diaphragm,Internal intercostal muscles and diaphragm,External and internal intercostal muscles and diaphragm,B,"I don't know
+
+
+A
+
+
+D
+
+
+A
+
+
+I don't know"
+Male hormones are produced by which of the following?,Glans penis,Prepuce,Prostate,Testes,D,"I don't know 
+I don't know
+I don't know
+I don't know
+I don't know"
+Oxygenated blood is carried to the heart by which of the following structures?,Aorta,Carotid arteries,Inferior vena cava,Pulmonary veins,D,"I don't know.
+A.
+A.
+C.
+D."
+Which of the following allows air to pass into the lungs?,Aorta,Esophagus,Trachea,Pancreas,C,"A: D
+B: C
+C: A
+D: B"
+Where is the sinoatrial node located?,Between the left atrium and the left ventricle,Between the right atrium and the right ventricle,In the upper wall of the right atrium,In the upper wall of the left ventricle,C,"A
+I don't know
+A
+I don't know
+D
+I don't know"
+"In relation to the rib, the corresponding intercostal nerve lies",deep to its superior border.,superficial to its superior border.,deep to its inferior border.,superficial to its inferior border.,C,"I don't know
+I don't know
+I don't know
+A
+I don't know
+C
+I don't know"
+The regional lymphatic drainage of the left side of the tip of the tongue is to the,left submental lymph node.,left and right submental lymph nodes.,left submandibular lymph node.,left and right submandibular lymph nodes.,B,"I don't know
+I don't know
+I don't know
+I don't know
+A
+A"
+Gastrulation is the process of,mesoderm formation and occurs after neurulation.,ectomesenchyme formation and occurs before neurulation.,mesoderm formation and occurs before neurulation.,ectomesenchyme formation and occurs after neurulation.,B,"I don't know
+I don't know
+A
+A
+A
+I don't know"
+The spheno-occipital synchondrosis,is a secondary growth cartilage.,influences the position of the viscerocranium.,ceases activity at 7 years of age.,can be reactivated in patients affected by acromegaly.,B,"I don't know
+I don't know 
+C
+I don't know 
+I don't know 
+
+I don't know
+I don't know"
+Which of the following substances is found in greater quantity in exhaled air?,Carbon dioxide,Carbon monoxide,Nitrogen,Oxygen,C,"I don't know
+A
+A
+D
+C
+B"
+Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?,Glomerulonephritis,Interstitial nephritis,Nephrolithiasis,Polycystic kidney,C,"I don't know
+I don't know
+I don't know
+I don't know
+C"
+A pulse may be felt on a patient's face where the,facial artery crosses the mandible.,facial artery crosses the maxilla.,superficial temporal artery crosses the maxilla.,superficial temporal artery crosses the orbital rim.,A,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?,Appendix,Gallbladder,Spleen,Urinary bladder,C,"I don't know, B, D 
+I don't know, C, A"
+Which statement concerning the atrioventricular bundle is correct?,It is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles.,It is formed of Purkinje fibres and is the only electrical connection between the atria and the ventricles,It is formed of autonomic nerve processes and forms one of several electrical connections between the atria and ventricles.,It is formed of Purkinje fibres and forms one of several electrical connections between the atria and ventricles.,B,"I don't know
+I don't know
+C. excess overjet of the upper lateral incisors.
+D. excess overjet of the upper central incisors.
+A. excess overbite of the upper lateral incisors.
+B. negative overjet of the upper central incisors. 
+D. excess overjet of the upper central incisors."
+Which of the following terms describes the motion of bending the forearm toward the body?,Abduction,Eversion,Flexion,Pronation,C,"I don't know
+I don't know
+A. B. C.
+I don't know
+I don't know
+I don't know
+D"
+Food is prevented from entering the larynx during the pharyngeal phase of swallowing by,constriction of the laryngeal entrance.,upward movement of the epiglottis.,downward movement of the larynx.,increase in respiratory rate.,A,"A
+I don't know
+A
+I don't know
+B
+C"
+At which of the following locations does bile enter the digestive tract?,Gastroesophageal sphincter,Duodenum,Ileocecum,Jejunum,B,"A
+B
+C
+D
+I don't know"
+In which of the following positions does a patient lie face down?,Dorsal,Erect,Lateral,Prone,B,"I don't know
+A. 
+I don't know
+B.
+A. 
+I don't know
+C."
+Complete bilateral cleft palate is due to failure of fusion of the,palatine processes.,palatine and frontonasal processes.,"palatine, frontonasal and secondary nasal processes.","palatine, frontonasal, secondary nasal processes and mandibular processes.",C,"I don't know
+I don't know
+D
+I don't know
+D
+I don't know"
+The auditory tube,connects the inner ear and nasopharynx.,is derived from the second pharyngeal pouch.,is opened by the action of levator veli palatini.,is closed by the action of tensor veli palatini.,C,"I don't know
+I don't know
+B
+I don't know
+I don't know
+I do not know"
+Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?,Appendix,Gallbladder,Pancreas,Spleen,D,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+Which of the following cavities are separated by the diaphragm?,Abdominal and pelvic,Cranial and spinal,Thoracic and abdominal,Pericardial and pleural,C,"A
+B
+C
+D
+I don't know"
+The walls of bronchioles contain,"cartilage, smooth muscle and respiratory epithelium.",cartilage and smooth muscle.,cartilage and respiratory epithelium.,smooth muscle and respiratory epithelium.,D,"A
+A
+D
+A
+I don't know"
+"Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?",Gallbladder,Kidney,Liver,Spleen,C,"A
+B
+D
+I don't know
+I don't know
+A
+D"
+Which of the following conditions is characterized by incompetence of the esophageal sphincter?,Crohn's disease,Esophageal varices,Gastroesophageal reflux disease,Pyloric stenosis,C,"I don't know
+I don't know
+C
+C"
+The muscles of the soft palate are innervated by branches of the,trigeminal and glossopharyngeal nerves.,facial and glossopharyngeal nerves.,trigeminal and vagus nerves.,facial and vagus nerves.,C,"I don't know
+A
+A
+A
+B
+B"
+Which of the following is the large bone found superior to the patella and inferior to the ischium?,Calcaneus,Femur,Symphysis pubis,Tibia,B,I don't know.
+A successful inferior alveolar nerve block will produce anaesthesia of the,lower lip.,lower lip and mandibular teeth.,"lower lip, mandibular teeth and labial gingivae of the anterior mandibular teeth.","lower lip, mandibular teeth and labial gingivae of the anterior and buccal gingivae of the posterior mandibular teeth.",C,"I don't know
+I don't know
+A. The second pharyngeal arch
+B. The first and second pharyngeal arches
+C. I don't know
+D. None of the above D
+
+C. C
+D. I don't know"
+The mucosa of the upper larynx is innervated by the,internal laryngeal nerve which is the afferent limb of the cough reflex.,external laryngeal nerve which is the afferent limb of the gag reflex.,internal laryngeal nerve which is the afferent limb of the gag reflex.,external laryngeal nerve which is the afferent limb of the cough reflex.,A,"I don't know
+I don't know
+A
+I don't know
+C
+I don't know
+I don't know
+I don't know"
+The bones of the viscerocranium develop initially by,endochondral ossification and follow the somatic growth pattern.,endochondral ossification and follow the neural growth pattern.,intramembranous ossification and follow the somatic growth pattern.,intramembranous ossification and follow the neural growth pattern.,C,"I don't know
+I don't know
+I don't know
+I don't know
+A"
+The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?,Heel,Lower leg,Toes,Thigh,B,"I don't know
+
+A. 
+A. D
+B. C
+C. A
+D. C
+
+I don't know
+
+A 
+
+A. B"
+Which cells in the blood do not have a nucleus?,Lymphocyte,Monocyte,Erythrocyte,Basophil,C,"A. B.
+I don't know.
+C. D.
+C. D.
+A. I don't know."
+The coronal suture joins the,frontal and parietal bones.,left and right parietal bones.,parietal and occipital bones.,"parietal, squamous temporal and greater wing of the sphenoid.",A,"I don't know
+B
+I don't know
+A
+I don't know
+C"
+"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the","hyoid bone, cricoid cartilage, thyroid cartilage.","thyroid cartilage, cricoid cartilage, hyoid bone.","hyoid bone, thyroid cartilage, cricoid cartilage.","thyroid cartilage, hyoid bone, cricoids cartilage.",C,"A
+I don't know
+B
+B
+C
+I don't know"
+Which of the following bony structures may be palpated in a live patient?,The supraorbital foramen,The infraorbital foramen,The mental foramen,All of the above,D,"I don't know
+
+I don't know 
+
+I don't know 
+
+A
+
+I don't know 
+
+I don't know 
+
+C"
+Which of the following structures accompany the oesophagus through the diaphragm?,The phrenic nerves,The splanchnic nerves,The sympathetic trunks,The vagus nerves,D,"A
+I don't know
+I don't know
+D
+I don't know
+I don't know
+B
+B
+I don't know
+A"
+Which sequence describes the systemic circulation?,Left ventricle → aorta → arteries → veins → capillaries,Left ventricle → aorta → arteries →capillaries → veins,Right ventricle → pulmonary trunk → arteries → capillaries →veins,Right ventricle → pulmonary trunk → arteries → veins → capillaries,B,"A. I don't know
+B. B
+C. C
+D. D"
+The anatomic location of the spinal canal is,caudal,dorsal,frontal,transverse,B,"I don't know.
+A
+B
+C
+A
+I don't know."
+The parotid duct runs,deep to masseter and enters the mouth opposite the upper second molar.,superficial to masseter and enters the mouth opposite the upper second molar.,deep to masseter and enters the mouth opposite the upper second premolar.,superficial to masseter and enters the mouth opposite the upper second premolar.,B,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+"If the foot is abducted, it is moved in which direction?",Inward,Outward,Upward,Downward,D,"I don't know
+
+
+I don't know
+
+
+I don't know
+
+
+I don't know"
+The infraorbital nerve,is a terminal branch of the maxillary division of the trigeminal nerve.,is a terminal branch of the maxillary branch of the facial nerve.,carries parasympathetic secretomotor neurons to the lacrimal gland.,innervates the inferior part of the orbicularis oculi muscle.,A,"A
+B
+C
+D"
+Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?,Absorption,Emulsion,Peristalsis,Regurgitation,C,"A
+I don't know
+C
+I don't know
+C
+I don't know"
+Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?,Dendrite,Glial cell,Nerve center,Synapse,D,"I don't know 
+A 
+A 
+B 
+I don't know 
+A 
+I don't know"
+Which of the following muscles initiates elevation of the mandible?,Masseter,Temporalis,Lateral pterygoid,Medial pterygoid.,D,"I don't know
+
+I don't know
+
+I don't know
+
+I don't know
+
+I don't know
+
+I don't know 
+
+I don't know 
+
+A"
+Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?,Adrenal gland,Gallbladder,Liver,Pancreas,D,"I don't know
+
+I don't know
+
+I don't know
+
+I don't know
+
+I don't know"
+A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience,loss of taste over the anterior two-thirds of the tongue.,loss of somaesthetic sensation over the anterior two thirds of the tongue.,loss of taste and somaesthetic sensation over the posterior third of the tongue.,paralysis of the muscles of the tongue.,C,"I don't know
+I don't know
+I don't know
+C
+A"
+A possible effect of damage to the third cranial nerve by trauma to the orbit is,a convergent strabismus.,ptosis.,pupillary contriction.,bitemporal hemianopia.,B,"I don't know
+A
+A
+C
+B
+I don't know"
+Blood flows from the right ventricle of the heart into which of the following structures?,Inferior vena cava,Left ventricle,Pulmonary arteries,Pulmonary veins,C,"I don't know
+I don't know 
+I don't know
+I don't know
+I don't know"
+A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to,extend their neck against resistance.,extend their neck without impairment.,lift their shoulders against resistance.,lift their shoulders without impairment.,C,"A
+I don't know
+B
+C
+D"
+Which of the following muscles are derived from the first brachial arch?,The muscles of mastication,The muscles of mastication and anterior belly of digastric,The muscles of mastication and anterior and posterior bellies of digastric,"The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid",B,"I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know."
+Which of the following best describes the location where the carotid pulse can be found?,In front of the ears and just above eye level,In the antecubital space,In the middle of the groin,On the anterior side of the neck,D,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+"In the brain stem, pathways for:",nociception decussate in the medial lemniscus,skilled movements decussate in the medial lemniscus,skilled motor movements decussate in the pyramids.,discriminative touch decussate in the pyramids.,C,"I don't know
+I don't know
+I don't know
+I don't know
+A"
+The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the,thyroid cartilage.,cricothyroid membrane.,cricoid cartilage.,tracheal rings.,D,"I don't know
+I don't know
+I don't know
+I don't know
+A"
+You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?,The incisive nerve,The mental nerve,The buccal nerve,The lingual nerve,B,"I don't know
+A
+I don't know
+B
+I don't know
+C
+I don't know
+B
+I don't know
+A
+I don't know"
+The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in,the capsule and ligaments of the TMJ and the medial pterygoid muscle.,the capsule and ligaments of the TMJ and the lateral pterygoid muscle.,the articular disc of the TMJ and the medial pterygoid muscle.,the articular disc of the TMJ and the lateral pterygoid muscle.,B,"I don't know
+I don't know
+A, C
+B, D
+B"
+Which of the following is a substance that aids the transmission of nerve impulses to the muscles?,Acetylcholine,Cholecystokinin,Deoxyribose,Oxytocin,A,"A
+I don't know
+C
+C
+A"
+"In the spinal cord, motor neuron cell bodies are located in",Lamina I.,Lamina II.,Lamina V.,Lamina IX,D,"I don't know
+I don't know
+I don't know
+A
+B
+C
+D 
+I don't know"
+"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the",anterior fragment to be displaced downwards by the action of the digastric muscle.,posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.,anterior fragment to be displaced backwards by action of the temporalis muscle.,posterior fragment to be displaced medially by action of the medial pterygoid muscle.,A,"I don't know
+A
+B
+D
+I don't know"
+Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the,oculomotor nerve.,trochlear nerve.,ophthalmic trigeminal nerve.,abducens nerve.,D,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+"A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?",spastic paralysis,flaccid paralysis,atrophy,contracture,C,"I don't know
+I don't know
+I don't know
+I don't know"
+A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit,spastic paralysis.,flaccid paralysis.,tremor.,hyporeflexia.,A,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know 
+D"
+The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the,right lung because the right main bronchus is wider and more vertical than the left.,left lung because the left main bronchus is wider and more vertical than the right.,right lung or left lung because the two main bronchi are of equal size and at the same angulation.,right or left lung because there are no factors predisposing to the fragment going in one particular direction.,A,"A
+A
+A
+B
+I don't know"
+"Calcium, potassium, and sodium are classified as which of the following?",Androgens,Catecholamines,Electrolytes,Estrogens,C,"I don't know 
+
+I don't know A 
+
+I don't know B 
+
+I don't know C 
+
+I don't know D"
+Noradrenaline is the neurotransmitter between which of the two structures below?,parasympathetic pre- and post-ganglionic neurons,sympathetic pre- and post-ganglionic neurons,parasympathetic post-ganglionic neurons and target organs,sympathetic post-ganglionic neurons and target organs,D,"I don't know
+A
+I don't know
+B
+I don't know
+A
+I don't know
+B
+I don't know
+A
+I don't know
+D
+C"
+Which of the following are mucus-producing glands located on each side of the vaginal opening?,Adrenal,Bartholin's,Bulbourethral,Corpus luteum,B,"I don't know
+I don't know
+C
+I don't know
+A"
+"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately",superior to the thyroid cartilage.,inferior to the thyroid cartilage.,inferior to the cricoid cartilage.,superior to the thyroid isthmus.,B,"I don't know
+A. 
+I don't know
+A. 
+A. 
+A."
+Cerebrospinal fluid circulates around the brain between the,skull and dura mater.,dura mater and arachnoid mater.,arachnoid and pia maters.,pia mater and brain surface.,C,"A
+I don't know
+C
+A
+I don't know
+B"
+Which of the following closes and seals off the lower airway during swallowing?,Alveoli,Epiglottis,Larynx,Uvula,B,"I don't know
+
+I don't know
+
+I don't know
+
+I don't know
+
+C"
+Which orbital wall is most likely to collapse in a 'blow out' fracture?,The roof,The floor,The lateral wall,The medial wall,B,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+The walls of the maxillary sinus are sinus is related to,the floor of the orbit.,the floor of the orbit and the upper posterior teeth.,"the floor of the orbit, the upper posterior teeth and the infratemporal fossa.","the floor of the orbit, the upper posterior teeth, the infratemporal fossa and the hard palate.",C,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+Which of one of the following statements about the postnatal growth of the maxilla is correct?,Pneumatisation by enlargement of the developing maxillary sinus ceases at puberty,Space is created for the eruption of the permanent molars by resorption of the maxillary tuberosity,The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla,The intermaxillary suture closes about eight years postnatally,C,I don't know
+The seventh cranial nerve supplies,taste buds on the posterior third of the tongue.,muscles of the soft palate.,muscles of the lower lip.,the parotid salivary gland.,C,"A
+A
+C
+D
+I don't know"
+Which of the following paranasal sinuses open into the middle meatus?,The anterior ethmoidal sinuses,The anterior ethmoidal and frontal sinuses,"The anterior ethmoidal, frontal and maxillary sinuses","The anterior ethmoidal, frontal, maxillary and sphenoidal sinuses",C,"I don't know.
+A
+A
+D
+B"
+"Which of the following is a structural, fibrous protein found in the dermis?",Collagen,Heparin,Lipocyte,Melanin,A,"A 
+I don't know
+B 
+C 
+D"
+Palatine shelf elevation is due to the effect of,descent of the tongue.,changes in flexure of the developing brain.,hydrophilic molecules increasing turgor pressure in the palatine shelves.,a combination of these three processes.,D,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+A
+B"
+On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?,The palatal surfaces of the upper molars and lingual surfaces of the lower incisors.,The buccal surfaces of the upper molars and lingual surfaces of the lower incisors.,The palatal surfaces of the upper molars and labial surfaces of the lower incisors.,The buccal surfaces of the upper molars and labial surfaces of the lower incisors.,B,"A
+B
+C
+D
+I don't know."
+Laryngeal oedema is usually confined to the larynx above the vocal folds because,there are numerous mucous glands in the vestibular folds.,the mucosa covering the vocal folds is tightly attached to underlying tissues.,fluid will drain rapidly into the thorax below the vocal folds.,the mucosa above the vocal folds is more vascular than that below the vocal folds.,B,"A
+I don't know
+A
+I don't know
+D
+I don't know
+B
+I don't know
+D
+I don't know
+B
+I don't know
+C
+I don't know
+D"
+The coronary arteries,arise from the arch of the aorta and fill during diastole.,arise from the ascending aorta and fill during systole.,arise from the arch of the aorta and fill during systole.,arise from the ascending aorta and fill during diastole.,D,"I don't know
+I don't know 
+I don't know
+I don't know
+I don't know 
+
+A. The first pharyngeal arch 
+B. The second and third pharyngeal arches D
+C. A. Supraorbital nerve B. infraorbital nerve 
+D. C. extend into the neck
+
+C. Excess overjet of the upper lateral incisors.
+D. Excess overjet of the upper central incisors.
+
+I don't know 
+
+A. I do not have information on the body cavity that contains the pituitary gland.
+B. A. Arises from the arch of the aorta and fill during diastole.
+C. B. Ascending aorta
+D. C. Diastolic"
+Which muscle is the most active during a right lateral excursion of the mandible?,Left lateral pterygoid muscle,Right lateral pterygoid muscle,Left medial pterygoid muscle,Right medial pterygoid muscle,A,"I don't know 
+I don't know 
+I don't know 
+I don't know 
+I don't know 
+
+I don't know"
+The phrenic nerves innervate the,diaphragm.,diaphragm and parietal pleura.,"diaphragm, parietal pleura and pericardium.","diaphragm, parietal pleura, pericardium and intercostals muscles.",C,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+A. I don't know 
+B. A
+C. C"
+Parasympathetic preganglionic nerves leave the central nervous system with the,third cranial nerves.,fourth cranial nerves.,fifth cranial nerves.,sixth cranial nerves.,A,"I don't know
+A
+A
+D
+I don't know
+A"
+"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",light pink in colour on both sides of the mucogingigival junction.,light pink below the mucogingival junction and red above it.,red below the mucogingival junction and light pink above it.,red on both sides of the mucogingival junction.,C,"I don't know
+
+A
+
+B
+
+A
+
+B
+
+A"
+Macrostomia results from failure of fusion of,maxillary and mandibular processes.,left and right mandibular processes.,maxillary and frontonasal processes.,mandibular and hyoid arches.,A,"A
+A
+A
+A"
+You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland,to be palpable intraorally..,to be palpable extraorally.,to be palpable both intra- and extraorally.,only to be detectable by radiographical examination.,C,"I don't know
+I don't know
+A
+B
+C
+D"
+Osteoclasts,deposit bone and differentiate from periosteal mesenchymal cells.,resorb bone and differentiate from periosteal mesenchymal cells.,deposit bone and differentiate from monocytes.,resorb bone and differentiate from monocytes.,D,"A
+B
+A
+D
+I don't know"
+The lateral pterygoid muscle,is attached to the coronoid process and elevates the mandible.,is attached to the condylar process and elevates the mandible.,is attached to the coronoid process and protrudes the mandible.,is attached to the condylar process and protrudes the mandible.,D,"I don't know
+I don't know
+C
+I don't know
+I don't know
+C"
+"In the fetus, the ductus arteriosus passes blood from the",pulmonary vein to the aorta.,aorta to pulmonary vein.,pulmonary artery to the aorta.,aorta to the pulmonary artery.,C,"I don't know
+I don't know
+I don't know
+A
+I don't know
+A"
+Which of the following bones develop by endochondral ossification?,The ribs,The ribs and sternum,"The ribs, sternum and clavicle","The ribs, sternum, clavicle and vertebrae",B,"I don't know
+I don't know
+I don't know
+I don't know 
+I don't know"
+The mucosa of the hard palate is,keratinised and has submucosa and minor salivary glands posterolaterally.,non-keratinised and has submucosa and minor salivary glands posteromedially.,keratinised and lacks submucosa and minor salivary glands.,non-keratinised and lacks submucosa and minor salivary glands.,A,"I don't know
+A
+C
+A
+B"
+The head of the sixth rib articulates with,The inferior articular facet of T5 and superior articular facet of T6.,The inferior articular demifacet of T5 and superior articular facet of T6.,The inferior articular demifacet of T5 and the superior articular demifacet of T6.,The superior and inferior demifacets of T6.,C,"A
+B
+C
+D
+I don't know"
+Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?,Appendix,Duodenum,Spleen,Pancreas,C,"A. I don't know
+B. D
+B. C"
+Proprioceptive nerve endings in synovial joints are located in,articular cartilage and synovial membrane.,synovial membrane and capsule.,capsule and ligaments.,ligaments and articular discs.,D,"I don't know
+A
+I don't know
+A
+I don't know
+C
+I don't know
+B
+I don't know"
+The thoracic cage is a structural unit important for which of the following functions?,Alimentation,Menstruation,Mentation,Respiration,D,"I don't know
+A
+I don't know
+A
+I don't know
+A
+I don't know"
+A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the,skull bones and dura mater.,dura mater and arachnoid.,arachnoid and pia mater.,pia mater and brain surface.,A,"I don't know
+I don't know
+A
+A
+A
+A"
+A successful infraorbital nerve block will produce anaesthesia of the,maxillary anterior teeth.,maxillary anterior teeth and their labial gingivae.,"maxillary anterior teeth, their labial gingivae and the upper lip.","maxillary anterior teeth, their labial gingivae, the upper lip and anterior hard palate.",C,"I don't know
+I don't know
+A
+I don't know
+I don't know
+C"
+Which of the following foramina pierce the sphenoid bone?,The foramen ovale,The foramen ovale and rotundum,"The foramen ovale, rotundum and spinosum","The foramen ovale, rotundum and spinosum and foramen lacerum",C,"I don't know 
+I don't know A."
+Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?,Dyslexia,Epilepsy,Hydrocephalus,Narcolepsy,D,"I don't know. 
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know."
+Which of the following allows gas exchange in the lungs?,Alveoli,Bronchi,Bronchioles,Capillaries,A,"I don't know.
+I don't know.
+A.
+I don't know.
+C.
+I don't know.
+B."
+"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?","Closed, greenstick","Complex, comminuted","Compound, transverse","Open, spiral",A,"I don't know
+A
+I don't know
+A
+I don't know"
+Fertilization of an ovum by a spermatozoon occurs in which of the following structures?,Cervix,Fallopian tube,Ovary,Uterus,B,"A
+I don't know
+I don't know
+A
+I don't know
+I don't know
+A
+I don't know
+I don't know"
+Ectoderm gives rise to,the neural tube.,ectomesenchymal cells.,dental enamel.,all three structures.,D,"A 
+D
+D
+I don't know"
+"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?",Epididymis,Prostate,Scrotum,Seminal vesicle,B,"A, B, C, D"
+"Which of the following options completes the following statement? ""The right atrioventricular valve…""",is a semilunar valve,is prevented from everting by papillary muscles.,is open during systole.,prevents blood returning from the pulmonary trunk as the heart relaxes.,B,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know
+D"
+Which one of the following brain areas is supplied by branches of the subclavian arteries?,The frontal lobe,The parietal lobe,The hypothalamus,The cerebellum,D,"I don't know. 
+I don't know.
+A.
+A.
+A.
+I don't know."
+Which of the following structures is part of the small intestine?,Ascending colon,Cecum,Ileum,Sigmoid colon,C,"I don't know, D
+I don't know, C
+I don't know, A
+I don't know, B
+I don't know."
+During an inferior alveolar nerve block the needle ideally passes,posterior and medial to medial pterygoid.,anterior and lateral to medial pterygoid.,through medial pterygoid.,inferior to medial pterygoid.,B,"I don't know
+I don't know
+I don't know
+I don't know"
+Patients with which of the following diseases are treated with injections of vitamin B-12?,Bell's palsy,Crohn's disease,Pernicious anemia,Graves' disease,C,"I don't know
+A
+I don't know
+A
+I don't know"
+Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?,The maxillary bone,The temporal bone,The sphenoid bone,The frontal bone,B,"I don't know
+I don't know
+B
+I don't know
+I don't know
+B"
+Parasympathetic preganglionic axons leave the CNS with the,cervical spinal nerves.,thoracic spinal nerves.,lumbar spinal nerves.,sacral spinal nerves.,D,"I don't know
+I don't know
+A
+C
+B
+D
+A"
+A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.,Pupillary constriction,Pupillary constriction and vasodilation of facial vessels,"Pupillary constriction, vasodilation of facial vessels and increased facial sweating","Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation",B,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+Which of the following cranial nerves is related to the sense of smell?,Abducens,Hypoglossal,Olfactory,Trochlear,C,"I don't know 
+I don't know 
+A 
+A 
+
+I don't know 
+I don't know 
+B"
+Where are the vital centres located in the brainstem?,midbrain,pons,medulla oblongata,cerebellum,C,"I don't know
+
+I don't know
+
+I don't know
+
+I don't know
+
+I don't know"
+Saliva contains an enzyme that acts upon which of the following nutrients?,Starches,Proteins,Fats,Minerals,A,"I don't know.
+I don't know.
+A.
+I don't know.
+B.
+I don't know.
+D."
+During swallowing the,auditory tube opens.,cricopharyngeus muscle contracts.,rima glottis opens.,gag reflex is suspended.,A,"I don't know
+A. C
+D. D
+A. I don't know
+B. B
+C. C
+D. A
+I don't know"
+The dorsal roots of all spinal nerves contain,sensory neuronal processes.,sensory and autonomic neuronal processes.,motor neuronal processes.,motor and autonomic neuronal processes.,A,"I don't know
+I don't know
+I don't know
+I don't know
+I don't know"
+Which of the following is the master gland of the endocrine system?,Adrenal,Pancreas,Pineal,Pituitary,D,I don't know
+Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the,lingual branch of the mandibular trigeminal nerve.,chorda tympani branch of the facial nerve.,lingual branch of the glossopharyngeal nerve.,hypoglossal nerve.,A,"I don't know
+A
+A
+C
+A"
+"In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",Anus,Bladder,Urethra,Testicle,C,"I don't know.
+A.
+A. B C D
+B.
+B A B C
+C.
+A C
+D."
+Which of the following structures should be visible on a dental panoramic radiograph?,The mandibular canal,The mandibular canal and maxillary sinus,"The mandibular canal, maxillary sinus and hard palate","The mandibular canal, maxillary sinus, hard palate and zygomatic arch",D,"I don't know
+
+I don't know
+
+I don't know
+
+I don't know
+
+I don't know 
+
+I don't know"
