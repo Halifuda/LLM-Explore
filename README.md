@@ -3,9 +3,11 @@ Project of NLP in PKU
 
 .  
 ├── categories.py       # you can ignore it   
-├── evaluate.py         # count how many "I don't know" are output  
-├── explore.py          # for 2.1, directly test on MMLU    
-└── refuse.py           # for 2.2.1, let LLM say "I don't know"     
+├── evaluate-logits.py  # 2.2.2 caculate percent of over-refuse and refuse  
+├── evaluate.py         # 2.2.1 caculate percent of over-refuse and refuse  
+├── explore.py          # 2.1, directly test on MMLU    
+├── refuse-logits.py    # 2.2.2, let LLM say "I don't know"  
+└── refuse.py           # 2.2.1, let LLM say "I don't know"     
 
 ## data  
 [Data](https://people.eecs.berkeley.edu/~hendrycks/data.tar)  

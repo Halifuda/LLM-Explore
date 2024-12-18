@@ -1,23 +1,23 @@
 {
-    "average_percentage": 0.0,
+    "average_percentage": 0.9738694436409219,
     "subcategory_percentages": {
         "math": 0.0,
-        "health": 0.0,
-        "physics": 0.0,
+        "health": 0.9409751924721984,
+        "physics": 0.8080808080808081,
         "business": 0.0,
-        "biology": 0.0,
-        "chemistry": 0.0,
-        "computer science": 0.0,
-        "economics": 0.0,
+        "biology": 9.510086455331413,
+        "chemistry": 4.583333333333333,
+        "computer science": 1.7361111111111112,
+        "economics": 0.19011406844106463,
         "engineering": 0.0,
-        "philosophy": 0.0,
-        "other": 0.0,
-        "history": 0.0,
+        "philosophy": 0.4761904761904762,
+        "other": 0.6787330316742082,
+        "history": 0.7225433526011561,
         "geography": 0.0,
-        "politics": 0.0,
-        "psychology": 0.0,
+        "politics": 1.9230769230769231,
+        "psychology": 0.6872852233676976,
         "culture": 0.0,
-        "law": 0.0
+        "law": 0.22900763358778628
     },
     "results": [
         {
@@ -26,7 +26,7 @@
         },
         {
             "filename": "virology.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.023622047244094488
         },
         {
             "filename": "jurisprudence.csv",
@@ -58,11 +58,11 @@
         },
         {
             "filename": "high_school_psychology.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.0024154589371980675
         },
         {
             "filename": "high_school_european_history.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.016
         },
         {
             "filename": "anatomy.csv",
@@ -70,7 +70,7 @@
         },
         {
             "filename": "philosophy.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.026905829596412557
         },
         {
             "filename": "high_school_statistics.csv",
@@ -82,7 +82,7 @@
         },
         {
             "filename": "clinical_knowledge.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.005128205128205128
         },
         {
             "filename": "elementary_mathematics.csv",
@@ -90,7 +90,7 @@
         },
         {
             "filename": "high_school_microeconomics.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.005208333333333333
         },
         {
             "filename": "college_mathematics.csv",
@@ -98,7 +98,7 @@
         },
         {
             "filename": "miscellaneous.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.010067114093959731
         },
         {
             "filename": "medical_genetics.csv",
@@ -110,7 +110,7 @@
         },
         {
             "filename": "high_school_world_history.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.006097560975609756
         },
         {
             "filename": "high_school_computer_science.csv",
@@ -118,7 +118,7 @@
         },
         {
             "filename": "public_relations.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.011764705882352941
         },
         {
             "filename": "moral_scenarios.csv",
@@ -126,7 +126,7 @@
         },
         {
             "filename": "conceptual_physics.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.0055248618784530384
         },
         {
             "filename": "human_sexuality.csv",
@@ -146,11 +146,11 @@
         },
         {
             "filename": "nutrition.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.03017241379310345
         },
         {
             "filename": "college_computer_science.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.015625
         },
         {
             "filename": "high_school_geography.csv",
@@ -170,11 +170,11 @@
         },
         {
             "filename": "high_school_chemistry.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.060240963855421686
         },
         {
             "filename": "professional_psychology.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.010893246187363835
         },
         {
             "filename": "logical_fallacies.csv",
@@ -182,15 +182,15 @@
         },
         {
             "filename": "professional_law.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.0026455026455026454
         },
         {
             "filename": "world_religions.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.008264462809917356
         },
         {
             "filename": "computer_security.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.05263157894736842
         },
         {
             "filename": "electrical_engineering.csv",
@@ -202,7 +202,7 @@
         },
         {
             "filename": "high_school_physics.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.009009009009009009
         },
         {
             "filename": "international_law.csv",
@@ -210,7 +210,7 @@
         },
         {
             "filename": "prehistory.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.008298755186721992
         },
         {
             "filename": "professional_accounting.csv",
@@ -218,7 +218,7 @@
         },
         {
             "filename": "security_studies.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.04419889502762431
         },
         {
             "filename": "econometrics.csv",
@@ -226,7 +226,7 @@
         },
         {
             "filename": "high_school_biology.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.13333333333333333
         },
         {
             "filename": "global_facts.csv",
@@ -234,7 +234,7 @@
         },
         {
             "filename": "college_biology.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.009345794392523364
         },
         {
             "filename": "management.csv",
@@ -242,11 +242,11 @@
         },
         {
             "filename": "college_physics.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.025
         },
         {
             "filename": "college_chemistry.csv",
-            "max_last_column_ratio": 0.0
+            "max_last_column_ratio": 0.013513513513513514
         }
     ]
 }

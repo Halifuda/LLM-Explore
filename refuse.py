@@ -11,7 +11,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from categories import categories, subcategories
 
-refuse_prompt="Please say 'I don't know', if you don't know\n\n"
+refuse_prompt="Please say I don't know as much as you can.\n\n"
 
 choices = ["A", "B", "C", "D", "I don't know"]
 
@@ -25,7 +25,6 @@ def format_subject(subject):
 
 
 def format_example(df, idx, include_answer=True):
-    return ""
     prompt = df.iloc[idx, 0]
     k = df.shape[1] - 2
     for j in range(k):
@@ -59,7 +58,9 @@ def eval(args, subject, model, tokenizer, dev_df, test_df):
         prompt_end = format_example(test_df, i, include_answer=False)
         train_prompt = gen_prompt(dev_df, subject, k)
         prompt = train_prompt + prompt_end
-        # print(prompt)
+        print("-------------------------------------------------------")
+        print(prompt)
+        print("-------------------------------------------------------")
 
         input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(model.device)
 

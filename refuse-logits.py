@@ -58,7 +58,9 @@ def eval(args, subject, model, tokenizer, dev_df, test_df):
         prompt_end = format_example(test_df, i, include_answer=False)
         train_prompt = gen_prompt(dev_df, subject, k)
         prompt = train_prompt + prompt_end
-        # print(prompt)
+        print("-------------------------------------------------------")
+        print(prompt)
+        print("-------------------------------------------------------")
 
         input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(model.device)
 

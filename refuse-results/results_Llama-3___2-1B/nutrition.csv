@@ -1,616 +1,616 @@
 0,1,2,3,4,5,model/hub/LLM-Research/Llama-3___2-1B_correct,model/hub/LLM-Research/Llama-3___2-1B_choiceA_probs,model/hub/LLM-Research/Llama-3___2-1B_choiceB_probs,model/hub/LLM-Research/Llama-3___2-1B_choiceC_probs,model/hub/LLM-Research/Llama-3___2-1B_choiceD_probs,model/hub/LLM-Research/Llama-3___2-1B_choiceI don't know_probs
 "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?
-",Meat,Confectionary,Fruits and vegetables,Potatoes,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Meat,Confectionary,Fruits and vegetables,Potatoes,C,False,0.80853343,0.025788005,0.081316344,0.081954114,0.0024080463
 "In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?
-",If the incidence rate of the disease falls.,If survival time with the disease increases.,If recovery of the disease is faster.,If the population in which the disease is measured increases.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",If the incidence rate of the disease falls.,If survival time with the disease increases.,If recovery of the disease is faster.,If the population in which the disease is measured increases.,B,False,0.2302293,0.13964114,0.3885855,0.16072595,0.08081809
 "Which of the following statements is correct?
-",The flavonoid class comprises flavonoids and isoflavonoids.,The digestibility and bioavailability of isoflavones in soya food products are not changed by processing.,ß-Carotene and lycopene can both act as provitamin A.,Carotenoids and flavonoids both belong to the polyphenol class.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The flavonoid class comprises flavonoids and isoflavonoids.,The digestibility and bioavailability of isoflavones in soya food products are not changed by processing.,ß-Carotene and lycopene can both act as provitamin A.,Carotenoids and flavonoids both belong to the polyphenol class.,A,True,0.32276255,0.15853563,0.25532618,0.13194506,0.13143067
 "What are the main causes of the obesity epidemic?
-",Increased energy quantity/density and a more sedentary life-style,Decreased leisure time activity,Changes in genetic profiles,None of the options given is correct,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Increased energy quantity/density and a more sedentary life-style,Decreased leisure time activity,Changes in genetic profiles,None of the options given is correct,A,True,0.6664428,0.05915016,0.25295317,0.0177601,0.0036937487
 "Which vitamin is a major lipid-soluble antioxidant in cell membranes?
-",Vitamin A,Vitamin D,Vitamin E,Vitamin K,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin A,Vitamin D,Vitamin E,Vitamin K,C,False,0.8220268,0.046375576,0.06642995,0.062894605,0.0022731079
 "Which of the following contributes to vitamin B12 deficiency in older adults?
-",Reduced secretion of intrinsic factor,Atrophic gastritis,Helicobacter pylori infection,All of the above,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Reduced secretion of intrinsic factor,Atrophic gastritis,Helicobacter pylori infection,All of the above,D,False,0.81861424,0.049547184,0.10326521,0.02181533,0.006758074
 "Obesity increases the risk of endometrial cancer. Which hormone is thought to mediate this effect?
-",Testosterone,Oestrogen,Insulin-like growth factor-1,Thyroxine,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Testosterone,Oestrogen,Insulin-like growth factor-1,Thyroxine,B,False,0.8001775,0.09119122,0.06218701,0.039838493,0.0066058696
 "Which vitamin is required for calcium absorption from the small intestine?
-",Vitamin A,Vitamin D,Vitamin E,Vitamin K,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin A,Vitamin D,Vitamin E,Vitamin K,B,False,0.79993755,0.057947285,0.048416764,0.091878876,0.0018195626
 "Which of the following statements about the metabolic demand for amino acids is correct?
-","The metabolic demand is supplied only from the diet,",The metabolic demand is to maintain protein turnover.,The metabolic demand involves consumption of amino-acids by a number of irreversible pathways and these are either obligatory or adaptive.,The metabolic demand is a fixed amount,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","The metabolic demand is supplied only from the diet,",The metabolic demand is to maintain protein turnover.,The metabolic demand involves consumption of amino-acids by a number of irreversible pathways and these are either obligatory or adaptive.,The metabolic demand is a fixed amount,C,False,0.47088224,0.08119028,0.26621267,0.16921508,0.012499664
 "Which of the following statements about human amino acid requirements in human nutrition is correct?
-",The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.,The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.,The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.,The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.,The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.,The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.,The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.,B,False,0.33885202,0.15696648,0.24985382,0.13584316,0.11848451
 "A food additive is considered to be safe when:
-",No evidence of human toxicity has been observed over the period of its use,Estimated Daily Intake (EDI) from its presence in food is less than its ADI,Its toxic effects are observed only at doses 100x the EDI,Its benefits outweigh its risks,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",No evidence of human toxicity has been observed over the period of its use,Estimated Daily Intake (EDI) from its presence in food is less than its ADI,Its toxic effects are observed only at doses 100x the EDI,Its benefits outweigh its risks,B,False,0.28426063,0.057751056,0.19384891,0.45780993,0.0063293916
 "Which of the following statements is true:
-",Childhood stunting before 24 months of age affects short term cognitive performance,Childhood stunting before 24 months of age affects long term cognitive performance,Neither of the statements are correct,Both of the statements are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Childhood stunting before 24 months of age affects short term cognitive performance,Childhood stunting before 24 months of age affects long term cognitive performance,Neither of the statements are correct,Both of the statements are correct,D,False,0.369791,0.012752796,0.31877977,0.2971354,0.001541058
 "What role do women play in food security?
-",Their main role is preparing meals.,"They play a central role as producers of food, managers of natural resources, income earners and caretakers of household nutrition.","They weed the fields, but never plough or plant them, as only men are strong enough for those activities.",Their efforts focus mainly on vegetable gardens and chickens; men are involved with cereal crops and larger livestock.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Their main role is preparing meals.,"They play a central role as producers of food, managers of natural resources, income earners and caretakers of household nutrition.","They weed the fields, but never plough or plant them, as only men are strong enough for those activities.",Their efforts focus mainly on vegetable gardens and chickens; men are involved with cereal crops and larger livestock.,B,False,0.35861713,0.041351102,0.25729522,0.19727507,0.14546153
 "The following amino acids are all essential components of the diet:
-","leucine, methionine and threonine","proline, tyrosine and serine","valine, glycine and arginine","leucine, cysteine and glycine",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","leucine, methionine and threonine","proline, tyrosine and serine","valine, glycine and arginine","leucine, cysteine and glycine",A,True,0.7675898,0.09532747,0.07541023,0.061069064,0.00060339575
 "Which single statement about fat digestion and absorption is correct?
-",Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum,"After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system.",The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption,Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum,"After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system.",The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption,Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported,D,True,0.03569453,0.05316684,0.19831192,0.65533966,0.057487063
 "Which fatty acids found in plasma phospholipids are associated with reduced cardiovascular mortality?
-",Palmitic acid (16:0),Long chain (=20 carbons) saturated and n-3 polyunsaturated fatty acids,á-linolenic acid (18:3),Stearic acid (18:0),B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Palmitic acid (16:0),Long chain (=20 carbons) saturated and n-3 polyunsaturated fatty acids,á-linolenic acid (18:3),Stearic acid (18:0),B,False,0.89194167,0.040750302,0.014193381,0.05191723,0.0011973605
 "Crohn's disease:
-",Always affects the colon,May lead to intestinal obstruction,Is best treated surgically,Requires a gluten free diet,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Always affects the colon,May lead to intestinal obstruction,Is best treated surgically,Requires a gluten free diet,B,False,0.74979043,0.022998264,0.12928008,0.09607279,0.0018585448
 "Which of the following is true about the diagnosis of ""osteopenia"" or ""osteoporosis"" in North America and Western Europe
-",Women over age 80 with osteopenia have above average bone mineral density for their age,Fewer than 10% of women over age 50 have osteopenia,Fewer than 50% of women over age 80 have osteopenia or osteoporosis,Osteoporosis is defined as a bone density lower than 2.5 standard deviations below the average for age-matched controls.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Women over age 80 with osteopenia have above average bone mineral density for their age,Fewer than 10% of women over age 50 have osteopenia,Fewer than 50% of women over age 80 have osteopenia or osteoporosis,Osteoporosis is defined as a bone density lower than 2.5 standard deviations below the average for age-matched controls.,A,False,0.30052537,0.10224861,0.35134977,0.08120189,0.16467433
 "Which country has undergone the most rapid nutrition transition in the last two decades?
-",China,Sweden,Britain,India,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",China,Sweden,Britain,India,A,True,0.6113143,0.060057275,0.24507119,0.08208857,0.0014686759
 "Acute binge drinking is associated with?
-",Happy heart syndrome,Home heart syndrome,Beach heart syndrome,Holiday heart syndrome,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Happy heart syndrome,Home heart syndrome,Beach heart syndrome,Holiday heart syndrome,D,False,0.46487355,0.06909728,0.17507298,0.28864655,0.0023096083
 "Why are some specific indices of iron status (such as serum ferritin or transferrin receptors) generally considered to be more reliable indices of iron status, than blood haemoglobin levels are?
-",Because they respond more rapidly to changes in iron levels in the diet.,"Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc.",Because the specific iron indices can be measured more accurately and easily.,"Because haemoglobin levels vary with subject age, and between the sexes.",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Because they respond more rapidly to changes in iron levels in the diet.,"Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc.",Because the specific iron indices can be measured more accurately and easily.,"Because haemoglobin levels vary with subject age, and between the sexes.",B,False,0.16337696,0.034921106,0.27253824,0.19784153,0.33132222
 "What stable isotope is commonly given for the measurement of total body water?
-",Deuterium,Carbon 13,Nitrogen 15,Oxygen 18,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Deuterium,Carbon 13,Nitrogen 15,Oxygen 18,A,True,0.7688841,0.086943,0.08167539,0.06165182,0.00084572606
 "What are focus areas of nutritional epidemiology?
-",The role of nutritional factors in causing disease in a population.,How changes in food intake in the population can promote good health.,Both of the options given are correct.,None of the options given is correct.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The role of nutritional factors in causing disease in a population.,How changes in food intake in the population can promote good health.,Both of the options given are correct.,None of the options given is correct.,C,False,0.20346054,0.06352348,0.29258445,0.08750729,0.35292423
 "Which of the following diet-derived compounds have epigenetic effects?
-",Butyrate,Curcumin,Genistein,All of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Butyrate,Curcumin,Genistein,All of the options given are correct,D,False,0.70683956,0.02827714,0.2276914,0.032042198,0.00514965
 "Which of the following does not occur with increasing age?
-",A reduction in lean body mass,A reduction in bone density,An increased appetite,Impaired immune function,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A reduction in lean body mass,A reduction in bone density,An increased appetite,Impaired immune function,C,False,0.7245727,0.05167412,0.12203796,0.10038568,0.0013294973
 "Which vitamin is required for synthesis of the blood clotting proteins?
-",Vitamin A,Vitamin D,Vitamin E,Vitamin K,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin A,Vitamin D,Vitamin E,Vitamin K,D,False,0.7698142,0.07622193,0.057087585,0.094121516,0.0027547774
 "What the largest endogenous substrate source in the body?
-",Liver glycogen,Muscle glycogen,Intramuscular lipid,Adipose tissue,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Liver glycogen,Muscle glycogen,Intramuscular lipid,Adipose tissue,D,True,0.21097484,0.030157283,0.10775541,0.6447911,0.0063213096
 "Which of the following statements concerning transamination is correct?
-",Only non-essential (dispensable) amino acids undergo transamination.,Transamination is an irreversible reaction in amino acid catabolism.,Transaminases require a coenzyme derived from vitamin B12.,Transaminases require a coenzyme derived from vitamin B6.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Only non-essential (dispensable) amino acids undergo transamination.,Transamination is an irreversible reaction in amino acid catabolism.,Transaminases require a coenzyme derived from vitamin B12.,Transaminases require a coenzyme derived from vitamin B6.,D,False,0.22318663,0.20480755,0.27132592,0.121344455,0.17933549
 "What is food security?
-",It relates to efforts to prevent terrorists from poisoning food supplies.,It is about ensuring everyone's access to food.,"Its component elements include availability, utilisation, and stability, as well as access.",Food security focuses primarily on ending micronutrient malnutrition.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",It relates to efforts to prevent terrorists from poisoning food supplies.,It is about ensuring everyone's access to food.,"Its component elements include availability, utilisation, and stability, as well as access.",Food security focuses primarily on ending micronutrient malnutrition.,C,False,0.29733875,0.103563465,0.2859479,0.13560086,0.17754908
 "What is the likely reason that evidence to support the relationship between dietary cholesterol and plasma LDL cholesterol levels in humans is inconclusive?
-",The complexity of the mechanisms regulating the absorption of cholesterol and its export in lipoproteins.,The complexity of the mechanism controlling the clearance of intestinally derived lipoproteins by the liver.,The multiple intrahepatic responses to increased cellular cholesterol.,All of the above.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The complexity of the mechanisms regulating the absorption of cholesterol and its export in lipoproteins.,The complexity of the mechanism controlling the clearance of intestinally derived lipoproteins by the liver.,The multiple intrahepatic responses to increased cellular cholesterol.,All of the above.,D,False,0.12765652,0.10707848,0.43185645,0.05890381,0.27450466
 "Which of the following statements about amino acid scoring for predicting protein quality in human nutrition is correct?
-",The amino acid score is calculated by comparing the amino acid pattern of the protein to that of egg protein.,The amino acid score is calculated by comparing the amino acid pattern of the protein to that of milk protein.,A single reference pattern is used to calculate the amino acid score for all ages,Different amino acid scoring patterns are used for different age groups.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The amino acid score is calculated by comparing the amino acid pattern of the protein to that of egg protein.,The amino acid score is calculated by comparing the amino acid pattern of the protein to that of milk protein.,A single reference pattern is used to calculate the amino acid score for all ages,Different amino acid scoring patterns are used for different age groups.,D,False,0.25456426,0.07437237,0.31681034,0.25456426,0.09968879
 "A 20 year old student who has recently arrived in Britain from Sudan visits the university health centre to complain of abdominal cramps and diarrhoea after drinking milk. Which of the following is the most likely cause of his problem?
-",Bacterial and yeast overgrowth in the small intestine,Lack of pancreatic amylase,Lack of small intestinal lactase,Lack of small intestinal sucrase-isomaltase,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Bacterial and yeast overgrowth in the small intestine,Lack of pancreatic amylase,Lack of small intestinal lactase,Lack of small intestinal sucrase-isomaltase,C,False,0.8011662,0.029182477,0.07870887,0.08780609,0.003136475
 "Which of the following is the main nitrogenous compound in urine?
-",Uric acid,Ammonia,Urea,Creatinine,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Uric acid,Ammonia,Urea,Creatinine,C,False,0.8350949,0.021235418,0.066960834,0.0752861,0.0014226843
 "It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that
-",The frequent use of antiseptic swipes will reduce allergies,Living on a working farm will help reducing the development of atopic diseases,Particular care must be taken during breast feeding in high risk infants,Living on a working farm will increase the development of atopic diseases,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The frequent use of antiseptic swipes will reduce allergies,Living on a working farm will help reducing the development of atopic diseases,Particular care must be taken during breast feeding in high risk infants,Living on a working farm will increase the development of atopic diseases,B,False,0.31176585,0.030628774,0.25247568,0.40345496,0.0016747934
 "Why might some biochemical (eg plasma or serum) indices of micronutrient status give misleading results in people with infections or inflammatory states?
-","Because people who are sick often alter their diets, and may eat less food.",Because the accuracy of some laboratory assays may be compromised in samples from people who are sick.,"Because some metabolic pathways are altered in sick people, which changes their micronutrient requirements.",Because an acute phase reaction results in changes in inter-tissue distributions of certain micronutrients.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Because people who are sick often alter their diets, and may eat less food.",Because the accuracy of some laboratory assays may be compromised in samples from people who are sick.,"Because some metabolic pathways are altered in sick people, which changes their micronutrient requirements.",Because an acute phase reaction results in changes in inter-tissue distributions of certain micronutrients.,D,False,0.17979118,0.13153803,0.36890754,0.22201246,0.09775076
 "What proportion of vegans is likely to be deficient in vitamin B12?
-",3%,32%,66%,15%,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",3%,32%,66%,15%,B,False,0.35181102,0.21007594,0.20361261,0.22188444,0.012616042
 "Which of these factors increases the risk for cancer of the oesophagus?
-",Processed meat,Fruit and vegetables,Salt,Alcohol,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Processed meat,Fruit and vegetables,Salt,Alcohol,D,False,0.4272419,0.06759948,0.14536172,0.35697398,0.0028230534
 "Which one of the following statements about protein nutrition is correct?
-","There is a requirement for dietary protein, but it is unimportant which protein is consumed.","The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet.",All dietary proteins have the same amino acid content and composition.,For an adult in nitrogen equilibrium there is only a small requirement for an intake of protein since amino acids arising from tissue protein catabolism are available for new protein synthesis.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","There is a requirement for dietary protein, but it is unimportant which protein is consumed.","The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet.",All dietary proteins have the same amino acid content and composition.,For an adult in nitrogen equilibrium there is only a small requirement for an intake of protein since amino acids arising from tissue protein catabolism are available for new protein synthesis.,B,False,0.112675525,0.09789419,0.48563132,0.25791684,0.045882083
 "Higher dietary sodium (salt) intake is generally associated with:
-",Decreased calcium excretion in the urine,Increased risk of fracture,Decreased dietary calcium absorption,Negative calcium balance and bone mineral loss,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Decreased calcium excretion in the urine,Increased risk of fracture,Decreased dietary calcium absorption,Negative calcium balance and bone mineral loss,D,False,0.5114993,0.04069463,0.17539379,0.2716552,0.0007570857
 "Which of the following is a function of vitamin B6?
-",Synthesis of TMP (thymidine monophosphate),Decarboxylation of amino acids to form amine neurotransmitters,Synthesis of methionine from homocysteine,Carboxylation of pyruvate to oxaloacetate,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Synthesis of TMP (thymidine monophosphate),Decarboxylation of amino acids to form amine neurotransmitters,Synthesis of methionine from homocysteine,Carboxylation of pyruvate to oxaloacetate,B,False,0.65808004,0.05840792,0.10742862,0.1757415,0.00034192172
 "Which of the following statements is/are true?
 There is increasing concern about the importance of adequate nutrition in the pre-conception period to support a successful pregnancy. This is because:
-",in the embryonic period the foetus is vulnerable to external factors in its environment,the embryonic period often occurs before a woman knows she is pregnant,interventions in late pregnancy may be too late to be effective,all of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",in the embryonic period the foetus is vulnerable to external factors in its environment,the embryonic period often occurs before a woman knows she is pregnant,interventions in late pregnancy may be too late to be effective,all of the options given are correct,D,False,0.7797183,0.033727303,0.14536461,0.032182816,0.009006939
 "Which of the following best explains the antioxidant action of vitamin E?
-",It forms a stable radical that can be reduced back to active vitamin E by reaction with vitamin C,It is converted to a stable radical by reaction with vitamin C,It is lipid soluble and can react with free radicals in the bloodstream resulting from nitric oxide formation by vascular epithelium,It forms a stable radical that can be reduced back to active vitamin E by reaction with glutathione and glutathione peroxidase,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",It forms a stable radical that can be reduced back to active vitamin E by reaction with vitamin C,It is converted to a stable radical by reaction with vitamin C,It is lipid soluble and can react with free radicals in the bloodstream resulting from nitric oxide formation by vascular epithelium,It forms a stable radical that can be reduced back to active vitamin E by reaction with glutathione and glutathione peroxidase,A,True,0.5697217,0.18496156,0.14631663,0.09823234,0.0007677992
 "Which of these factors increases the risk for cancer of the stomach?
-",Obesity,Sugar,Salt and salt-preserved foods,Dietary fibre,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Obesity,Sugar,Salt and salt-preserved foods,Dietary fibre,C,False,0.44520703,0.081078224,0.10657531,0.36621732,0.0009220571
 "What are the main enzyme systems for catalysing ethanol to acetaldehyde?
-",Alcohol dehydrogenase (ADH),Catalase,"Alcohol dehydrogenase (ADH), cytochrome P450 2E1 (CYP2EI), catalase",cytochrome P450 2E1 (CYP2EI),C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Alcohol dehydrogenase (ADH),Catalase,"Alcohol dehydrogenase (ADH), cytochrome P450 2E1 (CYP2EI), catalase",cytochrome P450 2E1 (CYP2EI),C,False,0.7411047,0.13081275,0.0942209,0.029880451,0.0039811847
 "In a healthy person maintaining energy balance in equilibrium (i.e. mathematical equality of energy intake and energy expenditure) is generally achieved on a:
-",day-to-day basis,2-3 day basis,3-4 day basis,1-2 week basis,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",day-to-day basis,2-3 day basis,3-4 day basis,1-2 week basis,D,True,0.26517305,0.014613491,0.025447885,0.69320107,0.001564506
 "Which of the following statements is incorrect regarding fatty acid ß-oxidation?
-","The major site of fatty acid ß-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway",Within the liver peroxisomes serve to oxidise very long chain fatty acids to medium chain products,The rate of b-oxidation is regulated by the availability of fatty acids and the rate of utilisation of b-oxidation products,Peroxisomes are the site for the degradation of xenobiotics and eicosanoids,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","The major site of fatty acid ß-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway",Within the liver peroxisomes serve to oxidise very long chain fatty acids to medium chain products,The rate of b-oxidation is regulated by the availability of fatty acids and the rate of utilisation of b-oxidation products,Peroxisomes are the site for the degradation of xenobiotics and eicosanoids,A,True,0.633366,0.123746604,0.19774652,0.042765684,0.0023752695
 "Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. causing clinical symptoms. Infants and children normally express sufficient lactase levels as not to experience clinical symptoms. Overall, adults can be classified as lactase-persisters or lactase non-persisters. What is the approximate percentage of Lactase non-persisters worldwide?
-",45%-50%,70%-75 %,10%-15%,30%-35%,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",45%-50%,70%-75 %,10%-15%,30%-35%,B,False,0.44955683,0.23875782,0.19639684,0.10349386,0.011794547
 "Which of the following vitamins provides the coenzyme for carboxylation reactions?
-",Biotin,Niacin,Riboflavin,Thiamin,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Biotin,Niacin,Riboflavin,Thiamin,A,True,0.81597435,0.102131166,0.044270582,0.036132596,0.0014913705
 "According to trials on diabetes prevention, high-risk individuals can reduce their risk to develop diabetes by doing the following:
-",Eating a very low carbohydrate diet,Consuming a diet high in monounsaturated fats,Losing 5-7% of body weight through a hypocaloric low fat diet and 30 minutes of daily activity,Initiating metformin 850 mg BID and practicing daily vigorous exercise,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Eating a very low carbohydrate diet,Consuming a diet high in monounsaturated fats,Losing 5-7% of body weight through a hypocaloric low fat diet and 30 minutes of daily activity,Initiating metformin 850 mg BID and practicing daily vigorous exercise,C,True,0.31823945,0.10171544,0.36061254,0.21533158,0.0041010445
 "IBS
-",Is primarily a psychological problem,Is a contra-indication to colonoscopy,May be associated with constipation,always resolves with a gluten free diet.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Is primarily a psychological problem,Is a contra-indication to colonoscopy,May be associated with constipation,always resolves with a gluten free diet.,C,False,0.13149871,0.14842664,0.25948128,0.042691384,0.41790205
 "The gut microbes metabolize L-carnitine into which metabolite that has been shown increase cardiovascular disease?
-",choline,betaine,Trimethylamine,All of the above,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",choline,betaine,Trimethylamine,All of the above,C,False,0.7082531,0.066394486,0.1543718,0.028113196,0.0428675
 "Which of the following statements is correct?
-",Sulfur dioxide is not used in foods containing thiamin because it causes destruction of the vitamin,Sulfur dioxide is not used in foods containing niacin because it causes destruction of the vitamin,Sulfur dioxide is not used in foods containing vitamin E because it causes destruction of the vitamin,Sulfur dioxide is not used in foods containing vitamin C because it causes destruction of the vitamin,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Sulfur dioxide is not used in foods containing thiamin because it causes destruction of the vitamin,Sulfur dioxide is not used in foods containing niacin because it causes destruction of the vitamin,Sulfur dioxide is not used in foods containing vitamin E because it causes destruction of the vitamin,Sulfur dioxide is not used in foods containing vitamin C because it causes destruction of the vitamin,A,True,0.62229335,0.06507882,0.14438367,0.16618459,0.0020595223
 "Eosinophilic oesophagitis
-",Leads to oesophageal diverticular,May cause oesopgageal obstruction,Is not due to allergy,Benefits from antacid therapy,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Leads to oesophageal diverticular,May cause oesopgageal obstruction,Is not due to allergy,Benefits from antacid therapy,B,False,0.6875636,0.08948687,0.105441295,0.113121994,0.0043862155
 "Which of the following vitamins is required for fatty acid b-oxidation?
-",Niacin,Riboflavin,Thiamin,Vitamin C,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Niacin,Riboflavin,Thiamin,Vitamin C,B,False,0.8511179,0.0876291,0.008608935,0.046539463,0.0061046495
 "Children who are obese should:
-",Follow a different diet to the rest of the family,Eat the same and take more exercise,"Reduce their total energy intake, increase their activity level and reduce their screen time",Eat more fruit and vegetables,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Follow a different diet to the rest of the family,Eat the same and take more exercise,"Reduce their total energy intake, increase their activity level and reduce their screen time",Eat more fruit and vegetables,C,False,0.44698167,0.13316381,0.30961516,0.100517325,0.009722012
 "Which of the treatments below has not demonstrated efficacy in BED
-",Cognitive Behavioural Therapy,"Antidepressants (Fluoxetine, Sertraline)","Antiobesity agents (Orlistat, Sibutramine)","Benzodizepines (Diazepam, Alprazolam)",D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Cognitive Behavioural Therapy,"Antidepressants (Fluoxetine, Sertraline)","Antiobesity agents (Orlistat, Sibutramine)","Benzodizepines (Diazepam, Alprazolam)",D,False,0.7144641,0.12033539,0.11304464,0.04977288,0.0023831136
 "Which of the following is a function of biotin?
-",Decarboxylation of amino acids to form amine neurotransmitters,Synthesis of methionine from homocysteine,Carboxylation of pyruvate to oxaloacetate,Synthesis of methylene tetrahydrofolate,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Decarboxylation of amino acids to form amine neurotransmitters,Synthesis of methionine from homocysteine,Carboxylation of pyruvate to oxaloacetate,Synthesis of methylene tetrahydrofolate,C,False,0.54823273,0.08810902,0.08539819,0.2778308,0.00042928086
 "How is iron transported in the circulation from the intestine to the sites of metabolism in the body?
-",As simple Fe2+ in the serum,Bound to albumin,Bound to ferritin,Bound to transferrin,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",As simple Fe2+ in the serum,Bound to albumin,Bound to ferritin,Bound to transferrin,D,False,0.7836183,0.018573476,0.109417625,0.08723534,0.0011553355
 "The safety of which of the following substances must be demonstrated prior to their introduction into food?
-",Pesticide chemicals,Substances migrating from food packaging,Colour additives,All of the above,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Pesticide chemicals,Substances migrating from food packaging,Colour additives,All of the above,D,False,0.8525858,0.02698143,0.07164414,0.023441872,0.025346708
 "Select the single most accurate statement about the absorptive area of the human intestine?
-",The absorptive area is equivalent to that of a tennis court,All of the options given are correct,Changes in motility increase the contact time between nutrients and absorptive surface,"The presence of folds, villi and microvilli on the surface of enterocytes magnifies the absorptive area",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The absorptive area is equivalent to that of a tennis court,All of the options given are correct,Changes in motility increase the contact time between nutrients and absorptive surface,"The presence of folds, villi and microvilli on the surface of enterocytes magnifies the absorptive area",B,False,0.39555636,0.14551705,0.24753286,0.20844357,0.0029501494
 "Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:
-",severe atopic dermatitis,enterocolitis,diarrhoea,all of the above,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",severe atopic dermatitis,enterocolitis,diarrhoea,all of the above,D,False,0.7374323,0.010768355,0.1938795,0.050576486,0.0073433802
 "High intake of which of these dietary components predisposes to accelerated cognitive decline
-",High glycaemic index carbohydrates,A high n-6:n-3 fat ratio,Long chain saturated fats,All of the above,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",High glycaemic index carbohydrates,A high n-6:n-3 fat ratio,Long chain saturated fats,All of the above,D,False,0.7438293,0.03478936,0.17258227,0.033719003,0.015080071
 "Which of the following statements is/are true?
 How can smoking affect breastfeeding?
-",Suppresses milk production,Alters the composition of breast milk,Increases the risk of early cessation of breastfeeding,all of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Suppresses milk production,Alters the composition of breast milk,Increases the risk of early cessation of breastfeeding,all of the options given are correct,D,False,0.78842115,0.01783156,0.11537151,0.07566248,0.0027132777
 "Which of the following statements about the global ageing population is correct?
-",It is predicted that by 2040 over 25% of the world's population will be 65yr or older.,The rate of increase in the median age of populations is greater in developing countries than wealthy countries.,In older age groups men outnumber women.,"Men have a lower mortality rate than women, over the life course.",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",It is predicted that by 2040 over 25% of the world's population will be 65yr or older.,The rate of increase in the median age of populations is greater in developing countries than wealthy countries.,In older age groups men outnumber women.,"Men have a lower mortality rate than women, over the life course.",B,False,0.19388479,0.10961253,0.41045412,0.25887018,0.027178343
 "Which of the following changes in body composition are associated with ageing in older adults?
-",Increased bone mass,Increased muscle mass,Increased body fat,All of the above,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Increased bone mass,Increased muscle mass,Increased body fat,All of the above,C,False,0.74245083,0.030644605,0.14619724,0.07525589,0.005451518
 "What is the main source of protein in the British diet?
-",Fish and fish products,Pulses,Meat and meat products,Milk and milk products,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Fish and fish products,Pulses,Meat and meat products,Milk and milk products,C,False,0.7498933,0.03507298,0.17398924,0.039126735,0.0019178044
 "What is leptin resistance?
-",Deficiency of leptin caused by a mutation in the leptin gene,Lack of leptin release from the adipose tissue,High concentrations of leptin without reduction in energy intake,Low concentrations of leptin with increased energy intake,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Deficiency of leptin caused by a mutation in the leptin gene,Lack of leptin release from the adipose tissue,High concentrations of leptin without reduction in energy intake,Low concentrations of leptin with increased energy intake,C,False,0.52774143,0.07198221,0.15969951,0.2378717,0.0027051813
 "The two most common causes of foodborne illness in the United States and Europe are:
-",Salmonella and Campylobacter,Listeria and Salmonella,Shigella and Staphlococcus,E. coli STECs and non-STEC subtypes,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Salmonella and Campylobacter,Listeria and Salmonella,Shigella and Staphlococcus,E. coli STECs and non-STEC subtypes,A,True,0.81166494,0.048364937,0.046876904,0.08689605,0.006197138
 "Bariatric surgery is used for obesity treatment but how much is the incidence of type 2 diabetes reduced in obese individuals after surgery?
-",80-90%,No reduction in the incidence,Approximately 50 %,None of the options given is correct,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",80-90%,No reduction in the incidence,Approximately 50 %,None of the options given is correct,A,False,0.3989462,0.08627816,0.49649656,0.013334958,0.0049441326
 "What are the disadvantages of identifying under-reporting of usual intake using the doubly labelled water technique?
-",It uses a sophisticated analytical technique,It provides a marker for energy intake only,Mis-reporting of low energy content foods would not be identified,All of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",It uses a sophisticated analytical technique,It provides a marker for energy intake only,Mis-reporting of low energy content foods would not be identified,All of the options given are correct,D,False,0.5540049,0.0451216,0.38076165,0.016992949,0.0031189178
 "Facial flushing is seen in approximately 50% of East Asians and is thought to be due to a deficiency of?
-",ALDH1,ALDH2,ALDH3,ALDH4,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",ALDH1,ALDH2,ALDH3,ALDH4,B,False,0.8243514,0.040722646,0.050680153,0.084212795,3.302788e-05
 "Which of the following foods do not contain free sugars
-",Cows' milk,Natural unsweetened orange juice,Honey,Agave nectar,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Cows' milk,Natural unsweetened orange juice,Honey,Agave nectar,A,True,0.7993459,0.068763204,0.048380956,0.08229878,0.0012111936
 "Which of the following inborn errors of metabolism gives rise to zinc deficiency?
-",Acrodermatitis enteropathica,Wilson's disease,Menkes disease,Haemochromatosis,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Acrodermatitis enteropathica,Wilson's disease,Menkes disease,Haemochromatosis,A,True,0.8203376,0.048123877,0.108448826,0.020061016,0.0030287604
 "Ulcerative Colitis
-",Carries a risk of colonic cancer,Can be treated with a LOFFLEX diet,Can be caused by small intestinal bacterial overgrowth,Can be caused by milk intolerance,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Carries a risk of colonic cancer,Can be treated with a LOFFLEX diet,Can be caused by small intestinal bacterial overgrowth,Can be caused by milk intolerance,A,True,0.6956711,0.024179421,0.06572649,0.21383174,0.0005912978
 "What characteristic is not representative of a type IIb muscle fibre?
-",Low oxidative capacity,High fatigue resistance,High motor unit strength,Fast contractile speed,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Low oxidative capacity,High fatigue resistance,High motor unit strength,Fast contractile speed,B,False,0.4030951,0.10515364,0.24640708,0.24448954,0.0008546378
 "Which of the following statements is not true?
-",Vegan diets are likely to be deficient in protein,Cereals are deficient in lysine,Legumes are deficient in methionine,Dairy products are rich source of tryptophan,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vegan diets are likely to be deficient in protein,Cereals are deficient in lysine,Legumes are deficient in methionine,Dairy products are rich source of tryptophan,A,True,0.6093815,0.02326196,0.10756222,0.25802836,0.0017659601
 "Intestinal failiure:
-",Always requires parenteral nutritional suport,May follow colectomy,Is always permanent,May benefit from sodium supplementation of >=90mmol/l,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Always requires parenteral nutritional suport,May follow colectomy,Is always permanent,May benefit from sodium supplementation of >=90mmol/l,D,True,0.2685748,0.031579383,0.19803464,0.50176376,4.747768e-05
 "Which of the following statements is correct?
-",Mycotoxins contaminate foods containing bacteria formed during storage under dry conditions,Mycotoxins contaminate foods containing fungi formed during storage under dry conditions,Mycotoxins contaminate foods containing bacteria formed during storage under moist conditions,Mycotoxins contaminate foods containing fungi formed during storage under moist conditions,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Mycotoxins contaminate foods containing bacteria formed during storage under dry conditions,Mycotoxins contaminate foods containing fungi formed during storage under dry conditions,Mycotoxins contaminate foods containing bacteria formed during storage under moist conditions,Mycotoxins contaminate foods containing fungi formed during storage under moist conditions,D,False,0.613376,0.08975675,0.18706912,0.10742475,0.002373322
 "Which of the following is true about dietary calcium:
-",Typical calcium intake in most adults is between 0.5mg and 2.0mg per day,Activated Vitamin D decreases absorption of dietary calcium,There is clear evidence that people who consume more than the average amount of calcium have a lower risk of bone fractures.,"Absorption efficiency is inversely related to calcium intake, so that a higher proportion is absorbed when calcium intake is low",D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Typical calcium intake in most adults is between 0.5mg and 2.0mg per day,Activated Vitamin D decreases absorption of dietary calcium,There is clear evidence that people who consume more than the average amount of calcium have a lower risk of bone fractures.,"Absorption efficiency is inversely related to calcium intake, so that a higher proportion is absorbed when calcium intake is low",D,True,0.18403748,0.065109916,0.30820477,0.44148296,0.0011649049
 "Oral bacterial synthesise extracellular glucans (dextran and mutan) from which host dietary component?
-",glucose,Alpha limit dextrins,Sucrose,polysaccharides,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",glucose,Alpha limit dextrins,Sucrose,polysaccharides,C,False,0.78782445,0.06830362,0.06122697,0.07158159,0.011063487
 "What is the definition of overweight?
-",BMI > 25 kg/m2,BMI = 25 kg/m2,BMI 25-29.9 kg/m2,BMI 25-30 kg/m2,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",BMI > 25 kg/m2,BMI = 25 kg/m2,BMI 25-29.9 kg/m2,BMI 25-30 kg/m2,C,False,0.6948153,0.077349454,0.08696633,0.14006177,0.000807214
 "Pregnancy and lactation is known to:
-",Decrease calcium requirements,Result in bone mineral loss from the skeleton,Decrease the rate of dietary calcium absorption,Affect bone mineral content later in life,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Decrease calcium requirements,Result in bone mineral loss from the skeleton,Decrease the rate of dietary calcium absorption,Affect bone mineral content later in life,B,False,0.6218472,0.0670965,0.13343732,0.17403509,0.0035838746
 "Observational epidemiology studies have produced useful in identifying health effects of many food contaminants, but not for assessing risk, because:
-",It is never possible to know whether observed effects are caused by the contaminant,Human exposure though food is usually much less than exposures that have been studied,Controlled animal studies provide more reliable information,Reliable dose-response data are difficult to acquire and often unavailable,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",It is never possible to know whether observed effects are caused by the contaminant,Human exposure though food is usually much less than exposures that have been studied,Controlled animal studies provide more reliable information,Reliable dose-response data are difficult to acquire and often unavailable,D,True,0.33631283,0.023065876,0.0710479,0.563218,0.006355317
 "It is correct to state that for the treatment of Bulimia Nervosa:
-",Fluoxetine is considered of benefit,The first approach is to discuss body image,It is not useful to discuss weight with patients,Treatments should target exclusively on purging practices,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Fluoxetine is considered of benefit,The first approach is to discuss body image,It is not useful to discuss weight with patients,Treatments should target exclusively on purging practices,A,True,0.4948235,0.06193442,0.14973824,0.28415322,0.009350699
 "The respiration quotient (RQ):
-",is defined as the ratio of VO2 divided by VCO2.,decreases on a high carbohydrate diet.,increases with fasting.,goes beyond a value of 1.0 when exogenous carbohydrate is converted to endogenous fat.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",is defined as the ratio of VO2 divided by VCO2.,decreases on a high carbohydrate diet.,increases with fasting.,goes beyond a value of 1.0 when exogenous carbohydrate is converted to endogenous fat.,D,False,0.12596208,0.054814227,0.4362295,0.18327375,0.19972041
 "Nitrites are added to processed meats mainly to prevent the growth of the following genus of microorganisms
-",salmonella,clostridium,listeria,campylobacter,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",salmonella,clostridium,listeria,campylobacter,B,False,0.6537851,0.15528758,0.10756456,0.06731218,0.01605062
 "At what stage(s) during pregnancy did in utero exposure to the Dutch Hunger Winter have the biggest effects on DNA methylation in blood cells from the adult offspring?
-",First trimester of pregnancy.,Second trimester of pregnancy.,Third trimester of pregnancy.,Effects were similar at all stages of pregnancy.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",First trimester of pregnancy.,Second trimester of pregnancy.,Third trimester of pregnancy.,Effects were similar at all stages of pregnancy.,A,False,0.103039876,0.04003698,0.66667557,0.1333435,0.05690402
 "The body's adjustment of heat production to changes in the plane of nutrition (under- or over-nutrition) and to minimize energy imbalance is known as:
-",Basal metabolic rate,Thermic effect of food,Adaptive thermogenesis,Thermal balance,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Basal metabolic rate,Thermic effect of food,Adaptive thermogenesis,Thermal balance,C,False,0.72227174,0.04270331,0.15378053,0.07915943,0.0020849505
 "Which drug(s) is/are approved for the treatment of obesity in Europe?
-",Orlistat,Phentermine/Topiramate,Lorcaserin,Naltrexone/Bupropion,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Orlistat,Phentermine/Topiramate,Lorcaserin,Naltrexone/Bupropion,A,True,0.83955693,0.055809096,0.022373434,0.08120175,0.0010587543
 "In order to achieve optimal nutritional status it is recommended that older adults consume:
-",A high energy content diet.,A high nutrient dense diet.,A low energy content diet.,A daily antioxidant supplement.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A high energy content diet.,A high nutrient dense diet.,A low energy content diet.,A daily antioxidant supplement.,B,False,0.23502494,0.10760225,0.30414486,0.25214493,0.101082966
 "The measurement of a specific biochemical status index for a micronutrient such as vitamin C is most likely to be useful in practice to estimate:
-","The presence or risk of a clinical deficiency, such as clinical scurvy.",The overall quality of a person's diet,"The tissue levels, or body status, of that nutrient.",Overall health and freedom from disease.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","The presence or risk of a clinical deficiency, such as clinical scurvy.",The overall quality of a person's diet,"The tissue levels, or body status, of that nutrient.",Overall health and freedom from disease.,C,True,0.20385869,0.09935279,0.32071474,0.1690048,0.20706901
 "Which statement about protein digestion and absorption is most correct?
-",The products of protein digestion may be absorbed as free amino acids or as di- or tripeptides,Gastric digestion of all proteins is equally efficient because of the grinding action of the antrum,"Gastric zymogenic (chief) cells produce and secrete chymotrypsin, elastase and carboxypeptidase A and this initiates the process of protein digestion",The products of digestion of dietary protein by luminal and brush-border enzymes are only absorbed by one of the 14 different amino acid transporters,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The products of protein digestion may be absorbed as free amino acids or as di- or tripeptides,Gastric digestion of all proteins is equally efficient because of the grinding action of the antrum,"Gastric zymogenic (chief) cells produce and secrete chymotrypsin, elastase and carboxypeptidase A and this initiates the process of protein digestion",The products of digestion of dietary protein by luminal and brush-border enzymes are only absorbed by one of the 14 different amino acid transporters,A,True,0.4217306,0.16386685,0.10254526,0.24407896,0.067778274
 "What is the density of fat free mass?
-",0.900 g/cm3,0.730 g/cm3,1.100 g/cm3,None of the above,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",0.900 g/cm3,0.730 g/cm3,1.100 g/cm3,None of the above,C,False,0.6283216,0.07742441,0.17177355,0.10098047,0.021499982
 "In an epidemiological context, what is the population at risk?
-",The proportion of a population that engage in risky behaviours.,The group of people that may experience the outcome we want to study.,A group of people participating in a study that may be harmful to them.,The population group with the highest relative risk of disease.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The proportion of a population that engage in risky behaviours.,The group of people that may experience the outcome we want to study.,A group of people participating in a study that may be harmful to them.,The population group with the highest relative risk of disease.,B,False,0.25870666,0.12316284,0.31205982,0.09819397,0.20787665
 "How will climate change affect future food security?
-","It will have negative impacts in most developing countries because of the increased frequency of droughts, storms and floods.","The impact will be positive, because drier weather will mean less habitat for malaria mosquitoes, so fewer workers will be sick at harvest time.",The impact will be positive because there will be more carbon dioxide available for plant photosynthesis.,There currently is no scientific consensus as to whether climate change is occurring or whether it will over the next 50 years.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","It will have negative impacts in most developing countries because of the increased frequency of droughts, storms and floods.","The impact will be positive, because drier weather will mean less habitat for malaria mosquitoes, so fewer workers will be sick at harvest time.",The impact will be positive because there will be more carbon dioxide available for plant photosynthesis.,There currently is no scientific consensus as to whether climate change is occurring or whether it will over the next 50 years.,A,False,0.10946645,0.08425933,0.36457893,0.1675697,0.27412573
 "What is a major limitation of using BMI (body mass index) as a method of body fat measurements?
-",It is not an accurate measure for average people,It is more accurate than height-weight tables,It does not distinguish between fat and fat free mass,All of the above,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",It is not an accurate measure for average people,It is more accurate than height-weight tables,It does not distinguish between fat and fat free mass,All of the above,C,False,0.6966599,0.07061446,0.18897408,0.031091124,0.0126604745
 "Which of the following vitamins provides the cofactor for hydroxylation reactions in collagen synthesis?
-",Biotin,Niacin,Riboflavin,Vitamin C,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Biotin,Niacin,Riboflavin,Vitamin C,D,False,0.8023571,0.12498313,0.014022718,0.05169527,0.006941749
 "Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include:
-",lowering intramuscular lipid storage,Increasing liver glycogen content,Increasing muscle glycogen use during exercise,Increasing intramuscular lipid use during exercise,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",lowering intramuscular lipid storage,Increasing liver glycogen content,Increasing muscle glycogen use during exercise,Increasing intramuscular lipid use during exercise,D,False,0.607213,0.118636854,0.11679756,0.15473163,0.0026210295
 "Which vitamins are most likely to be lacking in a vegan diet?
-",Vitamin B1,Folate,Vitamin B12,Vitamin A,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin B1,Folate,Vitamin B12,Vitamin A,C,False,0.7792668,0.06599662,0.04097823,0.11052353,0.0032348367
 "A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast and a boiled egg. Which one of the following will be at a higher concentration than if the blood sample had been taken before breakfast?
-",Alanine,Glucose,Ketone bodies,Non-esterified (free) fatty acids,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Alanine,Glucose,Ketone bodies,Non-esterified (free) fatty acids,B,False,0.8879595,0.016519658,0.042184427,0.04153042,0.011806067
 "In adolescence:
-",Brain growth is faster than at any other stage in life,Peak bone mass occurs before the growth spurt ends,Girls physiologically increase their percentage body fat,Type 2 obesity related diabetes remains a very rare problem,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Brain growth is faster than at any other stage in life,Peak bone mass occurs before the growth spurt ends,Girls physiologically increase their percentage body fat,Type 2 obesity related diabetes remains a very rare problem,C,False,0.37633777,0.19677277,0.23550616,0.1863007,0.005082481
 "In which form is selenium found in the 25 human selenoproteins?
-",Selenophosphate,Selenocysteine,Selenohistidine,Selenate,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Selenophosphate,Selenocysteine,Selenohistidine,Selenate,B,False,0.69502276,0.020026764,0.02673924,0.25768995,0.00052133214
 "On a global scale, trends are suggesting that with rising incomes and urbanization we are seeing a rise in which food commodities?
-",Roots and Tubers,Fruits and vegetables,Beans and lentils,Meat and Dairy products,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Roots and Tubers,Fruits and vegetables,Beans and lentils,Meat and Dairy products,D,False,0.726143,0.055558383,0.08340301,0.13019027,0.0047052763
 "Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Which statement about this process is correct?
-",The migrating motor complex is chiefly responsible for peristaltic movement of food after a meal has been consumed,The release of insulin after eating a meal will slow the emptying of the stomach,"At the start of a meal, the stomach increases its ""tone"" in order to develop pressure which will lead to expulsion of its contents, via the pylorus","The presence of partially digested fat and starch in the duodenum, slows intestinal motility",D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The migrating motor complex is chiefly responsible for peristaltic movement of food after a meal has been consumed,The release of insulin after eating a meal will slow the emptying of the stomach,"At the start of a meal, the stomach increases its ""tone"" in order to develop pressure which will lead to expulsion of its contents, via the pylorus","The presence of partially digested fat and starch in the duodenum, slows intestinal motility",D,False,0.28065225,0.18842101,0.45199853,0.07672606,0.0022022072
 "It is possible to reduce (though not eliminate) information bias in assessment of dietary intake by
-",gathering information about many different aspects of people's dietary habits.,"collecting data about dietary intake at the onset of a study, before people have experienced symptoms of disease.",collecting data on all possible confounders.,making sure that the study sample is representative of the population.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",gathering information about many different aspects of people's dietary habits.,"collecting data about dietary intake at the onset of a study, before people have experienced symptoms of disease.",collecting data on all possible confounders.,making sure that the study sample is representative of the population.,B,False,0.11253122,0.072655626,0.22555031,0.056584254,0.5326786
 "To characterize a binge eating episode one must investigate the presence of:
-","If patients feel that their eating habits are chaotic, regardless of meal size.",The consumption of large quantities of sweets between meals.,A subjective component of lack of control and an objective component of large consumption of food in a discrete period of time,The feeling that one cannot choose the type of food eaten even if their quantity is kept under control.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","If patients feel that their eating habits are chaotic, regardless of meal size.",The consumption of large quantities of sweets between meals.,A subjective component of lack of control and an objective component of large consumption of food in a discrete period of time,The feeling that one cannot choose the type of food eaten even if their quantity is kept under control.,C,True,0.22846082,0.18357342,0.4301686,0.099807136,0.057990022
 "Which of the factors below is NOT considered a risk factor for Eating Disorders
-",Perfectionism traits,Female gender,Dieting during adolescence,Parental anxiety,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Perfectionism traits,Female gender,Dieting during adolescence,Parental anxiety,D,True,0.31272715,0.051451705,0.25128332,0.3831613,0.0013765079
 "Which statement about absorption from the gastro-intestinal (GI) tract is most correct?
-",The absorption of glucose is associated with sodium uptake.,Fructose is absorbed more rapidly than glucose.,Galactose and fructose are absorbed by the same transporter at the brush border membrane.,Most water absorption along the GI tract occurs in the colon.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The absorption of glucose is associated with sodium uptake.,Fructose is absorbed more rapidly than glucose.,Galactose and fructose are absorbed by the same transporter at the brush border membrane.,Most water absorption along the GI tract occurs in the colon.,A,True,0.5499633,0.037425473,0.15942448,0.13424887,0.11893791
 "Of the classes of dietary fatty acids which have the most beneficial effect on plasma LDL cholesterol levels?
-",n-3 and n-6 polyunsaturated fatty acids,Saturated and trans unsaturated fatty acids,Monounsaturated fatty acids,Both a and c,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",n-3 and n-6 polyunsaturated fatty acids,Saturated and trans unsaturated fatty acids,Monounsaturated fatty acids,Both a and c,D,False,0.6612899,0.09829196,0.08277013,0.15584777,0.0018002802
 "Which of the following is not a function of vitamin D?
-",Lipid-soluble antioxidant in cell membranes,Fast responses to increase calcium absorption with no change in gene expression,Regulation of differentiation of adipocytes,Regulation of bone turnover,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Lipid-soluble antioxidant in cell membranes,Fast responses to increase calcium absorption with no change in gene expression,Regulation of differentiation of adipocytes,Regulation of bone turnover,A,True,0.47596326,0.098990925,0.1863899,0.23746689,0.0011890482
 "How many kcal are there in one gram of ethanol?
-",23.5 kJ or 5.8 kcal per g,19.7 kJ or 4.1 kcal per g,29.7 kJ or 7.1 kcal per g,36.5 kJ or 8.1 kcal per g,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",23.5 kJ or 5.8 kcal per g,19.7 kJ or 4.1 kcal per g,29.7 kJ or 7.1 kcal per g,36.5 kJ or 8.1 kcal per g,C,False,0.666623,0.08608624,0.14304541,0.10143439,0.0028108156
 "Colonic microbiome:
-",Is present in babies in utero,Is a cause of eosinopjhilic oesophagitis,Is easily changed by probiotic supplementation,May be changed with consumption of oligo-saccharides,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Is present in babies in utero,Is a cause of eosinopjhilic oesophagitis,Is easily changed by probiotic supplementation,May be changed with consumption of oligo-saccharides,D,False,0.65500873,0.027893635,0.06587596,0.25056317,0.00065856293
 "Which of the following amino acids cannot provide a substrate for gluconeogenesis?
-",Leucine,Tryptophan,Histidine,isoleucine,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Leucine,Tryptophan,Histidine,isoleucine,A,True,0.85286456,0.03896498,0.06474625,0.04180332,0.0016208906
 "What nutritional strategies will not improve performance during prolonged endurance type exercise?
-",Carbohydrate loading,Tapering,The classic glycogen loading regime,Exogenous carbohydrate ingestion during exercise,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Carbohydrate loading,Tapering,The classic glycogen loading regime,Exogenous carbohydrate ingestion during exercise,C,False,0.58365315,0.021426305,0.29119536,0.097538225,0.0061868858
 "Which body composition method would you use to measure body mineral content?
-",Magnetic Resonance Imaging,Dual-energy X-ray absorptiometry,Isotope dilution,Skinfold Thickness,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Magnetic Resonance Imaging,Dual-energy X-ray absorptiometry,Isotope dilution,Skinfold Thickness,B,False,0.5850148,0.067193374,0.05792431,0.28960332,0.00026408405
 "These factors increase risk of osteoporotic fracture:
-",High bone mineral density,High body weight,High lean mass,Poor muscle strength,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",High bone mineral density,High body weight,High lean mass,Poor muscle strength,D,True,0.29468066,0.015863443,0.08182986,0.60464543,0.0029806525
 "Fruit and vegetable consumption
-",Has been associated with greater bone mineral loss in observational studies,"Has an uncertain relationship with skeletal health because research studies are confounded by associated lifestyle factors such as smoking, exercise and alcohol consumption",Has consistently resulted in less bone loss in supplementation studies,Has large effects on bone mineral loss,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Has been associated with greater bone mineral loss in observational studies,"Has an uncertain relationship with skeletal health because research studies are confounded by associated lifestyle factors such as smoking, exercise and alcohol consumption",Has consistently resulted in less bone loss in supplementation studies,Has large effects on bone mineral loss,B,False,0.33210903,0.13844363,0.4100999,0.1147738,0.0045736292
 "Which are the FIVE main series of apoproteins that have been identified?
-","apoA, apoB, apoC, apoD, and apoE","apoA, apo(a), apoB, apoC and apoE","apoA, apoB, apoC, apo E, and apoL","apoB, apoC, apoD, apoE and apoM",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","apoA, apoB, apoC, apoD, and apoE","apoA, apo(a), apoB, apoC and apoE","apoA, apoB, apoC, apo E, and apoL","apoB, apoC, apoD, apoE and apoM",B,False,0.5837535,0.25303844,0.054723397,0.06652673,0.041957885
 "Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water?
-",10,25,30,32,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",10,25,30,32,D,False,0.66312754,0.026528439,0.097798064,0.2119483,0.00059764914
 "Nutrients may pose health risks:
-",When intakes exceed established ULs (Upper Levels),At any level greater than a recommended dietary intake,Only when intakes are less than those required for nutritional benefits,Under no known conditions of usual intake,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",When intakes exceed established ULs (Upper Levels),At any level greater than a recommended dietary intake,Only when intakes are less than those required for nutritional benefits,Under no known conditions of usual intake,A,True,0.4738813,0.07439542,0.27858043,0.15505336,0.018089503
 "The Atherogenic Lipoprotein Phenotype (ALP) is a collection of which lipoprotein abnormalities?
-","Reduced levels of HDL, a high proportion of small dense LDL and raised triglycerides","Reduced levels of HDL, a high proportion of small dense LDL and normal triglycerides","Raised levels of HDL, a high proportion of small dense LDL and raised triglycerides","Reduced levels of HDL, a low proportion of small dense LDL and raised triglycerides",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Reduced levels of HDL, a high proportion of small dense LDL and raised triglycerides","Reduced levels of HDL, a high proportion of small dense LDL and normal triglycerides","Raised levels of HDL, a high proportion of small dense LDL and raised triglycerides","Reduced levels of HDL, a low proportion of small dense LDL and raised triglycerides",A,True,0.64494264,0.13731621,0.1416751,0.07524308,0.000822916
 "The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes the functions of the microbiota?
-",Measurement of daily dietary fibre intake underestimates the amount of fermentable material entering the colon each day,All of the options given are correct,"Acetate, propionate and butyrate are the chief organic acids produced by anaerobic colic fermentation","The establishment of an ""acetate buffer"" in the colonic lumen suppresses the growth of some pathogenic bacteria.",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Measurement of daily dietary fibre intake underestimates the amount of fermentable material entering the colon each day,All of the options given are correct,"Acetate, propionate and butyrate are the chief organic acids produced by anaerobic colic fermentation","The establishment of an ""acetate buffer"" in the colonic lumen suppresses the growth of some pathogenic bacteria.",B,False,0.12578903,0.10592499,0.46372592,0.25212342,0.052436672
 "Which of the following statements about glucose metabolism is correct?
-",Glucagon increases the rate of glycolysis,Glycolysis requires NADP+,"In glycolysis, glucose is cleaved into two three-carbon products",The end-product of glycolysis in red blood cells is pyruvate,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Glucagon increases the rate of glycolysis,Glycolysis requires NADP+,"In glycolysis, glucose is cleaved into two three-carbon products",The end-product of glycolysis in red blood cells is pyruvate,C,False,0.73773193,0.041619986,0.08742384,0.13226804,0.00095613423
 "What dietary component has been shown to improve hypertension in humans?
-",potassium,sodium,polyunsaturated fatty acids,cholesterol,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",potassium,sodium,polyunsaturated fatty acids,cholesterol,A,True,0.45114416,0.10066387,0.14993839,0.29586756,0.0023859548
 "Fats normally contain triacylglycerols at concentrations of:
-",75-95%,50- 75%,> 95%,< 50%,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",75-95%,50- 75%,> 95%,< 50%,C,False,0.45300108,0.1328648,0.2313703,0.17328836,0.009475477
 "Which of the following statements about protein structure is correct?
-",The sequence of amino acids in a protein is its tertiary structure,Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.,Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.,All proteins have the same secondary structure,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The sequence of amino acids in a protein is its tertiary structure,Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.,Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.,All proteins have the same secondary structure,C,False,0.59706336,0.15096126,0.14181498,0.096709415,0.013451014
 "Which of the following statements about exposures is true?
-",'Exposure' refers to contact with some factor that may be harmful or beneficial to health.,An exposed individual has a greater risk of disease.,Dietary intake is not an 'exposure' because individuals make a choice about what they eat.,"High body mass index is a risk factor for a range of health conditions, therefore, it cannot be treated as a single exposure.",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",'Exposure' refers to contact with some factor that may be harmful or beneficial to health.,An exposed individual has a greater risk of disease.,Dietary intake is not an 'exposure' because individuals make a choice about what they eat.,"High body mass index is a risk factor for a range of health conditions, therefore, it cannot be treated as a single exposure.",A,False,0.12363877,0.07617164,0.5455198,0.16767904,0.086990744
 "The test for checking mean plasma glucose concentration over the previous 8-10 weeks is:
-",Hemoglobin A1c,Oral glucose tolerance test (OGTT),Fructosamine test,Fasting plasma glucose concentration,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Hemoglobin A1c,Oral glucose tolerance test (OGTT),Fructosamine test,Fasting plasma glucose concentration,A,True,0.51036906,0.043223493,0.11841514,0.32188573,0.0061064945
 "Which one of these organs has the lowest energy expenditure per unit of body mass (kg)?
-",Brain,Kidney,Liver,Skeletal Muscle,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Brain,Kidney,Liver,Skeletal Muscle,D,False,0.86641777,0.018552735,0.04556112,0.068931766,0.0005366809
 "Are GM foods a valuable tool with which to address global food security and climate change?
-","No, because they may cause cancer and have other unknown health effects thus making them unacceptable to consumers","Yes, because they can provide us with a more abundant and economical food supply for the world as well as continued improvement in nutritional quality","Yes, because they are cheaper than non-GM foods","No, because GM foods cannot adapt to the rate of climate change",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","No, because they may cause cancer and have other unknown health effects thus making them unacceptable to consumers","Yes, because they can provide us with a more abundant and economical food supply for the world as well as continued improvement in nutritional quality","Yes, because they are cheaper than non-GM foods","No, because GM foods cannot adapt to the rate of climate change",B,False,0.34725237,0.15409231,0.3161769,0.1666135,0.015864983
 "What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phytoestrogens), isothiocyanates, indoles, phenols and sulphides and thiols, have in common?
-",They are all sources of fibre,They are all derived from plant foods,They are all vitamins,They are all nutrients,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",They are all sources of fibre,They are all derived from plant foods,They are all vitamins,They are all nutrients,B,False,0.35046804,0.072323166,0.07819998,0.44650784,0.052500986
 "Which of the following will increase in vitamin D deficiency?
-",The plasma concentration of prothrombin,The plasma concentration of preprothrombin,The plasma activity of alkaline phosphatase,The plasma activity of acid phosphatase,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The plasma concentration of prothrombin,The plasma concentration of preprothrombin,The plasma activity of alkaline phosphatase,The plasma activity of acid phosphatase,C,False,0.75095797,0.06561797,0.044399343,0.13783222,0.0011924824
 "The 'mad cows disease' has had the greatest impact on food choice due to which of the following?
-",A difference in perception of risk,Higher prices of meat,Farmers or food producers not trusting the government,Scientists investigating alternatives for meat,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A difference in perception of risk,Higher prices of meat,Farmers or food producers not trusting the government,Scientists investigating alternatives for meat,A,False,0.3044144,0.1329888,0.16041511,0.3939415,0.0082401205
 "Which one of the following is a definition of glycaemic index?
-",The increase in blood glucose concentration after consuming the food.,The increase in blood glucose concentration after consuming the food compared with that after consuming an equivalent amount of white bread.,The increase in blood insulin concentration after consuming the food.,The increase in blood insulin concentration after consuming the food compared with that after consuming an equivalent amount of white bread.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The increase in blood glucose concentration after consuming the food.,The increase in blood glucose concentration after consuming the food compared with that after consuming an equivalent amount of white bread.,The increase in blood insulin concentration after consuming the food.,The increase in blood insulin concentration after consuming the food compared with that after consuming an equivalent amount of white bread.,B,False,0.22337046,0.21481326,0.31011915,0.16214956,0.089547485
 "Which of the following statements is true?
 Impaired foetal growth is described as intrauterine growth retardation (IUGR). IUGR has the same definition as:
-",low birthweight (LBW),very low birthweight (VLBW),birth weight below a population threshold for gestational age,pre-term birth,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",low birthweight (LBW),very low birthweight (VLBW),birth weight below a population threshold for gestational age,pre-term birth,C,False,0.33788154,0.08609986,0.101450436,0.47278127,0.0017869457
 "Which statement about dietary fibre is most correct?
-","The end products of it fermentation is mainly malic, succinic and propionic acids","Fermentation studies in vitro, with human faeces, have shown that soluble and insoluble forms are fermented completely within 24 hours","Fibre sources, such as hemicelluloses, pectins and inulin are rapidly fermented to short chain fatty acids, which have trophic effects on the colon",Stool bulking occurs mainly through the action of insoluble fibres such as cellulose,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","The end products of it fermentation is mainly malic, succinic and propionic acids","Fermentation studies in vitro, with human faeces, have shown that soluble and insoluble forms are fermented completely within 24 hours","Fibre sources, such as hemicelluloses, pectins and inulin are rapidly fermented to short chain fatty acids, which have trophic effects on the colon",Stool bulking occurs mainly through the action of insoluble fibres such as cellulose,C,False,0.7059662,0.06935615,0.072684616,0.15148775,0.0005052913
 "Which of the following is not a reason for increased risk of vitamin or mineral deficiencies among older people in high income countries?
-",Low income so decreased ability to purchase nutrient-rich foods,Decreased mobility and little time spend outdoors in the sunshine,Decreased intrinsic factor in the stomach,High nutrient requirements for tissue turnover,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Low income so decreased ability to purchase nutrient-rich foods,Decreased mobility and little time spend outdoors in the sunshine,Decreased intrinsic factor in the stomach,High nutrient requirements for tissue turnover,D,False,0.6997244,0.099242024,0.10647115,0.08622296,0.008339465
 "What is the estimated global prevalence of untreated dental caries?
-",20%,40%,60%,80%,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",20%,40%,60%,80%,B,False,0.2875644,0.13690117,0.28981978,0.26388392,0.021830799
 "Bone mineral accretion
-",Is rapid in the first 10 weeks of foetal life,Is slow in infancy,"In childhood, adolescence and young adulthood predicts risk of fracture in old age",Is particularly high after the menopause in women,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Is rapid in the first 10 weeks of foetal life,Is slow in infancy,"In childhood, adolescence and young adulthood predicts risk of fracture in old age",Is particularly high after the menopause in women,C,False,0.3191663,0.2524813,0.13098559,0.2860988,0.011267949
 "Which of the following is not considered a diagnostic feature of Anorexia Nervosa
-",Depressive symptoms,Significant Weight Loss,Body Image Distortion,Fear of becoming fat,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Depressive symptoms,Significant Weight Loss,Body Image Distortion,Fear of becoming fat,A,True,0.5704723,0.02907568,0.167319,0.2269182,0.006214799
 "Supplementation with long-chain fatty acids EPA and DHA during pregnancy and infancy will likely benefit the following:
-",Visual performance,Motor performance,Behaviour disorders,Memory,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Visual performance,Motor performance,Behaviour disorders,Memory,A,False,0.33760783,0.06052975,0.1021633,0.49895203,0.00074721954
 "Deficiency of thiamin in alcoholics leads to
-",Wernicke-Korsakoff syndrome,Cushing syndrome,Fatty liver,Hypogonadism,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Wernicke-Korsakoff syndrome,Cushing syndrome,Fatty liver,Hypogonadism,A,True,0.6255229,0.012582891,0.22832623,0.13214508,0.0014228337
 "In human DNA, which nucleotide base is methylated at the 5' position?
-",Adenosine,Thymine,Cytosine,Guanine,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Adenosine,Thymine,Cytosine,Guanine,C,False,0.7921014,0.0697559,0.03792562,0.096092805,0.00412422
 "Which of the following statements is correct regarding intracellular fat metabolism?
-",The mechanism by which non-esterified fatty acids are taken up by cells is by diffusion only.,"The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid binding, translocase and transport proteins.","The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid esterification, synthesis and transport proteins.","The mechanism by which non-esterified fatty acids are taken up by cells is by carrier-mediated transport only involving fatty acid binding, translocase and transport proteins.",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The mechanism by which non-esterified fatty acids are taken up by cells is by diffusion only.,"The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid binding, translocase and transport proteins.","The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid esterification, synthesis and transport proteins.","The mechanism by which non-esterified fatty acids are taken up by cells is by carrier-mediated transport only involving fatty acid binding, translocase and transport proteins.",B,False,0.3759669,0.18251728,0.11377111,0.086891256,0.24085344
 "Which of the following statements about the digestibility of dietary proteins is correct?
-",The digestibility of plant proteins is generally less good compared to animal proteins.,The digestibility of meat protein is less good compared with plant proteins.,Digestibility can only be measured at the terminal ileum,Digestibility can only be measured as faecal digestibility,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The digestibility of plant proteins is generally less good compared to animal proteins.,The digestibility of meat protein is less good compared with plant proteins.,Digestibility can only be measured at the terminal ileum,Digestibility can only be measured as faecal digestibility,A,True,0.6321349,0.09395847,0.16361897,0.108993724,0.0012939462
 "Basal Metabolic Rate (BMR):
-",is measured in comfortable sitting position,is unaltered in hypothyroidism and hyperthyroidism,Is higher after weight gain because part of the excess weight is fat-free mass.,is not altered after weight loss.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",is measured in comfortable sitting position,is unaltered in hypothyroidism and hyperthyroidism,Is higher after weight gain because part of the excess weight is fat-free mass.,is not altered after weight loss.,C,False,0.081447214,0.14690688,0.20798275,0.040794566,0.5228686
 "What is the best method to estimate changes in body fat during weight loss?
-",BMI,DXA,Four-compartment model,MRI,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",BMI,DXA,Four-compartment model,MRI,C,False,0.8262755,0.03154147,0.034913227,0.10587305,0.0013967048
 "Which of the following statements is correct?
-",Cholesterol mainly occurs in the cell walls of bacterial cells,Cholesterol mainly occurs in the cell walls of mammalian cells,Cholesterol mainly occurs in the cell walls of yeast cells,Cholesterol mainly occurs in plant cell walls.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Cholesterol mainly occurs in the cell walls of bacterial cells,Cholesterol mainly occurs in the cell walls of mammalian cells,Cholesterol mainly occurs in the cell walls of yeast cells,Cholesterol mainly occurs in plant cell walls.,B,False,0.37198702,0.094053045,0.17917988,0.14854534,0.20623478
 "Which of the following statements about the role of the intestine in development of obesity best describes the situation?
-",Obesity occurs because gut hormone secretion becomes deranged and PYY secretion fails to give a satiety signal.,"The gut/brain signalling pathway controls energy intake to within 2% of requirements, even in people who are morbidly obese","The problem is one of greed and gluttony, whereby people override strong satiety signals on a regular basis","Flavour signals from tasty, processed food will override satiety signals even after a large meal",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Obesity occurs because gut hormone secretion becomes deranged and PYY secretion fails to give a satiety signal.,"The gut/brain signalling pathway controls energy intake to within 2% of requirements, even in people who are morbidly obese","The problem is one of greed and gluttony, whereby people override strong satiety signals on a regular basis","Flavour signals from tasty, processed food will override satiety signals even after a large meal",B,False,0.24508484,0.12323639,0.3622119,0.26917303,0.00029377002
 "Which of these factors is associated with an increase in the risk for prostate cancer?
-",Insulin-like growth factor-1,Dietary fat,Alcohol,Salt,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Insulin-like growth factor-1,Dietary fat,Alcohol,Salt,A,False,0.07432667,0.01594918,0.031967502,0.8776254,0.0001311552
 "Which of the following is not a function of vitamin A
-",Synthesis of the blood clotting proteins,Activation of vitamin D receptors,Activation of thyroid hormone receptors,Regulation of gene expression and cell differentiation,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Synthesis of the blood clotting proteins,Activation of vitamin D receptors,Activation of thyroid hormone receptors,Regulation of gene expression and cell differentiation,A,True,0.7067412,0.040499497,0.1504739,0.10023722,0.0020481043
 "Which of the following confirmed values meet the diagnostic threshold for diabetes?
-",fasting blood glucose ? 140 mg/dl,random glucose > 160 mg/dl,2 hour post prandial glucose ≥ to 126 mg/dl,fasting blood glucose ≥ 126 mg/dl,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",fasting blood glucose ? 140 mg/dl,random glucose > 160 mg/dl,2 hour post prandial glucose ≥ to 126 mg/dl,fasting blood glucose ≥ 126 mg/dl,D,False,0.52712923,0.1463785,0.31723195,0.008193845,0.0010664344
 "What is the basic functional unit of skeletal muscle tissue?
-",the muscle fibre,the sarcomere,the myofibril,the sarcoplasmic reticulum,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",the muscle fibre,the sarcomere,the myofibril,the sarcoplasmic reticulum,B,False,0.8136062,0.03987906,0.041467667,0.10263346,0.0024137073
 "In the past two decades, interest in maternal nutrition has been heightened following the findings of epidemiological studies that show links between early experience and later health. Which of the following statements is true:
-","although early life may appear to be important, observed links to risk of cardiovascular disease and type 2 diabetes can be largely explained by adult lifestyle",the observed links between early experience and later health have only been seen in UK studies,the epidemiological evidence shows programmed differences in physiology are only linked to events before birth,the epidemiological evidence shows programmed differences in physiology are linked to events before birth and in early postnatal life,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","although early life may appear to be important, observed links to risk of cardiovascular disease and type 2 diabetes can be largely explained by adult lifestyle",the observed links between early experience and later health have only been seen in UK studies,the epidemiological evidence shows programmed differences in physiology are only linked to events before birth,the epidemiological evidence shows programmed differences in physiology are linked to events before birth and in early postnatal life,D,False,0.39490804,0.14191318,0.39490804,0.06548217,0.0027885672
 "Was T.R. Malthus correct in concluding that population growth will outstrip food production growth?
-","No, technological and institutional innovations have permitted food supplies to more than keep pace with population growth.","Yes, it is only because of widespread famines that population has not overwhelmed food supplies altogether.","No, but it is only because of the introduction of genetically modified food that supplies have kept pace with population growth.","No, but supplies are not likely to keep pace with population growth over the next 10 years.",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","No, technological and institutional innovations have permitted food supplies to more than keep pace with population growth.","Yes, it is only because of widespread famines that population has not overwhelmed food supplies altogether.","No, but it is only because of the introduction of genetically modified food that supplies have kept pace with population growth.","No, but supplies are not likely to keep pace with population growth over the next 10 years.",A,False,0.18244454,0.018857582,0.5798076,0.12786531,0.091024965
 "What are histones?
-",Lipids,Carbohydrates,Nucleotides,Proteins,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Lipids,Carbohydrates,Nucleotides,Proteins,D,False,0.83097214,0.017381541,0.04836838,0.095443435,0.007834475
 "Which of the following statements about methods of evaluating protein quality in human nutrition is correct?
-","The rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition.","The rat net protein-utilisation assay, (NPU), is the best method of assessing protein quality for human nutrition.",Animal growth assays underestimate the quality of dietary proteins for human nutrition,The growing rat is a good model for assessing protein quality in human nutrition.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","The rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition.","The rat net protein-utilisation assay, (NPU), is the best method of assessing protein quality for human nutrition.",Animal growth assays underestimate the quality of dietary proteins for human nutrition,The growing rat is a good model for assessing protein quality in human nutrition.,C,True,0.2122348,0.14360525,0.36385506,0.215577,0.064727955
 "Alcohol is a major risk factor for cancer development. Which alcohol metabolite plays a prominent role in cancer development?
-",fatty acid ethyl esters (FAEE),acetate,acetaldehyde,alcohol,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",fatty acid ethyl esters (FAEE),acetate,acetaldehyde,alcohol,C,False,0.2418022,0.016845062,0.10646407,0.6321063,0.0027822957
 "The body mass index (BMI) of vegetarians differs on average from meat-eaters by how much?
-",3 units of BMI,0.5 units of BMI,1 unit of BMI,2 units of BMI,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",3 units of BMI,0.5 units of BMI,1 unit of BMI,2 units of BMI,C,False,0.24826123,0.1774243,0.24441229,0.32633322,0.0035690307
 "Which of the following statements about the diets and nutritional status of older people is correct?
-",Reports suggest that older people consume less than the recommended contribution of fat to energy intake.,Multiple micronutrient deficiencies are widespread in older people in high-income countries.,Older people generally have a lower energy intake than younger adults.,There is little variation in the dietary intake between older people.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Reports suggest that older people consume less than the recommended contribution of fat to energy intake.,Multiple micronutrient deficiencies are widespread in older people in high-income countries.,Older people generally have a lower energy intake than younger adults.,There is little variation in the dietary intake between older people.,C,True,0.14505737,0.073799215,0.35070375,0.2941708,0.1362688
 "Cholesterol and fatty acids absorbed from the intestinal lumen are packaged into which types of lipoproteins and secreted from the enterocytes into the lymph?
-",Chylomicrons and HDL,Chylomicrons and VLDL,HDL and LDL,VLDL and HDL,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Chylomicrons and HDL,Chylomicrons and VLDL,HDL and LDL,VLDL and HDL,A,True,0.67084694,0.11841152,0.05463794,0.15086019,0.005243444
 "Which of the following vitamins is involved in one-carbon metabolism?
-",Folate,Riboflavin,Thiamin,Vitamin C,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Folate,Riboflavin,Thiamin,Vitamin C,A,True,0.8438279,0.09692001,0.010705536,0.040402275,0.008144343
 "Which of the following is not a beneficial effect of exercise in people with diabetes:
-",Reduction of triglycerides,Hypoglycaemia,increase of insulin sensitivity,help controlling hypertension,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Reduction of triglycerides,Hypoglycaemia,increase of insulin sensitivity,help controlling hypertension,B,False,0.26669654,0.03666184,0.3533155,0.3397802,0.0035459248
 "Which of the following cannot be a substrate for gluconeogenesis?
-",Glutamic acid,Aspartic acid,Palmitic acid,Galactose,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Glutamic acid,Aspartic acid,Palmitic acid,Galactose,C,False,0.7848215,0.031891238,0.08402222,0.09823193,0.0010331825
 "The intake of which minerals is not affected by high intakes of foods containing phytic acid?
-",Calcium,Potassium,Zinc,Iron,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Calcium,Potassium,Zinc,Iron,B,False,0.7398908,0.07441278,0.077983916,0.10659138,0.0011211054
 "The pathogenesis of hyperglycemia in type 2 diabetes includes all the following mechanisms except for:
-",Increased glucose production by the liver,Impaired insulin secretion,Decreased glucose uptake from the skeletal muscle,All of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Increased glucose production by the liver,Impaired insulin secretion,Decreased glucose uptake from the skeletal muscle,All of the options given are correct,D,False,0.46257496,0.034036506,0.49240848,0.007959042,0.0030209115
 "Inviduals suffering from inhalant allergies may also react to cross- reacting food allergens. A person suffering from a natural latex allergy might not react to one of the following allergens
-",avocado,mango,peach,figs,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",avocado,mango,peach,figs,D,False,0.8624947,0.05220308,0.04865862,0.025441749,0.011201851
 "Which of the following methods is recommended to screen for malnutrition on admission to hospital?
-",A 7-day food diary,The MUST tool,Serum albumin concentration,Demi-span,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A 7-day food diary,The MUST tool,Serum albumin concentration,Demi-span,B,False,0.58627325,0.04398912,0.15056743,0.21907431,9.585065e-05
 "Which of the following in not a zinc-dependent enzyme?
-",Superoxide dismutase,Alkaline phosphatase,Glutathione peroxidase,DNA polymerase,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Superoxide dismutase,Alkaline phosphatase,Glutathione peroxidase,DNA polymerase,C,False,0.6258504,0.123237245,0.058669724,0.1908736,0.0013690422
 "Which of the following statements about the protein requirement is correct
-",The protein requirement is equal to the demand multiplied by the efficiency of utilization.,The protein requirement is equal to the demand divided by the efficiency of utilization.,The protein requirement can be less than the demand.,The protein requirement is always the same as the demand.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The protein requirement is equal to the demand multiplied by the efficiency of utilization.,The protein requirement is equal to the demand divided by the efficiency of utilization.,The protein requirement can be less than the demand.,The protein requirement is always the same as the demand.,B,False,0.1985527,0.0471604,0.57903737,0.10220616,0.07304346
 "What dietary pattern shows most promise in preventing age related cognitive decline
-",The Western diet,The Mediterranean diet,Neither,Both,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The Western diet,The Mediterranean diet,Neither,Both,B,False,0.7073767,0.012266548,0.12983324,0.14597544,0.0045480034
 "What enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?
-",DNMT1,DNMT3a,DNMT3b,DNMT3L,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",DNMT1,DNMT3a,DNMT3b,DNMT3L,A,True,0.60292876,0.2803879,0.03706735,0.06979407,0.009821869
 "What is the worldwide prevalence of obesity?
-",11%,13%,15%,39%,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",11%,13%,15%,39%,B,False,0.2687634,0.15923706,0.25846723,0.30454883,0.008983539
 "Lactose
-",Is always the cause of milk intolerance,Cannot be digested in the human gut,Intolerance is present in up to 20% of the population,Is excluded on a low FODMAP diet,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Is always the cause of milk intolerance,Cannot be digested in the human gut,Intolerance is present in up to 20% of the population,Is excluded on a low FODMAP diet,D,False,0.39724025,0.1111748,0.37609953,0.1111748,0.004310715
 "How many stages within the food supply chain can food availability and consumption be measured?
-",10,5,2,4,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",10,5,2,4,B,False,0.6033902,0.04106122,0.08294594,0.2719693,0.0006333001
 "Which of the following is a function of folate?
-",Synthesis of TMP (thymidine monophosphate),Decarboxylation of amino acids to form amine neurotransmitters,Synthesis of methionine from homocysteine,Carboxylation of pyruvate to oxaloacetate,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Synthesis of TMP (thymidine monophosphate),Decarboxylation of amino acids to form amine neurotransmitters,Synthesis of methionine from homocysteine,Carboxylation of pyruvate to oxaloacetate,A,True,0.72714895,0.029779458,0.07784785,0.1648039,0.0004198323
 "The vitamins which are lost most readily during cooking are:
-",vitamin E and niacin,vitamin D and vitamin E,riboflavin and vitamin C,vitamin C and thiamin,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",vitamin E and niacin,vitamin D and vitamin E,riboflavin and vitamin C,vitamin C and thiamin,D,False,0.82988006,0.075994134,0.01951691,0.07365604,0.00095289544
 "Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people because:
-",Animals are generally much less sensitive than people,Such tests can detect only very large risks because of the fact that only small numbers of animals can be used,It is difficult in such studies to determine whether the observed toxic effects were caused by the substance,It is the only way to ensure results are applicable to people,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Animals are generally much less sensitive than people,Such tests can detect only very large risks because of the fact that only small numbers of animals can be used,It is difficult in such studies to determine whether the observed toxic effects were caused by the substance,It is the only way to ensure results are applicable to people,B,False,0.49197993,0.04684646,0.0931653,0.3571391,0.0108692525
 "Risk management for chemical contaminants of food generally relies on:
-",Banning of the contaminant from food,Allowing levels of contamination based on what manufacturers believe is achievable,Banning any food found to contain detectable amounts of the contaminants,Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance),D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Banning of the contaminant from food,Allowing levels of contamination based on what manufacturers believe is achievable,Banning any food found to contain detectable amounts of the contaminants,Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance),D,False,0.225306,0.08096541,0.51171714,0.1754685,0.006543008
 "The effects of iron on certain aspects of socio-emotional development (shyness, orientation/engagement and response to unfamiliar pictures) is due to:
-",The role of iron in myelination,The role of iron in neurochemistry,The role of iron in dopamine production,None of the above,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The role of iron in myelination,The role of iron in neurochemistry,The role of iron in dopamine production,None of the above,C,False,0.7465874,0.06176428,0.15049806,0.023999013,0.01715132
 "Insulin deficiency is associated with
-",Reduced lipolysis,Increased ketogenesis,Reduced gluconeogenesis,Reduced proteolysis,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Reduced lipolysis,Increased ketogenesis,Reduced gluconeogenesis,Reduced proteolysis,B,False,0.5871905,0.011628677,0.099674694,0.29990754,0.0015985537
 "Which of the following vitamins provides the coenzyme for reduction reactions in fatty acid synthesis?
-",Folate,Niacin,Riboflavin,Vitamin B6,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Folate,Niacin,Riboflavin,Vitamin B6,B,False,0.81334966,0.088447675,0.039556246,0.058460344,0.00018606645
 "On an average daily basis, the gross energy intake of a healthy woman is 9279 kJ, the energy content of her faeces and urine are 647 kJ and 318 kJ, respectively. Her average daily digestible energy intake and metabolisable energy intake would be, respectively,:
-",647 kJ and 318 kJ,9279-318 kJ and 9279-647 kJ,9279+318 kJ and 9279+647 kJ,9279-647 kJ and 9279-(647+318) kJ,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",647 kJ and 318 kJ,9279-318 kJ and 9279-647 kJ,9279+318 kJ and 9279+647 kJ,9279-647 kJ and 9279-(647+318) kJ,D,False,0.43071222,0.3175873,0.112358004,0.13874361,0.00059888547
 "When epidemiologists judge the evidence to establish possible causes of a health outcome, they consider
-",The estimated strength of the association between an exposure and the outcome.,Evidence that the exposure of interest has appeared before the outcome.,Evidence showing that reductions in the exposure level will reverse the risk of the outcome.,All of the options given.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The estimated strength of the association between an exposure and the outcome.,Evidence that the exposure of interest has appeared before the outcome.,Evidence showing that reductions in the exposure level will reverse the risk of the outcome.,All of the options given.,D,False,0.10275485,0.065827236,0.42590705,0.04686119,0.35864967
 "Women who are planning a pregnancy are recommended to take a supplement of 400ìg folic acid/ day before and until the end of the first trimester of pregnancy. What effect does such supplementation have on methylation of the imprinted gene IGF2 in the resulting children?
-",No effect.,Methylation of IGF2 is increased.,Methylation of IGF2 is decreased.,The effect depends on whether the child is male or female.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",No effect.,Methylation of IGF2 is increased.,Methylation of IGF2 is decreased.,The effect depends on whether the child is male or female.,B,False,0.13057089,0.07527402,0.48702845,0.18057299,0.12655364
 "Occasionally infants are born without a normally functioning immune system. What are the signs most suggestive of a severe combined immunodeficiency?
-",Recurrent severe infections,Family history of unexplained death in infancy,Generalised spread of the Tuberculosis strain BCG after vaccination,All of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Recurrent severe infections,Family history of unexplained death in infancy,Generalised spread of the Tuberculosis strain BCG after vaccination,All of the options given are correct,D,False,0.75168943,0.045496516,0.19005685,0.0038682104,0.008889077
 "Fibre supplements
-",May be helpful in diverticular disease,Are always easily fermented by colonic bacteria,Are usually derived from soluble fibre sources,Should be avoided in constipation,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",May be helpful in diverticular disease,Are always easily fermented by colonic bacteria,Are usually derived from soluble fibre sources,Should be avoided in constipation,A,False,0.08845859,0.016235856,0.036020823,0.85917455,0.00011025434
 "Which life-style factors do not confound the interpretation of the health of vegetarians compared with meat-eaters?
-",Smoking habit,Social class/position,Physical activity,Age,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Smoking habit,Social class/position,Physical activity,Age,D,True,0.2695458,0.066055045,0.2492891,0.41423184,0.0008782498
 "Which of the following has not at one point in the past few decades been considered as a cause of the oedema of kwashiorkor?
-",Altered composition of intestinal bacteria,Low intake of antioxidant nutrients,Sudden weaning from the breast,Iron deficiency,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Altered composition of intestinal bacteria,Low intake of antioxidant nutrients,Sudden weaning from the breast,Iron deficiency,D,False,0.48590547,0.08120295,0.029067125,0.40282977,0.0009946224
 "Which of the following is not a non-coding RNA?
-",mRNA,tRNA,rRNA,miRNA,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",mRNA,tRNA,rRNA,miRNA,A,True,0.77784693,0.024424637,0.10609578,0.088646345,0.0029862837
 "More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of over nutrition e.g. overweight and obesity are less well known. Overweight and obesity are associated with which of the following
-",Cardiovascular disease,Breast cancer,Type 2 diabetes (maturity onset),all of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Cardiovascular disease,Breast cancer,Type 2 diabetes (maturity onset),all of the options given are correct,D,False,0.53901225,0.032370202,0.35349286,0.06694028,0.008184468
 "After consumption of a mixed meal, a complex cascade of events takes place that integrates fat metabolism at the whole body level. Which of the following is correct?
-",Consumption of a meal leads to suppression of lipase activity within adipose tissue leading to a decrease in plasma NEFA concentrations,Adipose tissue lipoprotein lipase is activated by insulin and therefore is most active following meal consumption,During the postprandial period the VLDL synthesis pathway is suppressed in favour of hydrolysis of chylomicrons,All options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Consumption of a meal leads to suppression of lipase activity within adipose tissue leading to a decrease in plasma NEFA concentrations,Adipose tissue lipoprotein lipase is activated by insulin and therefore is most active following meal consumption,During the postprandial period the VLDL synthesis pathway is suppressed in favour of hydrolysis of chylomicrons,All options given are correct,D,False,0.5669089,0.100065365,0.3255484,0.003971966,0.0035052474
 "What difference will urbanisation make for hunger and malnutrition?
-",No significant difference; low-income urban and rural people face similar constraints in accessing food and consume similar diets in developing countries.,It will reduce poverty and hunger because these are almost entirely concentrated in rural areas.,"Urban dwellers depend more than rural people on purchases to acquire food, have little opportunity to grow their own food, and so are much more vulnerable to food price increases.","Poor city folk eat mainly sorghum, millet, maize and root crops, so a lot more of those foods will need to be produced as the world urbanises.",C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",No significant difference; low-income urban and rural people face similar constraints in accessing food and consume similar diets in developing countries.,It will reduce poverty and hunger because these are almost entirely concentrated in rural areas.,"Urban dwellers depend more than rural people on purchases to acquire food, have little opportunity to grow their own food, and so are much more vulnerable to food price increases.","Poor city folk eat mainly sorghum, millet, maize and root crops, so a lot more of those foods will need to be produced as the world urbanises.",C,True,0.07359527,0.0354496,0.4352517,0.3511034,0.10459997
 "Which membrane fatty acids are precursors for eicosanoids?
-",C20 and C22 saturated fatty acids,C18 and C22 polyunsaturated fatty acids,C20 and C22 monounsaturated fatty acids,C20 and C22 polyunsaturated fatty acids,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",C20 and C22 saturated fatty acids,C18 and C22 polyunsaturated fatty acids,C20 and C22 monounsaturated fatty acids,C20 and C22 polyunsaturated fatty acids,D,False,0.60399795,0.08499847,0.10093818,0.19762737,0.012438025
 "Under conditions of metabolic or other stress, which of the following amino acids generally regarded as being dispensable may be required in greater amount than can readily be synthesised in the body?
-",Glutamate,Alanine,Aspartate,Glycine,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Glutamate,Alanine,Aspartate,Glycine,D,False,0.91151154,0.023543606,0.0266784,0.03646505,0.0018013596
 "The most direct method for measuring body composition is:
-",underwater weighing,Skinfold test,Body mass index,weight,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",underwater weighing,Skinfold test,Body mass index,weight,A,False,0.07460421,0.182496,0.030857645,0.70782506,0.00421711
 "What type of diet is recommended for weight maintenance?
-",Low protein and low GI,High protein and high GI,Low protein and high GI,High protein and low GI,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Low protein and low GI,High protein and high GI,Low protein and high GI,High protein and low GI,D,False,0.56211376,0.040719386,0.15011352,0.24365829,0.0033950866
 "The Worldwide HIV/AIDS campaigns have made significant progress over the last years. The HIV infection rates in Europe
-",Have been significantly decreasing,Have been unchanged,Have been increasing,Are unknown,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Have been significantly decreasing,Have been unchanged,Have been increasing,Are unknown,B,False,0.2908453,0.012193665,0.5184878,0.1750338,0.003439381
 "For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more biochemical pathways that respond predictably to changes in status of that specific micronutrient. One example is serum methylmalonic acid as a biochemical functional index for vitamin B12 status. What is the primary aim of such biochemical functional index measurements?
-",To achieve a better estimate of the dietary intake of the micronutrient.,"To overcome interference, eg by acute phase-linked effects.","To correct for nutrient losses, e.g. through urinary excretion.","To provide an additional status estimate that can probe critical tissue adequacy, and hence the risk of consequent clinical disease or physiological malfunction.",D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",To achieve a better estimate of the dietary intake of the micronutrient.,"To overcome interference, eg by acute phase-linked effects.","To correct for nutrient losses, e.g. through urinary excretion.","To provide an additional status estimate that can probe critical tissue adequacy, and hence the risk of consequent clinical disease or physiological malfunction.",D,False,0.09452311,0.2048508,0.47258583,0.114910886,0.11312935
 "In terms of price per calorie, which of the following foods is the cheapest and most nutritious?
-",Apple,Slice of bread,Cheese burger,Broccoli,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Apple,Slice of bread,Cheese burger,Broccoli,C,False,0.50865513,0.06672103,0.26183322,0.16131078,0.001479829
 "All babies lose weight after birth, you should be concerned when:
-",Weight loss is 5%,Weight loss is < than 10%,Birth weight is not regained by day 7,Weight loss in > than 10% or birth weight is not regained by day 14,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Weight loss is 5%,Weight loss is < than 10%,Birth weight is not regained by day 7,Weight loss in > than 10% or birth weight is not regained by day 14,D,False,0.54187137,0.06371395,0.26615828,0.12671033,0.0015459732
 "Which of the following statements about glucose metabolism is correct?
-",All of the reactions of glycolysis are freely reversible for gluconeogenesis.,Fructose cannot be used for gluconeogenesis in the liver.,Red blood cells can catalyse aerobic glycolysis because they contain oxygen bound to haemoglobin.,Red blood cells can only metabolise glucose by anaerobic glycolysis and the pentose phosphate pathway.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",All of the reactions of glycolysis are freely reversible for gluconeogenesis.,Fructose cannot be used for gluconeogenesis in the liver.,Red blood cells can catalyse aerobic glycolysis because they contain oxygen bound to haemoglobin.,Red blood cells can only metabolise glucose by anaerobic glycolysis and the pentose phosphate pathway.,D,False,0.3493408,0.10489113,0.37042156,0.08168929,0.09365724
 "Risk assessment is applied to data on toxicity and human exposure to:
-","Estimate the likelihood, or probability, of a toxic effect on exposed humans",To support risk management decisions for food substances,To derive Allowable Daily Intakes,All of the above,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Estimate the likelihood, or probability, of a toxic effect on exposed humans",To support risk management decisions for food substances,To derive Allowable Daily Intakes,All of the above,A,True,0.82724285,0.009859256,0.100355946,0.050462138,0.0120798135
 "What is the typical body composition of a normal weight young adult man?
-","Fat = 17%, Fat Free Mass=83%, Intracellular Fluid= 40%, Extracellular Fluid= 20%","Fat = 83%, Fat Free Mass=40%, Intracellular Fluid= 17%, Extracellular Fluid= 20%","Fat = 20%, Fat Free Mass=17%, Intracellular Fluid= 40%, Extracellular Fluid= 83%","Fat = 40%, Fat Free Mass=20%, Intracellular Fluid= 17%, Extracellular Fluid= 83%",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Fat = 17%, Fat Free Mass=83%, Intracellular Fluid= 40%, Extracellular Fluid= 20%","Fat = 83%, Fat Free Mass=40%, Intracellular Fluid= 17%, Extracellular Fluid= 20%","Fat = 20%, Fat Free Mass=17%, Intracellular Fluid= 40%, Extracellular Fluid= 83%","Fat = 40%, Fat Free Mass=20%, Intracellular Fluid= 17%, Extracellular Fluid= 83%",A,True,0.48458755,0.20518728,0.27827522,0.029791873,0.002158116
 "The critical pH below which demineralisation of tooth enamel occurs is usually around:
-",6,5.7,5.5,5,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",6,5.7,5.5,5,C,True,0.327678,0.051846188,0.34881142,0.2716546,9.756285e-06
 "The supplementation of diet with which fat soluble vitamins has been shown to reduce cardiovascular disease?
-",Vitamin A and D,Vitamin A and K,Vitamin D and E,None of the above,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin A and D,Vitamin A and K,Vitamin D and E,None of the above,D,False,0.8605936,0.021376878,0.0806755,0.023113916,0.014240071
 "Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person. The main reason this can happen is because:
-",Foods containing large amounts of vitamin D are eaten by both poor and wealthy people according to various cultural reasons.,The content of vitamin D in foods depends on the soil in which the food was grown so is not related to wealth or age.,Most vitamin D in the body does not come from food so access to food is not an important determinant of vitamin D status.,Diets containing sufficient other nutrients to promote growth can increase the requirement of vitamin D so that it becomes limiting.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Foods containing large amounts of vitamin D are eaten by both poor and wealthy people according to various cultural reasons.,The content of vitamin D in foods depends on the soil in which the food was grown so is not related to wealth or age.,Most vitamin D in the body does not come from food so access to food is not an important determinant of vitamin D status.,Diets containing sufficient other nutrients to promote growth can increase the requirement of vitamin D so that it becomes limiting.,C,True,0.10842458,0.08510343,0.48214376,0.2224728,0.101855464
 "Water transport can occur from the lumen of the intestine to the blood stream, or from the blood stream to the intestinal lumen. Which single statement about this phenomenon, below, is actually correct?
-","A ""flip-flop"" mechanism efficiently transports water directly across the enterocyte membrane","Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality",Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions,Dietary intake of water is always greater than water movement in the small intestine,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","A ""flip-flop"" mechanism efficiently transports water directly across the enterocyte membrane","Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality",Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions,Dietary intake of water is always greater than water movement in the small intestine,B,False,0.54275185,0.1694554,0.21929157,0.066359684,0.0021414773
 "Which of the following are the recommended blood pressure and lipid goals for the prevention of cardiovascular disease in adults with diabetes?
-","BP < 140/90, Trig <150, LDL < 100","BP < 130/85, Trig < 300, LDL < 100","BP < 135/80, Trig < 200, LDL < 130","BP < 130/80, Trig <150, LDL < 100",D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","BP < 140/90, Trig <150, LDL < 100","BP < 130/85, Trig < 300, LDL < 100","BP < 135/80, Trig < 200, LDL < 130","BP < 130/80, Trig <150, LDL < 100",D,False,0.64996153,0.22815797,0.080719136,0.040906467,0.000254912
 "Current recommendations are that:
-",All babies should be exclusively breastfed until around 6 months,Solids should be introduced at 4 months of age,Cow's milk is appropriate for all children from 6 months,Bottle feeding is more appropriate for babies than breast feeding,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",All babies should be exclusively breastfed until around 6 months,Solids should be introduced at 4 months of age,Cow's milk is appropriate for all children from 6 months,Bottle feeding is more appropriate for babies than breast feeding,A,True,0.39788836,0.11670029,0.28883597,0.1939153,0.0026600875
 "Food allergies:
-",Are avoidable if the allergic agents are not allowed to exceed specified limits,Are a form of food intolerance,Usually occur only after an individual has been sensitized by prior exposure,Are uncomfortable but generally of little medical concern,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Are avoidable if the allergic agents are not allowed to exceed specified limits,Are a form of food intolerance,Usually occur only after an individual has been sensitized by prior exposure,Are uncomfortable but generally of little medical concern,C,False,0.88711345,0.015748149,0.045926183,0.049271602,0.0019405528
 "The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Which of the following is not one of the underlying causes in the UNICEF model?
-",Insufficient rainfall for agriculture,Inadequate access to food,Inadequate care for mothers and children,Insufficient health services and unhealthy environment,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Insufficient rainfall for agriculture,Inadequate access to food,Inadequate care for mothers and children,Insufficient health services and unhealthy environment,A,True,0.41763124,0.09919611,0.18971755,0.28258342,0.010871681
 "Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE?
-",Dietary starch is a potent stimulator of small intestinal motility because it causes insulin release from the pancreas,"Food in the stomach causes gastrin release, which stimulates acid secretion",Short-chain fatty acids which move from colon to caecum (reflux) promote ileo-caecal motility,"The arrival of lipid in the duodenum causes an immediate reduction in motility and a switch from the ""fasting"" to the ""feeding"" pattern.",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Dietary starch is a potent stimulator of small intestinal motility because it causes insulin release from the pancreas,"Food in the stomach causes gastrin release, which stimulates acid secretion",Short-chain fatty acids which move from colon to caecum (reflux) promote ileo-caecal motility,"The arrival of lipid in the duodenum causes an immediate reduction in motility and a switch from the ""fasting"" to the ""feeding"" pattern.",A,False,0.2121008,0.122275956,0.25584242,0.38107613,0.028704723
 "What is meant by the term 'functional isolation'?
-",A child that is only developing one single function at the time,A child that is isolated from proper nutrition and therefore not developing adequately,"A malnourished, apathetic child that is not receiving the same stimulation from the environment affecting his/her development negatively",None of the above,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A child that is only developing one single function at the time,A child that is isolated from proper nutrition and therefore not developing adequately,"A malnourished, apathetic child that is not receiving the same stimulation from the environment affecting his/her development negatively",None of the above,C,False,0.59565884,0.12983061,0.24830754,0.01032926,0.01587377
 "Which of the following proteins is not involved in the absorption of cholesterol in the small intestine?
-",NPC1L1,LDL receptor,ACAT2,ABCG5/G8,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",NPC1L1,LDL receptor,ACAT2,ABCG5/G8,B,False,0.7602451,0.0981764,0.052141093,0.08939063,4.6809382e-05
 "What is the prevalence of alcoholic myopathy in alcoholics
-",30 to 50%,40 to 60%,20 to 40%,10 to 30%,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",30 to 50%,40 to 60%,20 to 40%,10 to 30%,B,False,0.5600586,0.11289734,0.16045947,0.16045947,0.006125231
 "Molecules of natural polyunsaturated fatty acids in vegetable oils contain:
-",18 carbon atoms with one carbon-carbon double bond in the cis configuration,20 carbon atoms with at least two carbon-carbon double bonds in the cis configuration,18 carbon atoms with at least two carbon-carbon double bonds in the trans configuration,18 carbon atoms with at least two carbon-carbon double bonds in the cis configuration,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",18 carbon atoms with one carbon-carbon double bond in the cis configuration,20 carbon atoms with at least two carbon-carbon double bonds in the cis configuration,18 carbon atoms with at least two carbon-carbon double bonds in the trans configuration,18 carbon atoms with at least two carbon-carbon double bonds in the cis configuration,D,False,0.5845532,0.1284093,0.115105346,0.17011467,0.0018174062
 "Which of the following statements is not true?
-",Docosahexaenoic acid can be synthesised from linolenic acid in vegans,Docosahexaenoic acid is absent from vegan diets,Lack of docosahexaenoic acid in vegans causes visual and cognitive impairment,Microalgae can be used to synthesise docosahexaenoic acid,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Docosahexaenoic acid can be synthesised from linolenic acid in vegans,Docosahexaenoic acid is absent from vegan diets,Lack of docosahexaenoic acid in vegans causes visual and cognitive impairment,Microalgae can be used to synthesise docosahexaenoic acid,C,False,0.48528612,0.110849805,0.33093637,0.07157001,0.0013577547
 "Which of the following statements about glycogen metabolism is correct?
-",A key step in the synthesis of glycogen is the formation of UDP-glucose,"In muscle in the fasting state, glycogen is broken down to glucose 6-phosphate, then free glucose.",Glycogen is stored mainly in the liver and brain.,Glucagon increases the synthesis of glycogen,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A key step in the synthesis of glycogen is the formation of UDP-glucose,"In muscle in the fasting state, glycogen is broken down to glucose 6-phosphate, then free glucose.",Glycogen is stored mainly in the liver and brain.,Glucagon increases the synthesis of glycogen,A,False,0.343673,0.034835193,0.124470115,0.49228886,0.0047328826
 "The WHO made a strong recommendation that the maximum intake of free sugars by individuals within populations should be
-",<5%,5-10%,<10%,>10%,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",<5%,5-10%,<10%,>10%,C,True,0.31441465,0.11123557,0.32439524,0.24107006,0.008884484
 "Rickets of prematurity is associated with:
-",Hypocalcaemic convulsions,Use of frusemide diuretic,Vitamin D deficiency in the mother,All of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Hypocalcaemic convulsions,Use of frusemide diuretic,Vitamin D deficiency in the mother,All of the options given are correct,D,False,0.85490656,0.032128457,0.08077093,0.027267067,0.0049270587
 "Which of the following diseases does obesity increase the risk of developing?
-",Type 2 diabetes,Cancer,Cardiovascular disease,All of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Type 2 diabetes,Cancer,Cardiovascular disease,All of the options given are correct,D,False,0.63241196,0.027142575,0.3255378,0.010712551,0.004195095
 "Which of the following statements about the protein:energy ratio of the requirement is correct?
-",Infants and children need the most protein dense food,Children are most susceptible to protein deficient diets,Young adults need the most protein dense food,The elderly need the most protein dense food,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Infants and children need the most protein dense food,Children are most susceptible to protein deficient diets,Young adults need the most protein dense food,The elderly need the most protein dense food,D,False,0.5657236,0.057342563,0.120449506,0.25499162,0.0014927285
 "Since the 1996 World Food Summit, how has the number of food insecure people in the world changed?
-",The Summit's goal of cutting the number of hungry people in half by 2015 was achieved.,"The number decreased, but not by nearly enough to meet the Summit's goal.",The number increased slightly.,"Because of rising food prices, the number increased dramatically.",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The Summit's goal of cutting the number of hungry people in half by 2015 was achieved.,"The number decreased, but not by nearly enough to meet the Summit's goal.",The number increased slightly.,"Because of rising food prices, the number increased dramatically.",B,False,0.20522621,0.09618759,0.42109686,0.22539692,0.052092403
 "Which of the following statements is correct?
-","Starch mainly contains amylose, which is a polymer of fructose with alpha 1,4-linkages","Starch mainly contains amylose, which is a polymer of glucose with alpha 1,4-linkages","Starch mainly contains amylose, which is a polymer of fructose with beta 1,4-linkages","Starch mainly contains amylose, which is a polymer of glucose with beta 1,4-linkages",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Starch mainly contains amylose, which is a polymer of fructose with alpha 1,4-linkages","Starch mainly contains amylose, which is a polymer of glucose with alpha 1,4-linkages","Starch mainly contains amylose, which is a polymer of fructose with beta 1,4-linkages","Starch mainly contains amylose, which is a polymer of glucose with beta 1,4-linkages",B,False,0.7494686,0.08343367,0.086757295,0.07961296,0.0007275042
 "What caused the food-price spike of 2007-2008?
-",Long-term neglect of agricultural and rural development caused the spike.,The use of food crops to produce biofuel caused food prices to rise.,It was caused by commodity price speculation.,All of the above were among the causes.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Long-term neglect of agricultural and rural development caused the spike.,The use of food crops to produce biofuel caused food prices to rise.,It was caused by commodity price speculation.,All of the above were among the causes.,D,False,0.2706686,0.08856242,0.4901175,0.09501361,0.05563786
 "Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to evaluate the safety of a food substance?
-",Rates of consumption of the food to which the substance is added,The concentration of the substance in food,The daily intake of the substance by humans consuming the food,The total amount of the substance a person will consume over a lifetime,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Rates of consumption of the food to which the substance is added,The concentration of the substance in food,The daily intake of the substance by humans consuming the food,The total amount of the substance a person will consume over a lifetime,C,False,0.54245293,0.046664156,0.09426419,0.3115045,0.0051142913
 "Epidemiological measures of effect assess the _______ between an exposure and an outcome.
-",strength of the causal mechanisms,strength of the reversibility,strength of the association,strength of a confounding factor,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",strength of the causal mechanisms,strength of the reversibility,strength of the association,strength of a confounding factor,C,False,0.7122935,0.034371924,0.15893418,0.083752416,0.010647926
 "The risk factors for type 2 diabetes mellitus include:
-",family history,being overweight,high intake of dietary fat,All of the options listed are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",family history,being overweight,high intake of dietary fat,All of the options listed are correct,D,False,0.6663997,0.039399955,0.2549206,0.034231275,0.005048429
 "The World Health Organization recommends zinc supplements for which groups of people?
-",Pregnant and lactating women,Children with severe malnutrition or diarrhoea,All children in low income areas with high prevalence of stunting,Elderly people with low incomes,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Pregnant and lactating women,Children with severe malnutrition or diarrhoea,All children in low income areas with high prevalence of stunting,Elderly people with low incomes,B,False,0.7399948,0.06991416,0.06466003,0.11892799,0.0065030297
 "Which of the following statements is/are true? Epigenetic changes may be key to understanding the links between early experience and later health. They may:
-",include changes in DNA methylation,modify gene expression without changing the underlying DNA sequence,enable one genotype to result in different phenotypes,all of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",include changes in DNA methylation,modify gene expression without changing the underlying DNA sequence,enable one genotype to result in different phenotypes,all of the options given are correct,D,False,0.74866784,0.06963696,0.11661996,0.060030807,0.005044484
 "Confounding is a particular challenge in nutritional epidemiology because
-",people change their diets over time.,it is difficult to measure people's diets accurately in large studies.,the are no good methods to adjust for confounding in nutritional studies.,"different dietary components are correlated with each other, making it difficult to separate their effects.",D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",people change their diets over time.,it is difficult to measure people's diets accurately in large studies.,the are no good methods to adjust for confounding in nutritional studies.,"different dietary components are correlated with each other, making it difficult to separate their effects.",D,False,0.1336321,0.1116538,0.43475297,0.15623176,0.16372947
 "Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient?
-",Vitamin C,Folate,Vitamin B12,Calcium,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin C,Folate,Vitamin B12,Calcium,C,False,0.7316396,0.035030726,0.028591245,0.20316897,0.0015694995
 "Which of the following statements about proteolysis is correct?
-",The rate of tissue protein catabolism is more or less constant throughout the day.,All tissue proteins undergo catabolism at more or less the same rate.,All proteins that are to be catabolised are tagged with the peptide ubiquitin.,Lysosomal enzymes provide the only mechanism for tissue protein catabolism.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The rate of tissue protein catabolism is more or less constant throughout the day.,All tissue proteins undergo catabolism at more or less the same rate.,All proteins that are to be catabolised are tagged with the peptide ubiquitin.,Lysosomal enzymes provide the only mechanism for tissue protein catabolism.,A,False,0.25548378,0.103628784,0.44143635,0.13254324,0.06690777
 "Which of the following statements about plant sources of amino acids in human nutrition is correct?
-",All plant protein sources are deficient in essential amino acids,All plant protein sources contain all essential amino acids although some may be limited by the amount of particular amino acids,All plant protein sources are deficient in lysine,All plant protein sources are deficient in the sulphur amino acids acids,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",All plant protein sources are deficient in essential amino acids,All plant protein sources contain all essential amino acids although some may be limited by the amount of particular amino acids,All plant protein sources are deficient in lysine,All plant protein sources are deficient in the sulphur amino acids acids,B,False,0.2627047,0.08138212,0.51838493,0.13735832,0.00016987041
 "Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate?
-",Folate,Niacin,Riboflavin,Thiamin,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Folate,Niacin,Riboflavin,Thiamin,D,False,0.8138503,0.09060088,0.045202456,0.048495155,0.001851209
 "Gluten
-",May increase carbohydrate malabsorption,Is a constituent of avenin,Is the main protein in maize,May be contra-indicated in UC,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",May increase carbohydrate malabsorption,Is a constituent of avenin,Is the main protein in maize,May be contra-indicated in UC,A,False,0.26481858,0.10051379,0.018593183,0.61572164,0.00035273127
 "Adaptive thermogenesis refers to:
-",A decrease in heat loss when exposed to cold,A decrease in non-shivering thermogenesis when exposed to cold,An increase in basal metabolic rate that is not fully explained by a change in body composition during chronic overfeeding,A decrease in spontaneous physical activity during chronic overfeeding.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A decrease in heat loss when exposed to cold,A decrease in non-shivering thermogenesis when exposed to cold,An increase in basal metabolic rate that is not fully explained by a change in body composition during chronic overfeeding,A decrease in spontaneous physical activity during chronic overfeeding.,C,True,0.20961979,0.13015589,0.46870938,0.08018672,0.11132824
 "Which of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?
-",Fatty acids can be made from and converted to carbohydrates and amino acids,Carbohydrates can be made from and converted to amino acids and fatty acids,Fatty acids can be made from but not converted to carbohydrates and amino acids,Amino acids can be made from and converted to fatty acids,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Fatty acids can be made from and converted to carbohydrates and amino acids,Carbohydrates can be made from and converted to amino acids and fatty acids,Fatty acids can be made from but not converted to carbohydrates and amino acids,Amino acids can be made from and converted to fatty acids,C,False,0.0630183,0.104714505,0.22693762,0.5886314,0.016698187
 "Assessing growth in routine practice should be:
-",Height only,Weight only,Weight and height,Head circumference,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Height only,Weight only,Weight and height,Head circumference,C,False,0.534312,0.04152487,0.23342364,0.18903221,0.001707254
 "The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determined from his/her:
-",O2 consumption alone,CO2 production alone,Breath collection,Total urinary nitrogen excretion alone,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",O2 consumption alone,CO2 production alone,Breath collection,Total urinary nitrogen excretion alone,D,False,0.43380177,0.043970775,0.2672575,0.24911141,0.005858538
 "What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids?
-",Chylomicrons,HDL,VLDL,LDL,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Chylomicrons,HDL,VLDL,LDL,C,False,0.637491,0.09475458,0.0785543,0.18844198,0.0007581797
 "Which of the following statements about the nutritional status of older people is correct?
-",The risk of high iron stores is greater than the risk of iron deficiency in older people.,All older people living in Western countries have low vitamin D status.,There is strong evidence that vitamin C supplements lower the risk of cancer in older people.,Low dietary intake of vitamin B12 is the main cause of vitamin B12 deficiency in older people.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The risk of high iron stores is greater than the risk of iron deficiency in older people.,All older people living in Western countries have low vitamin D status.,There is strong evidence that vitamin C supplements lower the risk of cancer in older people.,Low dietary intake of vitamin B12 is the main cause of vitamin B12 deficiency in older people.,A,False,0.23718703,0.16048878,0.2594834,0.15373883,0.189102
 "Which of the following could lead to iodine deficiency?
-",Low intake of fruits and vegetables,Intake only of locally grown food in central Africa,Insufficient caloric intake,Inadequate sunlight exposure,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Low intake of fruits and vegetables,Intake only of locally grown food in central Africa,Insufficient caloric intake,Inadequate sunlight exposure,B,False,0.5057722,0.038097505,0.16678596,0.28818032,0.0011640061
 "In relation to Eating Disorders, it is correct that:
-",ED have decreased their prevalence over the last decades,AN has the highest mortality across all mental disorders,BED occurs exclusively in obese subjects,Individuals with BN are predominantly impulsive and have comorbid borderline personality disorder,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",ED have decreased their prevalence over the last decades,AN has the highest mortality across all mental disorders,BED occurs exclusively in obese subjects,Individuals with BN are predominantly impulsive and have comorbid borderline personality disorder,B,False,0.37961853,0.12715627,0.21799658,0.27342898,0.0017996719
 "What are the limitations of food balance sheets? (select all that apply)?
-",No account is taken of waste or losses of food,Consumption estimates give higher values than those derived from other types of surveys,No information is available on the distribution of consumption within a country,All of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",No account is taken of waste or losses of food,Consumption estimates give higher values than those derived from other types of surveys,No information is available on the distribution of consumption within a country,All of the options given are correct,D,False,0.8878714,0.033107653,0.072313756,0.0023983102,0.0043089828
 "The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct?
-",Pepsinogen is the chief enzyme which digests protein and requires removal of a peptide sequence from the active cleft before it can work,Pancreatic á-amylase will hydrolyse starch to free glucose,Enteropeptidase converts trypsinogen to trypsin by cleavage of a peptide sequence that blocks the active site of trypsin.,Pancreatic secretion of hydrochloric acid is required to provide the correct pH for maximal pancreatic enzyme in the duodenum,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Pepsinogen is the chief enzyme which digests protein and requires removal of a peptide sequence from the active cleft before it can work,Pancreatic á-amylase will hydrolyse starch to free glucose,Enteropeptidase converts trypsinogen to trypsin by cleavage of a peptide sequence that blocks the active site of trypsin.,Pancreatic secretion of hydrochloric acid is required to provide the correct pH for maximal pancreatic enzyme in the duodenum,C,True,0.3292763,0.19357155,0.3532619,0.12304156,0.0008487078
 "A deficiency of which vitamin has been associated with enamel defects and increased risk of dental caries?
-",Vitamin A,Folic acid,Vitamin C,Vitamin D,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin A,Folic acid,Vitamin C,Vitamin D,D,False,0.84927064,0.047169756,0.025846893,0.07081019,0.00690246
 "Which of these factors reduces the risk for cancer of the colorectum?
-",Vitamin C,Dietary fibre,Alcohol,Oestrogen,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin C,Dietary fibre,Alcohol,Oestrogen,B,False,0.31098783,0.051971275,0.13908234,0.4969571,0.0010014735
 "Deficiencies of which of the following nutrients can lead to anaemia?
-",Iodine and vitamin C,Copper and iron,Zinc and protein,Vitamin D and zinc,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Iodine and vitamin C,Copper and iron,Zinc and protein,Vitamin D and zinc,B,False,0.7746811,0.07093944,0.058810856,0.09471657,0.0008521024
 "Which of two hormones act on the hypothalamus to increase satiety and hunger, respectively?
-",Leptin and insulin,Leptin and ghrelin,Ghrelin and leptin,Ghrelin and insulin,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Leptin and insulin,Leptin and ghrelin,Ghrelin and leptin,Ghrelin and insulin,B,False,0.5392597,0.25472823,0.078297034,0.1251183,0.0025967476
 "What is the phenotype of a congenital disorder impairing the secretion of leptin?
-","Normal energy intake, normal body weight and hyperthyroidism","Obesity, excess energy intake, normal growth and hypoinsulinaemia","Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia","Underweight, abnormal growth, hypothyroidism, hyperinsulinaemia",C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Normal energy intake, normal body weight and hyperthyroidism","Obesity, excess energy intake, normal growth and hypoinsulinaemia","Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia","Underweight, abnormal growth, hypothyroidism, hyperinsulinaemia",C,False,0.67072797,0.16056135,0.11746919,0.049739588,0.0015020055
 "What are the effects of globalisation on food security?
-",Wealthy countries subsidies and trade barriers make it difficult for developing countries to take advantage of the potential of globalisation for advancing food security.,"World Trade Organisation rules do not cover agriculture, so globalisation really has no bearing on food security.",Supermarkets are so far the only way in which food and agriculture have experienced globalisation.,Developing countries need to create publicly-owned food reserves in order to realise the potential benefits.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Wealthy countries subsidies and trade barriers make it difficult for developing countries to take advantage of the potential of globalisation for advancing food security.,"World Trade Organisation rules do not cover agriculture, so globalisation really has no bearing on food security.",Supermarkets are so far the only way in which food and agriculture have experienced globalisation.,Developing countries need to create publicly-owned food reserves in order to realise the potential benefits.,A,False,0.17487636,0.07148931,0.40978873,0.08132506,0.26252052
 "Which of the following statements is correct?
-",The amount of oxygen available in the headspace of canned food is kept at a high level so as to limit losses of vitamin C,Reheating canned vegetables before serving only causes small losses of vitamin C,Losses of vitamin C are much higher for most canned fruits than those for canned vegetables,Losses of vitamin C in canned foods during storage at ambient temperature tend to be small,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The amount of oxygen available in the headspace of canned food is kept at a high level so as to limit losses of vitamin C,Reheating canned vegetables before serving only causes small losses of vitamin C,Losses of vitamin C are much higher for most canned fruits than those for canned vegetables,Losses of vitamin C in canned foods during storage at ambient temperature tend to be small,D,False,0.41274086,0.060397334,0.20432153,0.3189414,0.0035989152
 "Which statement about Engel's law on food economics is correct?
-","As income rises, the proportion of income spent on food, declines","As income rises, the proportion of income spent on food, increases","As income rises, the proportion of income spent on food, remains similar","As income declines, the proportion of income spent on food, declines",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","As income rises, the proportion of income spent on food, declines","As income rises, the proportion of income spent on food, increases","As income rises, the proportion of income spent on food, remains similar","As income declines, the proportion of income spent on food, declines",A,True,0.46587145,0.048341226,0.35165823,0.13243571,0.0016933727
 "The stomach lining contains several types of cells. Which statement about them is correct?
-",Mucous cells secrete the glycoprotein mucin,Chief cells the hormone gastrin (which stimulates acid secretion).,"Parietal cells secrete pepsinogen, the inactive precursor of pepsin",G Cells secrete hydrochloric acid,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Mucous cells secrete the glycoprotein mucin,Chief cells the hormone gastrin (which stimulates acid secretion).,"Parietal cells secrete pepsinogen, the inactive precursor of pepsin",G Cells secrete hydrochloric acid,A,True,0.5455811,0.077986754,0.047672343,0.32073057,0.008029333
 "Which of these factors increases the risk for lung cancer?
-",Saturated fat,Obesity,High dose ß-carotene supplements,Alcohol,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Saturated fat,Obesity,High dose ß-carotene supplements,Alcohol,C,False,0.33395448,0.0380587,0.25208205,0.37255314,0.0033516146
 "According to the recommendations for the nutritional management of patients with diabetes, the consumption of saturated fat should be:
-",<10% of total daily energy,<12%,<15%,<16%,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",<10% of total daily energy,<12%,<15%,<16%,A,True,0.4434681,0.06489372,0.20623182,0.28188547,0.0035208005
 "When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through muscle than it does through fat?
-",Muscle contains less water than fat,Muscle contains more water than fat,Muscle weighs more than fat,Muscle weighs less than fat,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Muscle contains less water than fat,Muscle contains more water than fat,Muscle weighs more than fat,Muscle weighs less than fat,B,False,0.31386003,0.01899659,0.4256573,0.24064483,0.0008411982
 "Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true:
-",research to define pattern and level of optimal weight gain is ongoing,both inadequate and excessive weight gain are associated with poorer maternal and infant health outcomes,excessive maternal weight gain in pregnancy has been linked to obesity in the offspring,all of the options given are correct,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",research to define pattern and level of optimal weight gain is ongoing,both inadequate and excessive weight gain are associated with poorer maternal and infant health outcomes,excessive maternal weight gain in pregnancy has been linked to obesity in the offspring,all of the options given are correct,D,False,0.7695783,0.06027803,0.16385268,0.0031946185,0.0030963302
 "Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as sprinting?
-",Muscle triacylglycerol,Plasma free fatty acids,Plasma triacylglycerol in VLDL,Muscle glycogen,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Muscle triacylglycerol,Plasma free fatty acids,Plasma triacylglycerol in VLDL,Muscle glycogen,D,False,0.69278127,0.029272597,0.12815166,0.14750165,0.002292807
 "How many calories should a woman eat each day during pregnancy?
-",Less than 200 kCal,An additional 200 kCal in the third trimester only,An additional 200 kCal throughout pregnancy,No change from pre-pregnant levels,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Less than 200 kCal,An additional 200 kCal in the third trimester only,An additional 200 kCal throughout pregnancy,No change from pre-pregnant levels,B,False,0.69925857,0.096124634,0.17002715,0.028861847,0.005727809
 "Which of the following will be increased in vitamin K deficiency
-",The plasma concentration of calcitonin,The plasma concentration of prothrombin,The time for blood to clot,Haemolysis due to oxidative damage to red cell membranes,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",The plasma concentration of calcitonin,The plasma concentration of prothrombin,The time for blood to clot,Haemolysis due to oxidative damage to red cell membranes,C,False,0.65398616,0.052438896,0.0805869,0.21066594,0.002322075
 "Which of the following contributes to reduced energy expenditure in older adults?
-",A reduction in lean body mass,A reduction in physical activity,A reduction in basal metabolic rate,All of the above,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",A reduction in lean body mass,A reduction in physical activity,A reduction in basal metabolic rate,All of the above,D,False,0.7720497,0.036677882,0.15441966,0.03211623,0.004736502
 "Which one of following statements about nitrogen balance is correct?
-",In nitrogen equilibrium the excretion of nitrogenous metabolites is greater than the dietary intake of nitrogenous compounds.,Positive nitrogen balance means that there is a net loss of protein from the body,In positive nitrogen balance the excretion of nitrogenous metabolites is less than the dietary intake of nitrogenous compounds.,In negative nitrogen balance the excretion of nitrogenous metabolites is less than the dietary intake of nitrogenous compounds,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",In nitrogen equilibrium the excretion of nitrogenous metabolites is greater than the dietary intake of nitrogenous compounds.,Positive nitrogen balance means that there is a net loss of protein from the body,In positive nitrogen balance the excretion of nitrogenous metabolites is less than the dietary intake of nitrogenous compounds.,In negative nitrogen balance the excretion of nitrogenous metabolites is less than the dietary intake of nitrogenous compounds,C,False,0.61276823,0.06509184,0.21848924,0.10160693,0.0020439043
 "Deficiency of vitamin A in children causes:
-",Goitre,Poor cognitive development,Poor bone growth,Increased risk of mortality,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Goitre,Poor cognitive development,Poor bone growth,Increased risk of mortality,D,False,0.48362994,0.056865852,0.23204817,0.2266728,0.00078312634
 "Which of these factors increases the risk for postmenopausal breast cancer?
-",Red meat,Dietary fat,Fish,Obesity,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Red meat,Dietary fat,Fish,Obesity,D,False,0.40061522,0.04390657,0.16963115,0.38526788,0.0005792269
 "Which of the following foods might be considered a ""goitrogen""?
-",Fish,Meat,Rice,Brassicas,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Fish,Meat,Rice,Brassicas,D,False,0.6410386,0.024855763,0.24714239,0.08408596,0.0028772634
 "Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes:
-",persons with type 2 diabetes usually require lower doses of insulin than person with type 1 diabetes because they have a milder form of diabetes,persons with type 1 diabetes rapidly develop chronic complications,autoimmune factors are involved in the pathogenesis of type 1 but not type 2 diabetes,persons with type 1 diabetes can increase endogenous insulin production by taking oral hypoglycemic agents,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",persons with type 2 diabetes usually require lower doses of insulin than person with type 1 diabetes because they have a milder form of diabetes,persons with type 1 diabetes rapidly develop chronic complications,autoimmune factors are involved in the pathogenesis of type 1 but not type 2 diabetes,persons with type 1 diabetes can increase endogenous insulin production by taking oral hypoglycemic agents,C,False,0.34871697,0.16216846,0.21652329,0.26322538,0.009365878
 "Which of the following nutritional interventions has been shown to improve child development?
-",Protein-energy supplementation during pregnancy,Protein-energy supplementation during the first two years,Both of the interventions,None of the interventions,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Protein-energy supplementation during pregnancy,Protein-energy supplementation during the first two years,Both of the interventions,None of the interventions,C,False,0.63739926,0.026308607,0.10324283,0.21019197,0.022857316
 "Food supplements, including trace minerals and vitamins are frequently advertised with promising health benefits. Which of the following substance could be consumed in excess, i.e. well above the recommended daily requirement?
-",Vitamin C,Vitamin D,Zinc,Vitamin A,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin C,Vitamin D,Zinc,Vitamin A,A,True,0.7383414,0.03347023,0.012803503,0.20825875,0.007126223
 "The thermic effect of food
-",is substantially higher for carbohydrate than for protein,is accompanied by a slight decrease in body core temperature.,is partly related to sympathetic activity stimulation in the postprandial phase,is not attenuated by food malabsorption.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",is substantially higher for carbohydrate than for protein,is accompanied by a slight decrease in body core temperature.,is partly related to sympathetic activity stimulation in the postprandial phase,is not attenuated by food malabsorption.,C,True,0.20720582,0.09486573,0.28993306,0.11806232,0.28993306
 "What is the primary method of dietary assessment used in epidemiological studies?
-",Weighed diary,Unweighed diary,24-hour recall,Food frequency questionnaire,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Weighed diary,Unweighed diary,24-hour recall,Food frequency questionnaire,D,False,0.6419762,0.034559283,0.19579168,0.12542886,0.0022440925
 "Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg.
-",29,32,39,43,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",29,32,39,43,B,False,0.5780464,0.04220196,0.21265139,0.16177663,0.005323623
 "Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by infection. Which of the following combinations of iron status markers is likely to be found in a person with both iron deficiency and a severe infection?
-","Low haemoglobin, high ferritin, high serum transferrin receptors, high hepcidin","Low haemoglobin, low ferritin, high serum transferrin receptors, low hepcidin","Low haemoglobin, low ferritin, normal serum transferrin receptors, high hepcidin","Low haemoglobin, low ferritin, low serum transferrin receptors, high hepcidin",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Low haemoglobin, high ferritin, high serum transferrin receptors, high hepcidin","Low haemoglobin, low ferritin, high serum transferrin receptors, low hepcidin","Low haemoglobin, low ferritin, normal serum transferrin receptors, high hepcidin","Low haemoglobin, low ferritin, low serum transferrin receptors, high hepcidin",A,True,0.5972016,0.054687202,0.29795492,0.049021292,0.0011349967
 "How much dietary protein should athletes consume daily?
-",<0.8 g protein per kg bodyweight per day,0.8-1.2 g protein per kg bodyweight per day,1.2-1.7 g protein per kg bodyweight per day,>2.0 g protein per kg bodyweight per day,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",<0.8 g protein per kg bodyweight per day,0.8-1.2 g protein per kg bodyweight per day,1.2-1.7 g protein per kg bodyweight per day,>2.0 g protein per kg bodyweight per day,C,False,0.7231572,0.08569669,0.10336994,0.08569669,0.0020793683
 "Which vitamins are important in lowering circulating homocysteine levels
-",Vitamin D,Vitamin C,Vitamin A,"Folate, vitamins B6 and B12",D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin D,Vitamin C,Vitamin A,"Folate, vitamins B6 and B12",D,False,0.7613668,0.07900335,0.033452123,0.12332249,0.0028553023
 "The function of the gastrointestinal tract can be classified in several ways. Which of the following functions is most important for survival immediately after a meal?
-",Absorption and retention of water and electrolytes,Elimination of toxins,Maintenance of barrier function,Extraction of maximum value from nutrients,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Absorption and retention of water and electrolytes,Elimination of toxins,Maintenance of barrier function,Extraction of maximum value from nutrients,A,True,0.74667436,0.048865255,0.10841231,0.095673524,0.0003745511
 "Which single statement below, about the stomach, is actually correct?
-","Acid secretion occurs in response to secretion of the hormone, carbonic anhydrase",Glands called Peyer's patches are responsible for acid secretion,The vagus nerve inhibits acid secretion after a meal has been consumed,Pepsinogen and gastric lipase are two enzymes secreted into the lumen of the stomach,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Acid secretion occurs in response to secretion of the hormone, carbonic anhydrase",Glands called Peyer's patches are responsible for acid secretion,The vagus nerve inhibits acid secretion after a meal has been consumed,Pepsinogen and gastric lipase are two enzymes secreted into the lumen of the stomach,D,False,0.6704867,0.11927614,0.091452196,0.1156064,0.0031786016
 "The best evidence exists for which nutrients in the prevention of age related cognitive decline?
-",N-3 fatty acids,Phytochemical,N-6 fatty acids,Long chain saturated fats,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",N-3 fatty acids,Phytochemical,N-6 fatty acids,Long chain saturated fats,A,True,0.6864702,0.050510835,0.11744121,0.13623418,0.0093435645
 "Which diseases are not less frequent among vegetarians?
-",Respiratory diseases,Colorectal cancer,Ischaemic heart disease,Diverticular disease,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Respiratory diseases,Colorectal cancer,Ischaemic heart disease,Diverticular disease,A,True,0.6340294,0.07282307,0.10513237,0.18741873,0.00059651275
 "For Binge Eating Disorder it is incorrect that:
-","Binge Eating episodes in BED are usually richer in calories than those of BN, leading patients to obesity",BED patients have higher odds of developing obesity,Bariatric surgery can be considered a treatment option for mild cases,Spontaneous remission is a possible outcome,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Binge Eating episodes in BED are usually richer in calories than those of BN, leading patients to obesity",BED patients have higher odds of developing obesity,Bariatric surgery can be considered a treatment option for mild cases,Spontaneous remission is a possible outcome,A,False,0.3034071,0.23814695,0.3835425,0.07377449,0.0011289923
 "Although theoretically any food protein could act as a food allergen, there are eight major food allergens in Europe and North America which account for most of the allergic triggers observed in childhood. Which of the allergens pairings contains an allergen, which is not part of the group of eight major allergens?
-","Cow's milk, egg","Mustard seeds, lamb,","Soy, peanuts","Fish, shellfish",B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Cow's milk, egg","Mustard seeds, lamb,","Soy, peanuts","Fish, shellfish",B,False,0.8426052,0.068627,0.06703725,0.016949672,0.0047808746
 "Prenatal programming:
-",Explains the rise in obesity in the pre-school years,May be effected through the epigenetic effects of intrauterine nutritional inadequacy,Causes high blood pressure in young children,Only affects low birth weight children,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Explains the rise in obesity in the pre-school years,May be effected through the epigenetic effects of intrauterine nutritional inadequacy,Causes high blood pressure in young children,Only affects low birth weight children,B,False,0.672148,0.14650229,0.1282817,0.04756233,0.0055057392
 "The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?
-",Randomised controlled,Non-randomised controlled,Cross sectional observational,Cohort,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Randomised controlled,Non-randomised controlled,Cross sectional observational,Cohort,D,False,0.5136547,0.13191745,0.09726982,0.25427753,0.0028804818
 "Which of the following statements about nutritional status and health outcomes is correct?
-",Hypertension in older people is unlikely to be associated with high salt intake.,There is strong evidence that supplements of vitamin B12 will improve cognitive function in older people.,Older people are no more likely to have low haemoglobin concentration than younger people.,Folate deficiency in older people is less prevalent in countries with mandatory fortification of flour with folic acid.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Hypertension in older people is unlikely to be associated with high salt intake.,There is strong evidence that supplements of vitamin B12 will improve cognitive function in older people.,Older people are no more likely to have low haemoglobin concentration than younger people.,Folate deficiency in older people is less prevalent in countries with mandatory fortification of flour with folic acid.,D,False,0.23570724,0.14408495,0.34835273,0.20964235,0.06221271
 "Which of the following statements about the consequence of an adaptive metabolic demand for the determination of the minimum protein requirement is correct.
-",Adaptation is fully accounted for in the design of nitrogen balance studies.,The adaptive metabolic demand means that the slope of N-balance studies underestimates the efficiency of protein utilization,Variable adaptation between different N-balance studies is fully accounted for in the calculation of the safe individual protein requirement as EAR+2SD,Adaptation should not influence the interpretation of N-balance studies.,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Adaptation is fully accounted for in the design of nitrogen balance studies.,The adaptive metabolic demand means that the slope of N-balance studies underestimates the efficiency of protein utilization,Variable adaptation between different N-balance studies is fully accounted for in the calculation of the safe individual protein requirement as EAR+2SD,Adaptation should not influence the interpretation of N-balance studies.,B,False,0.14104107,0.1000131,0.52403116,0.113329686,0.121585004
 "De novo fatty acid synthesis usually signifies which of the following?
-",An excess of fat intake,A depletion of energy yielding substrates,Only occurs with prolonged fasting,An excess of energy yielding substrates,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",An excess of fat intake,A depletion of energy yielding substrates,Only occurs with prolonged fasting,An excess of energy yielding substrates,D,False,0.6352719,0.05054192,0.10209749,0.2111335,0.00095509266
 "Which of the following lipoproteins is produced via the exogenous lipoprotein pathway?
-",High density lipoproteins,Very low density lipoproteins,Chylomicrons,Low density lipoproteins,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",High density lipoproteins,Very low density lipoproteins,Chylomicrons,Low density lipoproteins,C,False,0.841985,0.07590725,0.045681786,0.027707405,0.008718522
 "The following types of research findings provide strong evidence for an association between diet and skeletal health:
-",Long-term intervention studies that have a large sample size with fracture as an endpoint,Experimental studies which measure bone remodelling through biochemical markers,Experimental studies which have a one-off measure of bone mineral density and bone mineral content,Case reports from individual patients,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Long-term intervention studies that have a large sample size with fracture as an endpoint,Experimental studies which measure bone remodelling through biochemical markers,Experimental studies which have a one-off measure of bone mineral density and bone mineral content,Case reports from individual patients,A,True,0.53422177,0.072299056,0.19652921,0.19048263,0.0064672343
 "Which vitamin is required for vision in dim light?
-",Vitamin A,Vitamin D,Vitamin E,Vitamin K,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Vitamin A,Vitamin D,Vitamin E,Vitamin K,A,True,0.7858275,0.047562744,0.054744385,0.10972611,0.0021393185
 "The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct?
-",Replacement of saturated fatty acids with n-6 polyunsaturated fatty acids is associated with a reduction in plasma triglyceride concentrations,Replacement of saturated fatty acids with monounsaturated fatty acids is associated with an increase in LDL cholesterol,Consumption of soluble dietary fibre and plant stanols/sterols is associated with a significant increases in LDL cholesterol,Replacement of saturated fatty acids with large amounts of carbohydrate is associated with decreased LDL and increased plasma triglyceride concentrations,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Replacement of saturated fatty acids with n-6 polyunsaturated fatty acids is associated with a reduction in plasma triglyceride concentrations,Replacement of saturated fatty acids with monounsaturated fatty acids is associated with an increase in LDL cholesterol,Consumption of soluble dietary fibre and plant stanols/sterols is associated with a significant increases in LDL cholesterol,Replacement of saturated fatty acids with large amounts of carbohydrate is associated with decreased LDL and increased plasma triglyceride concentrations,D,False,0.59006524,0.11619074,0.15513499,0.13797991,0.00062906736
 "Additional dietary protein may:
-",Increase risk of hip fracture,Decrease calcium excretion in the urine,Stimulate production of insulin-like growth hormone,Reduce muscle mass and strength,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Increase risk of hip fracture,Decrease calcium excretion in the urine,Stimulate production of insulin-like growth hormone,Reduce muscle mass and strength,C,False,0.47746965,0.08971389,0.13053294,0.30113634,0.0011471156
 "Greater milk consumption
-",Has been reported to be associated with a higher incidence of fracture and higher mortality in a few studies,During puberty seems to be associated with higher bone mineral density in later life,Is consistently associated with a lower rate of fractures,In countries with the highest rate of fracture suggests that milk consumption is beneficial to the skeleton.,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Has been reported to be associated with a higher incidence of fracture and higher mortality in a few studies,During puberty seems to be associated with higher bone mineral density in later life,Is consistently associated with a lower rate of fractures,In countries with the highest rate of fracture suggests that milk consumption is beneficial to the skeleton.,A,False,0.15278059,0.07864471,0.6332579,0.11714094,0.0181759
 "It is correct to state about the epidemiology of Anorexia Nervosa that:
-",Females are three times more affected than males,It never happens in children or post menopausal women,Males from any socioeconomic background can be affected,Prevalence rates are 2% for female adolescents,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Females are three times more affected than males,It never happens in children or post menopausal women,Males from any socioeconomic background can be affected,Prevalence rates are 2% for female adolescents,C,False,0.3923232,0.17961864,0.18823873,0.23426688,0.00555264
 "What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)?
-",60 g glucose per hour,60 g glucose plus fructose per hour,90 g glucose per hour,90 g glucose plus fructose per hour,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",60 g glucose per hour,60 g glucose plus fructose per hour,90 g glucose per hour,90 g glucose plus fructose per hour,D,False,0.57962656,0.11868187,0.08682951,0.2115733,0.003288755
 "What endogenous substrate source provides the most energy during moderate to high intensity exercise?
-",Liver glycogen,Muscle glycogen,Intramuscular lipid,Adipose tissue lipid,B,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Liver glycogen,Muscle glycogen,Intramuscular lipid,Adipose tissue lipid,B,False,0.59308016,0.051019333,0.070833325,0.2779711,0.0070961216
 "How does agricultural research help reduce hunger and poverty?
-",Transnational private-sector firms are the main source of research oriented towards poor farmers and consumers.,Agricultural research mainly benefits commercial farmers in developed countries.,Research focused on the problems of poor farmers and consumers is a 'public good' with little profit potential but high social benefits; public investment is needed to support it.,Pro-poor research should only focus on organic farming.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Transnational private-sector firms are the main source of research oriented towards poor farmers and consumers.,Agricultural research mainly benefits commercial farmers in developed countries.,Research focused on the problems of poor farmers and consumers is a 'public good' with little profit potential but high social benefits; public investment is needed to support it.,Pro-poor research should only focus on organic farming.,C,True,0.09947628,0.06863657,0.32744676,0.20977026,0.2946702
 "Severe acute malnutrition in young children is defined as:
-",Weight-for-age Z score <-3,Height-for-age Z score <-3 and oedema,Height-for-age Z score <-3 or weight-for-height Z score <-3 or oedema,Height-for-age Z score <-3 or weight-for-age Z score <-3 or oedema,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Weight-for-age Z score <-3,Height-for-age Z score <-3 and oedema,Height-for-age Z score <-3 or weight-for-height Z score <-3 or oedema,Height-for-age Z score <-3 or weight-for-age Z score <-3 or oedema,C,False,0.5109228,0.13644287,0.18360396,0.1671733,0.0018571276
 "What are the main metabolites of alcohol metabolism?
-","Acetaldehyde, acetate,","Pyruvate, beta-hydroxybutyrate,","Acetyl-CoA, lipids,","Acetone, lactate",A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+","Acetaldehyde, acetate,","Pyruvate, beta-hydroxybutyrate,","Acetyl-CoA, lipids,","Acetone, lactate",A,True,0.7585857,0.040203568,0.018406535,0.17463635,0.00816785
 "Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activities is referred to the following energy expenditure component:
-",Non-exercise activity thermogenesis (NEAT),Structured (volitional) exercise activity thermogenesis,Physical activity (non-resting) energy expenditure,Basal metabolic rate,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Non-exercise activity thermogenesis (NEAT),Structured (volitional) exercise activity thermogenesis,Physical activity (non-resting) energy expenditure,Basal metabolic rate,A,True,0.5215668,0.21073204,0.16411828,0.10190336,0.0016796007
 "Are most developing-country farmers engaged in subsistence or commercial production?
-",Almost all are subsistence farmers.,"Very few engage in subsistence production, instead selling almost all of their produce on the market.",Virtually all small-scale producers are engage in some self-provisioning and market sales.,37% engage in pure subsistence production.,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Almost all are subsistence farmers.,"Very few engage in subsistence production, instead selling almost all of their produce on the market.",Virtually all small-scale producers are engage in some self-provisioning and market sales.,37% engage in pure subsistence production.,C,True,0.12580027,0.1493915,0.43908605,0.16090098,0.124821275
 "Which of the following statements about protein synthesis is correct?
-",All the information in DNA codes for proteins,The mRNA formed by transcription of a region of DNA only contains information for the protein to be synthesised.,Both strands of DNA are transcribed to form mRNA.,The RNA formed by transcription of DNA undergoes splicing and further modifications to form mRNA.,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",All the information in DNA codes for proteins,The mRNA formed by transcription of a region of DNA only contains information for the protein to be synthesised.,Both strands of DNA are transcribed to form mRNA.,The RNA formed by transcription of DNA undergoes splicing and further modifications to form mRNA.,D,False,0.267158,0.09905278,0.3595004,0.17249018,0.101798624
 "Which of the following is closest to the amount of retinol formed from ß-carotene?
-",2 mol retinol /mol ß-carotene,1 mol retinol /mol ß-carotene,0.15 mol retinol /mol ß-carotene,0.1 mol retinol /mol ß-carotene,C,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",2 mol retinol /mol ß-carotene,1 mol retinol /mol ß-carotene,0.15 mol retinol /mol ß-carotene,0.1 mol retinol /mol ß-carotene,C,False,0.675166,0.13294807,0.1146084,0.07516202,0.0021155898
 "From the list of oral microorganisms, which is primarily responsible for the initiation of dental caries?
-",Mutans streptococci,bifidobacteria,Lactobacilli,P. gingivalis,A,True,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",Mutans streptococci,bifidobacteria,Lactobacilli,P. gingivalis,A,True,0.79627436,0.07348867,0.07641613,0.04933796,0.0044828383
 "Which statement about the oral phase of digestion is INCORRECT?
-",About 2% of the energy content of food is expended during the action of chewing and swallowing it.,Swallowing involves contraction and relaxation of at least 14 groups of muscles in about 10 seconds in healthy subjects,The biofilm covering tooth enamel contains several salivary and bacterial enzymes,Salivary amylase digests the dextran film on tooth enamel formed from dietary sucrose,D,False,0.84085387,0.049714312,0.047068566,0.06235572,7.5464663e-06
+",About 2% of the energy content of food is expended during the action of chewing and swallowing it.,Swallowing involves contraction and relaxation of at least 14 groups of muscles in about 10 seconds in healthy subjects,The biofilm covering tooth enamel contains several salivary and bacterial enzymes,Salivary amylase digests the dextran film on tooth enamel formed from dietary sucrose,D,False,0.6900285,0.11804996,0.12371529,0.06779038,0.00041589202
